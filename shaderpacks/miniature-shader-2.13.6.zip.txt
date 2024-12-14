@@ -1,0 +1,5 @@
+#Sat Dec 14 15:24:51 EST 2024
+SHADOW_PIXEL=0
+shadowDistance=384.0
+shadowIntervalSize=10.0
+shadowMapResolution=4096
