@@ -39,3 +39,15 @@ usercache.json
 options.txt
 
 .fabric/
+
+journeymap/data/
+
+journeymap/server/
+
+voxelmap/
+
+xaero/
+
+crash-reports/
+
+backups/
