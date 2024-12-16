@@ -1,0 +1,7 @@
+#Sun Dec 15 05:47:10 EST 2024
+CAUSTICS=true
+HQ_NOISE=true
+VANILLA_WATER=true
+VERTEX_WAVES=true
+VIBRANCE=20.0
+shadowDistance=256.0
