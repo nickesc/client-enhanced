@@ -1,0 +1,30 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": -3,
+                "bottom": -3
+            },
+            "SETTINGS": {
+                "horizontalOffset": 18,
+                "top": 482
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 33,
+                "top": 497
+            }
+        }
+    },
+    "net.minecraft.class_481": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 18,
+                "top": 482
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 33,
+                "top": 497
+            }
+        }
+    }
+}

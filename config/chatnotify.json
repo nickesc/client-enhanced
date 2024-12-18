@@ -1,0 +1,100 @@
+{
+  "version": 4,
+  "mixinEarly": {
+    "state": "DISABLED"
+  },
+  "debugShowKey": {
+    "state": "DISABLED"
+  },
+  "checkOwnMessages": true,
+  "compatSendMode": false,
+  "soundSource": "PLAYERS",
+  "defaultColor": 16761856,
+  "defaultSound": {
+    "version": 1,
+    "enabled": true,
+    "id": "block.note_block.bell",
+    "volume": 1.0,
+    "pitch": 1.0
+  },
+  "prefixes": [
+    "/shout",
+    "!"
+  ],
+  "notifications": [
+    {
+      "version": 4,
+      "enabled": true,
+      "exclusionEnabled": false,
+      "responseEnabled": false,
+      "blockMessage": false,
+      "sound": {
+        "version": 1,
+        "enabled": true,
+        "id": "block.note_block.bell",
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      "textStyle": {
+        "version": 1,
+        "doColor": true,
+        "color": 16761856,
+        "bold": {
+          "state": "DISABLED"
+        },
+        "italic": {
+          "state": "DISABLED"
+        },
+        "underlined": {
+          "state": "DISABLED"
+        },
+        "strikethrough": {
+          "state": "DISABLED"
+        },
+        "obfuscated": {
+          "state": "DISABLED"
+        }
+      },
+      "titleText": {
+        "version": 1,
+        "enabled": false,
+        "color": 16777215,
+        "text": ""
+      },
+      "triggers": [
+        {
+          "version": 3,
+          "enabled": true,
+          "string": "Goofyshnoofy",
+          "type": "NORMAL"
+        },
+        {
+          "version": 3,
+          "enabled": true,
+          "string": "Goofyshnoofy",
+          "type": "NORMAL"
+        },
+        {
+          "version": 3,
+          "enabled": true,
+          "string": "Goofy",
+          "type": "NORMAL"
+        },
+        {
+          "version": 3,
+          "enabled": true,
+          "string": "Shnoofy",
+          "type": "NORMAL"
+        },
+        {
+          "version": 3,
+          "enabled": true,
+          "string": "Nick",
+          "type": "NORMAL"
+        }
+      ],
+      "exclusionTriggers": [],
+      "responseMessages": []
+    }
+  ]
+}
