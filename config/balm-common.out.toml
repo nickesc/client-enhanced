@@ -55,7 +55,7 @@ disableLogStripping = false
 disableStepAssist = false
 
 # This prevents the last torch in the offhand from being placed.
-doNotUseLastTorch = false
+doNotUseLastTorch = true
 
 # This option will hide your offhand item. It can be toggled via an optional key binding.
 hideOffhandItem = false
