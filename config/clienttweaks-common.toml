@@ -5,10 +5,10 @@ fireworkItems = [ "minecraft:firework_rocket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
 fragileBlocks = [ 
-    "minecraft:budding_amethyst", 
-    "minecraft:large_amethyst_bud", 
+    "minecraft:small_amethyst_bud", 
     "minecraft:medium_amethyst_bud", 
-    "minecraft:small_amethyst_bud"
+    "minecraft:budding_amethyst", 
+    "minecraft:large_amethyst_bud"
 ]
 
 # Items that count as shields for the offhand-shield hiding tweak options.
@@ -55,7 +55,7 @@ disableLogStripping = false
 disableStepAssist = false
 
 # This prevents the last torch in the offhand from being placed.
-doNotUseLastTorch = false
+doNotUseLastTorch = true
 
 # This option will hide your offhand item. It can be toggled via an optional key binding.
 hideOffhandItem = false
