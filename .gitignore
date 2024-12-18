@@ -1,25 +1,25 @@
 
 /assets/
 
-bin/
+/bin/
 
-downloads/
+/downloads/
 
-launcher/
+/launcher/
 
-libraries/
+/libraries/
 
 logs/
 
-runtime/
+/runtime/
 
 saves/
 
-screenshots/
+/screenshots/
 
-versions/
+/versions/
 
-webcache2/
+/webcache2/
 
 launcher_*.*
 
@@ -36,31 +36,29 @@ updateSourceCache.json
 
 usercache.json
 
-options.txt
+/options.txt
 
-.fabric/
+/.fabric/
 
-journeymap/data/
+/journeymap/data/
 
-journeymap/server/
+/journeymap/server/
 
-voxelmap/
+/voxelmap/
 
-xaero/
+/crash-reports/
 
-crash-reports/
+/backups/
 
-backups/
-
-data/
+/data/
 
 shaderpacks/ComplementaryReimagined_r5.3 \+ EuphoriaPatches_1.4.3/
 
 shaderpacks/ComplementaryUnbound_r5.3 \+ EuphoriaPatches_1.4.3/
 
-.physics_mod_cache/
+/.physics_mod_cache/
 
-chesttracker/
+/chesttracker/
 
 cache/
 
