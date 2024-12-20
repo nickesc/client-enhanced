@@ -1,15 +1,12 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-github-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.1.0-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
   <h3 align="center">
     <code>Minecraft Client-Enhanced Modpack</code>
   </h3>
-  <h5 align="center">
-    
-  </h5>
   <h6 align="center">
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
   </h6>
@@ -25,7 +22,7 @@ Client-Enhanced is an overhaul of the current Minecraft client.
 
 Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls. 
 
-And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience for all kinds of hardware (with the addition of a version of the modpack made for [VulkanMod](https://modrinth.com/mod/vulkanmod)). 
+And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience for all kinds of hardware (with the addition of a version of the modpack [made for the Vulkan renderer](#vulkan-version)). 
 
 The pack also includes mods like [Roughly Enough Resources](https://modrinth.com/mod/rei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap. 
 
@@ -61,6 +58,8 @@ And shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-
 - New sounds and a reworked, more realistic sound engine
 - Other fixes and tweaks to controls
 
+See the [Mod List](#mod-list) for a full list of the included mods.
+
 #### Optional
 
 ##### Resource Packs
@@ -71,7 +70,7 @@ There are also alternatives to the container GUI replacements that can be enable
 ##### Shaders
 There are a lot of different options for shaders in the Shader Pack menu. To access that menu, press `O`. By default, the MakeUp - Ultra Fast shader is selected, but there are also options for higher end machines and lower end machines.
 
-##### Enhancements
+##### Hotkeys
 Many of the enhancements included in this modpack can be toggled using hotkeys.
 
 - Pressing `K` will toggle camera changes, including shaders and particle physics
