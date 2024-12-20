@@ -1,6 +1,6 @@
 { 
     "modpack": {
-        "name": "Client-Enhanced",
+        "name": "Client-Enhanced (Vulkan)",
         "id":"client-enhanced",
         "version":"1.0.0",
         "author":"nickesc",
