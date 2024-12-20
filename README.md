@@ -83,7 +83,7 @@ Many of the enhancements included in this modpack can be toggled using hotkeys.
 ### Requirements:
 - Minecraft 1.21.4
 - Git
-- Apple Silicon (M1, M2, etc.) and macOS -- **Untested** on other platforms
+- macOS -- **Untested on other platforms**
 
 ### Instructions
 
