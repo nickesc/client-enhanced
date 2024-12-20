@@ -65,31 +65,13 @@
         {
           "version": 3,
           "enabled": true,
-          "string": "Goofyshnoofy",
+          "string": "Profile name",
           "type": "NORMAL"
         },
         {
           "version": 3,
           "enabled": true,
-          "string": "Goofyshnoofy",
-          "type": "NORMAL"
-        },
-        {
-          "version": 3,
-          "enabled": true,
-          "string": "Goofy",
-          "type": "NORMAL"
-        },
-        {
-          "version": 3,
-          "enabled": true,
-          "string": "Shnoofy",
-          "type": "NORMAL"
-        },
-        {
-          "version": 3,
-          "enabled": true,
-          "string": "Nick",
+          "string": "Display name",
           "type": "NORMAL"
         }
       ],
