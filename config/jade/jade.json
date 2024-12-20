@@ -128,7 +128,7 @@
       -294113569
     ],
     "previewOverlay": true,
-    "hintOverlayToggle": false,
+    "hintOverlayToggle": true,
     "hintNarratorToggle": true
   }
 }
