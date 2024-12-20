@@ -6,10 +6,7 @@
 		"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}",
 		"{mode:\"NOON\",type:\"roughlyenoughitems:time\"}",
 		"{mode:\"EVENING\",type:\"roughlyenoughitems:time\"}",
-		"{mode:\"NIGHT\",type:\"roughlyenoughitems:time\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spruce_trapdoor\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:diorite_wall\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:trader_llama_spawn_egg\"}},type:\"roughlyenoughitems:entry_stack\"}"
+		"{mode:\"NIGHT\",type:\"roughlyenoughitems:time\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
