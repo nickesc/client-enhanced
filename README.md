@@ -1,6 +1,6 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.1.0-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.1.1-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
@@ -90,7 +90,6 @@ Many of the enhancements included in this modpack can be toggled using hotkeys.
 > Make sure to check `Create Profile` when you install Fabric
 
 2. In a terminal, navigate to the folder you want to install the modpack to:
-Ex.:
 ```sh
 cd modpack/directory/path
 ```
@@ -419,6 +418,8 @@ Complementary Shaders - Reignited | [Modrinth](https://modrinth.com/shader/compl
 Euphoria Patches | [Modrinth](https://modrinth.com/mod/euphoria-patches)
 Mellow | [Modrinth](https://modrinth.com/shader/mellow)
 Miniature Shader | [Modrinth](https://modrinth.com/shader/miniature-shader)
+Licorice Shaders | [Modrinth](https://modrinth.com/shader/liquorice)
+CH Motion | [Modrinth](https://modrinth.com/shader/ch-motion)
 
 
 </details>
