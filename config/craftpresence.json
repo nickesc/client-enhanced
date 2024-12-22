@@ -134,8 +134,7 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
-      "Goofyshnoofy": "https://mc-heads.net/avatar/cb31227d4abd4b1fb2072c50ca7b1daa"
+      "default": "https://via.placeholder.com/256.png"
     },
     "dynamicVariables": {
       "default": "Example Text",
