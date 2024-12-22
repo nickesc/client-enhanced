@@ -143,27 +143,7 @@ git pull
 >
 > Keep in mind that updated settings are supposed to make the experience better and more enjoyable, especially if new mods are added to the pack.
 
-## Development:
-Development steps are the same as installation until choosing a version.
 
-Instead, clone the repository and install Physics as normal:
-```sh
-git https://github.com/nickesc/client-enhanced && \
-  client-enhanced/scripts/download-physics.sh
-```
-
-To work on the Vulkan branch:
-```sh
-git checkout vulkan
-```
-
-And to change back to the Main branch:
-```sh
-git checkout main && \
-  client-enhanced/scripts/download-physics.sh
-```
-
-Then proceed with installation instructions.
 
 ## Default Keybindings
 
@@ -208,6 +188,7 @@ Mod | Link
 -|-|
 Lithium | [Modrinth](https://modrinth.com/mod/lithium)
 Ferrite Core | [Modrinth](https://modrinth.com/mod/ferrite-core)
+Concurrent Chunk Management Engine | [Modrinth](https://modrinth.com/mod/c2me-fabric)
 Bad Optimizations | [Modrinth](https://modrinth.com/mod/badoptimizations)
 *Dynamic FPS** | [Modrinth](https://modrinth.com/mod/dynamic-fps)
 Language Reload | [Modrinth](https://modrinth.com/mod/language-reload)
@@ -259,6 +240,7 @@ Mod | Link
 Jade | [Modrinth](https://modrinth.com/mod/jade)
 JourneyMap | [Modrinth](https://modrinth.com/mod/journeymap)
 JourneyMap Web Map | [Modrinth](https://modrinth.com/mod/journeymap-web-map)
+Ayame PaperDoll | [Modrinth](https://modrinth.com/mod/ayame-paperdoll)
 uku's Armor HUD | [Modrinth](https://modrinth.com/mod/ukus-armor-hud)
 Dynamic Crosshair | [Modrinth](https://modrinth.com/mod/dynamiccrosshair)
 Appleskin | [Modrinth](https://modrinth.com/mod/appleskin)
@@ -276,6 +258,7 @@ Current Music Track | [Modrinth](https://modrinth.com/mod/current-game-music-tra
 Mod | Link
 -|-|
 Roughly Enough Resources | [Modrinth](https://modrinth.com/mod/rei)
+Just Enough Breeding | [Modrinth](https://modrinth.com/mod/justenoughbreeding)
 Inventory Profiles Next | [Modrinth](https://modrinth.com/mod/inventory-profiles-next)
 Peek | [Modrinth](https://modrinth.com/mod/peek)
 Durability Tooltip | [Modrinth](https://modrinth.com/mod/durability-tooltip)
@@ -285,10 +268,10 @@ Persistent Inventory Search | [Modrinth](https://modrinth.com/mod/persistent-inv
 
 Mod | Link
 -|-|
+Chat Patches | [Modrinth](https://modrinth.com/mod/chatpatches)
 Chat Notify | [Modrinth](https://modrinth.com/mod/chatnotify)
 Chat Heads | [Modrinth](https://modrinth.com/mod/chat-heads)
 Chat Animation | [Modrinth](https://modrinth.com/mod/chatanimation)
-More Chat History | [Modrinth](https://modrinth.com/mod/morechathistory)
 Chat Signing Hider | [Modrinth](https://modrinth.com/mod/chat-signing-hider)
 
 ##### Window
@@ -300,6 +283,7 @@ Dark Loading Screen | [Modrinth](https://modrinth.com/mod/dark-loading-screen)
 Resourcify | [Modrinth](https://modrinth.com/mod/resourcify)
 Better Statistics Screen | [Modrinth](https://modrinth.com/mod/better-stats/gallery)
 Better Advancements | [Modrinth](https://modrinth.com/mod/better-advancements)
+Better Command Block UI | [Modrinth](https://modrinth.com/mod/bettercommandblockui)
 BetterF3 | [Modrinth](https://modrinth.com/mod/betterf3)
 Blur+ | [Modrinth](https://modrinth.com/mod/blur-plus)
 Cursor Anchor | [Modrinth](https://modrinth.com/mod/cursor-anchor)
@@ -318,6 +302,7 @@ Mod | Link
 Not Enough Animations | [Modrinth](https://modrinth.com/mod/not-enough-animations)
 3D Skin Layers | [Modrinth](https://modrinth.com/mod/3dskinlayers)
 Wavey Capes | [Modrinth](https://modrinth.com/mod/wavey-capes)
+Capes | [Modrinth](https://modrinth.com/mod/capes)
 *YDM's Weapon Master** | [Modrinth](https://modrinth.com/mod/weaponmaster)
 
 ##### Camera
@@ -352,6 +337,7 @@ Entity Texture Features | [Modrinth](https://modrinth.com/mod/entitytexturefeatu
 Entity Model Features | [Modrinth](https://modrinth.com/mod/entity-model-features)
 OptiGUI | [Modrinth](https://modrinth.com/mod/optigui)
 LambDynamicLights | [Modrinth](https://modrinth.com/mod/lambdynamiclights)
+Capes | [Modrinth](https://modrinth.com/mod/capes)
 
 ##### Sound
 
@@ -443,3 +429,24 @@ CH Motion | [Modrinth](https://modrinth.com/shader/ch-motion)
 
 </details>
 
+## Development:
+Development steps are the same as installation until choosing a version.
+
+Instead, clone the repository and install Physics as normal:
+```sh
+git https://github.com/nickesc/client-enhanced && \
+  client-enhanced/scripts/download-physics.sh
+```
+
+To work on the Vulkan branch:
+```sh
+git checkout vulkan
+```
+
+And to change back to the Main branch:
+```sh
+git checkout main && \
+  client-enhanced/scripts/download-physics.sh
+```
+
+Then proceed with installation instructions.
