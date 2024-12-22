@@ -16,7 +16,7 @@ prioritizeChunkUpdates:0
 fullscreen:false
 gamma:1.0
 graphicsMode:1
-guiScale:4
+guiScale:5
 maxFps:60
 inactivityFpsLimit:"afk"
 mipmapLevels:4
@@ -131,6 +131,7 @@ key_key.fabrishot.screenshot:key.keyboard.f10
 key_key.whereisit.search:key.keyboard.v
 key_key.ayame_paperdoll.showPaperDoll:key.keyboard.j
 key_key.ayame_paperdoll.openConfigGui:key.keyboard.unknown
+key_key.bcbui.areaselectioninput:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.chesttracker.open_gui:key.keyboard.c
 key_chunksfadein.keybinds.toggleMod:key.keyboard.k
