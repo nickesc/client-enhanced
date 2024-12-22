@@ -21,7 +21,7 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@Goofyshnoofy"
+
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
