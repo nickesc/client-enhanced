@@ -28,10 +28,12 @@ The pack also includes mods like [Roughly Enough Resources](https://modrinth.com
 
 Resource packs like [3D Default](https://modrinth.com/resourcepack/3d-default) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
 
-And shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [LITE](https://modrinth.com/shader/lite-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
+And shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [LITE Shaders](https://modrinth.com/shader/lite-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
 
 > [!CAUTION]
-> Client-Enhanced is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. DO NOT connect to a server while using Client-Enhanced unless you know that the mods in this modpack are permitted on that server.
+> Client-Enhanced is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
+> 
+> ***DO NOT*** connect to a server while using Client-Enhanced unless you know that the mods in this modpack are permitted on that server.
 
 #### Other notable features:
 - Client side only
@@ -128,6 +130,16 @@ cd modpack/directory/path
 4. Move the profile the Fabric installer made to the modpack folder using the Minecraft Launcher: [How to change your Game Directory in Minecraft](https://minecrafthopper.net/help/guides/changing-game-directory/)
 
 5. Launch the Fabric profile from the launcher and enjoy!
+
+### Updating
+
+To update either version of the modpack, execute the following command in the terminal from the modpack's directory:
+```
+git pull
+```
+
+> [!NOTE]
+> Some changed settings may be overwritten during modpack updates
 
 ## Development:
 Development steps are the same as installation until choosing a version.
@@ -320,6 +332,7 @@ Mod | Link
 *Physics Mod** | [Modrinth](https://modrinth.com/mod/physicsmod)
 Visuality | [Modrinth](https://modrinth.com/mod/visuality)
 Falling Leaves | [Modrinth](https://modrinth.com/mod/fallingleaves)
+*Explosive Enhancement** | [Modrinth](https://modrinth.com/mod/explosive-enhancement)
 *Chunks Fade In** | [Modrinth](https://modrinth.com/mod/chunks-fade-in)
 cat_jam | [Modrinth](https://modrinth.com/mod/cat_jam)
 
