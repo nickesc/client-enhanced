@@ -129,6 +129,8 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_bettershields.toggleSounds:key.keyboard.l
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.whereisit.search:key.keyboard.v
+key_key.ayame_paperdoll.showPaperDoll:key.keyboard.j
+key_key.ayame_paperdoll.openConfigGui:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.chesttracker.open_gui:key.keyboard.c
 key_chunksfadein.keybinds.toggleMod:key.keyboard.k
@@ -148,7 +150,7 @@ key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.s
 key_key.entityculling.toggle:key.keyboard.l
-key_key.firstperson.toggle:key.keyboard.f6
+key_key.firstperson.toggle:key.keyboard.f7
 key_fullbrightnesstoggle.key.togglebrightness:key.keyboard.g
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.j
@@ -161,7 +163,7 @@ key_key.jade.profile.2:key.keyboard.unknown
 key_key.jade.profile.3:key.keyboard.unknown
 key_key.journeymap.zoom_in:key.keyboard.equal
 key_key.journeymap.zoom_out:key.keyboard.minus
-key_key.journeymap.minimap_type:key.mouse.left
+key_key.journeymap.minimap_type:key.keyboard.left.bracket
 key_key.journeymap.minimap_preset:key.keyboard.backslash
 key_key.journeymap.create_waypoint:key.keyboard.b
 key_key.journeymap.toggle_render_waypoints:key.keyboard.unknown
@@ -189,8 +191,8 @@ key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.f12
 key_physicsmod.keybinding.guiphysics:key.keyboard.unknown
-key_physicsmod.keybinding.physicsmenu:key.keyboard.f7
-key_physicsmod.keybinding.togglephysics:key.keyboard.unknown
+key_physicsmod.keybinding.physicsmenu:key.keyboard.unknown
+key_physicsmod.keybinding.togglephysics:key.keyboard.k
 key_physicsmod.keybinding.debug:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.shouldersurfing.adjust_camera_left:key.keyboard.left
