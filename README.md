@@ -5,7 +5,7 @@
   <img src="config/fancymenu/assets/minecraft_title.png">
 
   <h3 align="center">
-    <code>Minecraft Client-Enhanced Modpack</code>
+    Minecraft <code>Client-Enhanced</code> Modpack
   </h3>
   <h6 align="center">
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
@@ -139,7 +139,9 @@ git pull
 ```
 
 > [!NOTE]
-> Some changed settings may be overwritten during modpack updates
+> Some settings changed by the user may be overwritten during modpack updates -- make backups of your `options.txt` file and `config/` folder if you want to make sure your settings stay the same as they were before the update.
+>
+> Keep in mind that updated settings are supposed to make the experience better and more enjoyable, especially if new mods are added to the pack.
 
 ## Development:
 Development steps are the same as installation until choosing a version.
@@ -162,6 +164,10 @@ git checkout main && \
 ```
 
 Then proceed with installation instructions.
+
+## Default Keybindings
+
+![Client-Enhanced Keybindings](client-enhanced/keybinds/keyboard-layout.png)
 
 ## Mod List
 
