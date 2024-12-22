@@ -1,7 +1,0 @@
-{
-  "blockInputsWhenPlaying": true,
-  "ignoreMenuNavigation": true,
-  "ignoreChatTyping": true,
-  "moveMouseWhenPlaying": false,
-  "shouldRenderHud": true
-}
