@@ -1,6 +1,6 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.1-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.2-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
@@ -189,6 +189,7 @@ Mod | Link
 Lithium | [Modrinth](https://modrinth.com/mod/lithium)
 Ferrite Core | [Modrinth](https://modrinth.com/mod/ferrite-core)
 Concurrent Chunk Management Engine | [Modrinth](https://modrinth.com/mod/c2me-fabric)
+Modern Fix | [Modrinth](https://modrinth.com/mod/modernfix)
 Bad Optimizations | [Modrinth](https://modrinth.com/mod/badoptimizations)
 *Dynamic FPS** | [Modrinth](https://modrinth.com/mod/dynamic-fps)
 Language Reload | [Modrinth](https://modrinth.com/mod/language-reload)
@@ -313,6 +314,7 @@ Camera Overhaul | [Modrinth](https://modrinth.com/mod/cameraoverhaul)
 Shoulder Surfing Reloaded | [Modrinth](https://modrinth.com/mod/shoulder-surfing-reloaded)
 First-person Model | [Modrinth](https://modrinth.com/mod/first-person-model)
 Do a Barrel Roll | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll)
+DeathView | [Modrinth](https://modrinth.com/mod/deathview)
 Full Brightness Toggle | [Modrinth](https://modrinth.com/mod/full-brightness-toggle)
 Zoomify | [Modrinth](https://modrinth.com/mod/zoomify)
 *Fabrishot** | [Modrinth](https://modrinth.com/mod/fabrishot)
