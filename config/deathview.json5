@@ -1,0 +1,13 @@
+{
+	// Death screen settings
+	"screen": {
+		// Whether or not to fade in the screen after death
+		"fade": true,
+		// The delay before the screen starts to fade in
+		"fadeDelay": 30,
+		// The duration of the screen fade in
+		"fadeDuration": 40
+	},
+	// How far back to check for solid blocks before switching to the front third person view on death
+	"backCheck": 2.5
+}

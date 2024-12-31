@@ -1,6 +1,6 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.1-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.2-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
@@ -11,7 +11,7 @@
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
   </h6>
   <h6 align="center">
-    a client side Minecraft modpack that aims<br>
+    a client-side Minecraft modpack that aims<br>
     to overhaul and modernize the experience
   </h6>
 </h3>
@@ -189,6 +189,7 @@ Mod | Link
 Lithium | [Modrinth](https://modrinth.com/mod/lithium)
 Ferrite Core | [Modrinth](https://modrinth.com/mod/ferrite-core)
 Concurrent Chunk Management Engine | [Modrinth](https://modrinth.com/mod/c2me-fabric)
+Modern Fix | [Modrinth](https://modrinth.com/mod/modernfix)
 Bad Optimizations | [Modrinth](https://modrinth.com/mod/badoptimizations)
 *Dynamic FPS** | [Modrinth](https://modrinth.com/mod/dynamic-fps)
 Language Reload | [Modrinth](https://modrinth.com/mod/language-reload)
@@ -313,6 +314,7 @@ Camera Overhaul | [Modrinth](https://modrinth.com/mod/cameraoverhaul)
 Shoulder Surfing Reloaded | [Modrinth](https://modrinth.com/mod/shoulder-surfing-reloaded)
 First-person Model | [Modrinth](https://modrinth.com/mod/first-person-model)
 Do a Barrel Roll | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll)
+DeathView | [Modrinth](https://modrinth.com/mod/deathview)
 Full Brightness Toggle | [Modrinth](https://modrinth.com/mod/full-brightness-toggle)
 Zoomify | [Modrinth](https://modrinth.com/mod/zoomify)
 *Fabrishot** | [Modrinth](https://modrinth.com/mod/fabrishot)
@@ -335,6 +337,7 @@ Mod | Link
 *Iris** | [Modrinth](https://modrinth.com/mod/iris)
 Entity Texture Features | [Modrinth](https://modrinth.com/mod/entitytexturefeatures)
 Entity Model Features | [Modrinth](https://modrinth.com/mod/entity-model-features)
+Continuity | [Modrinth](https://modrinth.com/mod/continuity)
 OptiGUI | [Modrinth](https://modrinth.com/mod/optigui)
 LambDynamicLights | [Modrinth](https://modrinth.com/mod/lambdynamiclights)
 Capes | [Modrinth](https://modrinth.com/mod/capes)
