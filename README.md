@@ -11,7 +11,7 @@
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
   </h6>
   <h6 align="center">
-    a client side Minecraft modpack that aims<br>
+    a client-side Minecraft modpack that aims<br>
     to overhaul and modernize the experience
   </h6>
 </h3>
@@ -335,6 +335,7 @@ Mod | Link
 *Iris** | [Modrinth](https://modrinth.com/mod/iris)
 Entity Texture Features | [Modrinth](https://modrinth.com/mod/entitytexturefeatures)
 Entity Model Features | [Modrinth](https://modrinth.com/mod/entity-model-features)
+Continuity | [Modrinth](https://modrinth.com/mod/continuity)
 OptiGUI | [Modrinth](https://modrinth.com/mod/optigui)
 LambDynamicLights | [Modrinth](https://modrinth.com/mod/lambdynamiclights)
 Capes | [Modrinth](https://modrinth.com/mod/capes)
