@@ -1,19 +1,21 @@
 
 <h3 align="center" >
   <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.3-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
-  <a href="https://github.com/CaffeineMC/sodium"><img alt="Renderer: Sodium" src="https://img.shields.io/badge/renderer-sodium-%2383cc72?style=for-the-badge&labelColor=%23505050"></a>
+  <a href="https://github.com/xCollateral/VulkanMod"><img alt="Renderer: Vulkan" src="https://img.shields.io/badge/renderer-vulkan-red?style=for-the-badge&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
   <h3 align="center">
-    Minecraft <code>Client-Enhanced</code> Modpack
+    Minecraft <code>Client-Enhanced</code> Modpack<br>
+    <code><i>(Vulkan)</i></code>
   </h3>
   <h6 align="center">
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
   </h6>
   <h6 align="center">
     a client-side Minecraft modpack that aims<br>
-    to overhaul and modernize the experience
+    to overhaul and modernize the experience,<br>
+    built for the Vulkan renderer
   </h6>
 </h3>
 
