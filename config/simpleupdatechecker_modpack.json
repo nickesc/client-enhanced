@@ -1,7 +1,7 @@
 {
-  "project_id": "client-enhanced",
+  "project_id": "client-enhanced-vulkan",
   "version_id": "1.2.3",
-  "display_name": "Client-Enhanced",
+  "display_name": "Client-Enhanced (Vulkan)",
   "display_version": "",
   "release_type": [
     "alpha",
