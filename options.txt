@@ -16,8 +16,8 @@ prioritizeChunkUpdates:0
 fullscreen:false
 gamma:1.0
 graphicsMode:1
-maxFps:260
 guiScale:5
+maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -124,10 +124,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.l
 key_bettershields.toggleSounds:key.keyboard.l
-key_key.fabrishot.screenshot:key.keyboard.f10
 key_key.whereisit.search:key.keyboard.v
 key_key.ayame_paperdoll.showPaperDoll:key.keyboard.j
 key_key.ayame_paperdoll.openConfigGui:key.keyboard.unknown
@@ -192,10 +189,6 @@ key_key.midnightcontrols.look_left:key.keyboard.unknown
 key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.grave.accent
 key_key.optigui.inspect:key.keyboard.f12
-key_physicsmod.keybinding.guiphysics:key.keyboard.unknown
-key_physicsmod.keybinding.physicsmenu:key.keyboard.unknown
-key_physicsmod.keybinding.togglephysics:key.keyboard.k
-key_physicsmod.keybinding.debug:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.shouldersurfing.adjust_camera_left:key.keyboard.left
 key_key.shouldersurfing.adjust_camera_right:key.keyboard.right
@@ -208,7 +201,6 @@ key_key.shouldersurfing.toggle_perspective:key.keyboard.caps.lock
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
 key_armorhud.keybind.toggle:key.keyboard.j
-key_key.weaponmaster_ydm.opengui:key.keyboard.i
 key_key.whatdidijustkill.toggle_toasts:key.keyboard.j
 key_zoomify.key.zoom:key.keyboard.left.alt
 key_zoomify.key.zoom.secondary:key.keyboard.delete
