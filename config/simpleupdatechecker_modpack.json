@@ -1,0 +1,13 @@
+{
+  "project_id": "client-enhanced",
+  "version_id": "1.2.3",
+  "display_name": "Client-Enhanced",
+  "display_version": "",
+  "release_type": [
+    "alpha",
+    "beta",
+    "release"
+  ],
+  "max_exclusive_version": "1.21.4",
+  "use_version_number_for_display": true
+}

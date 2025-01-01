@@ -1,6 +1,6 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.2-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.3-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
@@ -369,6 +369,7 @@ ViaFabricPlus | [Modrinth](https://modrinth.com/mod/viafabricplus)
 Auth Me | [Modrinth](https://modrinth.com/mod/auth-me)
 No Chat Reports | [Modrinth](https://modrinth.com/mod/no-chat-reports)
 Not Enough Crashes | [Modrinth](https://modrinth.com/mod/notenoughcrashes)
+Simple Update Checker | [Modrinth](https://modrinth.com/mod/simple-update-checker)
 CraftPresence | [Modrinth](https://modrinth.com/mod/craftpresence)
 
 </details>
