@@ -19,6 +19,8 @@
 
 ## Overview
 
+![Title Screen](client-enhanced/img/title-screen.png)
+
 Client-Enhanced is an overhaul of the current Minecraft client.
 
 Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls. 
@@ -27,9 +29,13 @@ And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://mo
 
 The pack also includes mods like [Roughly Enough Resources](https://modrinth.com/mod/rei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap. 
 
+![Mod Menu](client-enhanced/img/mod-menu.png)
+
 Resource packs like [3D Default](https://modrinth.com/resourcepack/3d-default) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
 
-And shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [LITE Shaders](https://modrinth.com/shader/lite-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
+Shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [LITE Shaders](https://modrinth.com/shader/lite-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
+
+![Shader load-in](client-enhanced/img/load-in.gif)
 
 > [!CAUTION]
 > Client-Enhanced is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
