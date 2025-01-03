@@ -29,13 +29,12 @@ And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://mo
 
 The pack also includes mods like [Roughly Enough Resources](https://modrinth.com/mod/rei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap. 
 
-![Mod Menu](client-enhanced/img/mod-menu.png)
-
 Resource packs like [3D Default](https://modrinth.com/resourcepack/3d-default) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
 
 Shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [LITE Shaders](https://modrinth.com/shader/lite-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
 
-![Shader load-in](client-enhanced/img/load-in.gif)
+[![Shader load-in](client-enhanced/img/load-in/optimized.gif)](client-enhanced/img/load-in/load-in.mp4)
+> Click the `.gif` to see shader load-in in realtime and full resolution
 
 > [!CAUTION]
 > Client-Enhanced is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
@@ -157,6 +156,8 @@ git pull
 ![Client-Enhanced Keybindings](client-enhanced/keybinds/keyboard-layout.png)
 
 ## Mod List
+
+![Mod Menu](client-enhanced/img/mod-menu.png)
 
 > *\* = not included in the Vulkan version of the modpack*
 
@@ -435,8 +436,12 @@ Euphoria Patches | [Modrinth](https://modrinth.com/mod/euphoria-patches)
 Mellow | [Modrinth](https://modrinth.com/shader/mellow)
 Miniature Shader | [Modrinth](https://modrinth.com/shader/miniature-shader)
 Licorice Shaders | [Modrinth](https://modrinth.com/shader/liquorice)
+Open4ES Renewed | [Modrinth](https://modrinth.com/shader/open4es-renewed)
+Simply Upscaled | [Modrinth](https://modrinth.com/shader/simply-upscaled)
+BVS - Best Vanilla Shader | [Modrinth](https://modrinth.com/shader/bvs)
+Vanilletix Reimagined | [Modrinth](https://modrinth.com/shader/vanilletix)
 CH Motion | [Modrinth](https://modrinth.com/shader/ch-motion)
-
+DepthField | [Modrinth](https://modrinth.com/shader/depthfield)
 
 </details>
 
