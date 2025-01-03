@@ -267,6 +267,7 @@ Provi's Health Bars | [Modrinth](https://modrinth.com/mod/provis-health-bars)
 What Did I Just Kill? | [Modrinth](https://modrinth.com/mod/what-did-i-just-kill)
 Status Effect Bars | [Modrinth](https://modrinth.com/mod/status-effect-bars)
 Current Music Track | [Modrinth](https://modrinth.com/mod/current-game-music-track)
+Better Ping Display | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric)
 
 ##### Inventory
 
