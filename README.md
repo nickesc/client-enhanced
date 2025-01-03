@@ -392,6 +392,7 @@ Auth Me | [Modrinth](https://modrinth.com/mod/auth-me)
 No Chat Reports | [Modrinth](https://modrinth.com/mod/no-chat-reports)
 Not Enough Crashes | [Modrinth](https://modrinth.com/mod/notenoughcrashes)
 Simple Update Checker | [Modrinth](https://modrinth.com/mod/simple-update-checker)
+Screenshot Organization | [Modrinth](https://modrinth.com/mod/screenshot-organisation)
 CraftPresence | [Modrinth](https://modrinth.com/mod/craftpresence)
 
 </details>
