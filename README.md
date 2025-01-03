@@ -234,6 +234,7 @@ Mod | Link
 -|-|
 Debugify | [Modrinth](https://modrinth.com/mod/debugify) 
 Shift-Scroll Fix for macOS | [Modrinth](https://modrinth.com/mod/shift-scroll-fix)
+Mc122477Fix re updated | [Modrinth](https://modrinth.com/mod/mc122477fix-re-updated)
 No Resource Pack Warnings | [Modrinth](https://modrinth.com/mod/no-resource-pack-warnings)
 Yeetus Experimentus | [Modrinth](https://modrinth.com/mod/yeetus-experimentus)
 Axolotl Buckets | [Modrinth](https://modrinth.com/mod/axolotl-buckets)
