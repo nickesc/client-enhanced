@@ -2,7 +2,7 @@
     "modpack": {
         "name": "Client-Enhanced",
         "id":"client-enhanced",
-        "version":"1.2.3",
+        "version":"1.2.4",
         "author":"nickesc",
         "source":"https://github.com/nickesc/client-enhanced",
         "target_mc_version":"1.21.4",
