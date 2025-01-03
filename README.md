@@ -337,6 +337,7 @@ Zoomify | [Modrinth](https://modrinth.com/mod/zoomify)
 *Fabrishot** | [Modrinth](https://modrinth.com/mod/fabrishot)
 
 ##### Visual
+
 Mod | Link
 -|-|
 *Physics Mod** | [Modrinth](https://modrinth.com/mod/physicsmod)
@@ -385,6 +386,7 @@ Mouse Tweaks | [Modrinth](https://modrinth.com/mod/mouse-tweaks)
 Mod | Link
 -|-|
 e4mc | [Modrinth](https://modrinth.com/mod/e4mc)
+Custom LAN | [Modrinth](https://modrinth.com/mod/custom-lan)
 ViaFabricPlus | [Modrinth](https://modrinth.com/mod/viafabricplus)
 Auth Me | [Modrinth](https://modrinth.com/mod/auth-me)
 No Chat Reports | [Modrinth](https://modrinth.com/mod/no-chat-reports)
