@@ -374,6 +374,7 @@ Mod | Link
 -|-|
 Sound Physics Remastered | [Modrinth](https://modrinth.com/mod/sound-physics-remastered)
 Sounds | [Modrinth](https://modrinth.com/mod/sound)
+Sound Controller | [Modrinth](https://modrinth.com/mod/sound-controller)
 Pling | [Modrinth](https://modrinth.com/mod/pling)
 
 ##### Controls
