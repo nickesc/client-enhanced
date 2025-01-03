@@ -301,6 +301,7 @@ Better Command Block UI | [Modrinth](https://modrinth.com/mod/bettercommandblock
 BetterF3 | [Modrinth](https://modrinth.com/mod/betterf3)
 Blur+ | [Modrinth](https://modrinth.com/mod/blur-plus)
 Server Country Flags | [Modrinth](https://modrinth.com/mod/server-country-flags)
+World Play Time | [Modrinth](https://modrinth.com/mod/world-play-time)
 Cursor Anchor | [Modrinth](https://modrinth.com/mod/cursor-anchor)
 Smooth Scrolling | [Modrinth](https://modrinth.com/mod/smooth-scroll)
 *Cubes Without Borders** | [Modrinth](https://modrinth.com/mod/cubes-without-borders)
