@@ -187,6 +187,7 @@ Forge Config API Port | [Modrinth](https://modrinth.com/mod/forge-config-api-por
 oωo (owo-lib) | [Modrinth](https://modrinth.com/mod/owo-lib)
 TxniLib | [Modrinth](https://modrinth.com/mod/txnilib)
 Searchables | [Modrinth](https://modrinth.com/mod/searchables)
+Yung's API | [Modrinth](https://modrinth.com/mod/yungs-api)
 
 </details>
 
@@ -268,6 +269,7 @@ Provi's Health Bars | [Modrinth](https://modrinth.com/mod/provis-health-bars)
 What Did I Just Kill? | [Modrinth](https://modrinth.com/mod/what-did-i-just-kill)
 Status Effect Bars | [Modrinth](https://modrinth.com/mod/status-effect-bars)
 Current Music Track | [Modrinth](https://modrinth.com/mod/current-game-music-track)
+Traveller's Titles | [Modrinth](https://modrinth.com/mod/travelers-titles)
 Better Ping Display | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric)
 Colorful Subtitles | [Modrinth](https://modrinth.com/mod/colorful-subtitles)
 
