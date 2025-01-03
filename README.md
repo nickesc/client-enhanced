@@ -387,6 +387,7 @@ Mouse Tweaks | [Modrinth](https://modrinth.com/mod/mouse-tweaks)
 Mod | Link
 -|-|
 Mods Command | [Modrinth](https://modrinth.com/mod/searchables)
+Simple Item Editor | [Modrinth](https://modrinth.com/mod/simple-item-editor)
 
 ##### Client
 
