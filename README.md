@@ -184,6 +184,7 @@ Melody | [Modrinth](https://modrinth.com/mod/melody)
 TCDCommons API | [Modrinth](https://modrinth.com/mod/tcdcommons)
 M.R.U | [Modrinth](https://modrinth.com/mod/mru)
 Forge Config API Port | [Modrinth](https://modrinth.com/mod/forge-config-api-port)
+oωo (owo-lib) | [Modrinth](https://modrinth.com/mod/owo-lib)
 
 </details>
 
@@ -332,6 +333,7 @@ Mod | Link
 -|-|
 *Physics Mod** | [Modrinth](https://modrinth.com/mod/physicsmod)
 Visuality | [Modrinth](https://modrinth.com/mod/visuality)
+Particular | [Modrinth](https://modrinth.com/mod/particular)
 Falling Leaves | [Modrinth](https://modrinth.com/mod/fallingleaves)
 Fog | [Modrinth](https://modrinth.com/mod/fog)
 *Explosive Enhancement** | [Modrinth](https://modrinth.com/mod/explosive-enhancement)
