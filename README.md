@@ -335,6 +335,7 @@ Mod | Link
 Visuality | [Modrinth](https://modrinth.com/mod/visuality)
 Particular | [Modrinth](https://modrinth.com/mod/particular)
 Falling Leaves | [Modrinth](https://modrinth.com/mod/fallingleaves)
+Make Bubbles Pop | [Modrinth](https://modrinth.com/mod/make_bubbles_pop)
 Fog | [Modrinth](https://modrinth.com/mod/fog)
 *Explosive Enhancement** | [Modrinth](https://modrinth.com/mod/explosive-enhancement)
 *Chunks Fade In** | [Modrinth](https://modrinth.com/mod/chunks-fade-in)
