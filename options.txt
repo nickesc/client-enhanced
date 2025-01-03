@@ -154,6 +154,12 @@ key_key.entityculling.toggle:key.keyboard.l
 key_key.firstperson.toggle:key.keyboard.f6
 key_key.fog.toggle:key.keyboard.g
 key_fullbrightnesstoggle.key.togglebrightness:key.keyboard.g
+key_key.healthindicators.renderingEnabled:key.keyboard.j
+key_key.healthindicators.armorRenderingEnabled:key.keyboard.unknown
+key_key.healthindicators.overrideAllFilters:key.keyboard.unknown
+key_key.healthindicators.increaseHeartOffset:key.keyboard.unknown
+key_key.healthindicators.decreaseHeartOffset:key.keyboard.unknown
+key_key.healthindicators.openModMenuConfig:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.j
 key_key.jade.toggle_liquid:key.keyboard.unknown
