@@ -389,6 +389,7 @@ Mod | Link
 -|-|
 Mods Command | [Modrinth](https://modrinth.com/mod/searchables)
 Simple Item Editor | [Modrinth](https://modrinth.com/mod/simple-item-editor)
+Simple Update Checker | [Modrinth](https://modrinth.com/mod/simple-update-checker)
 
 ##### Client
 
@@ -401,7 +402,6 @@ Auth Me | [Modrinth](https://modrinth.com/mod/auth-me)
 No Chat Reports | [Modrinth](https://modrinth.com/mod/no-chat-reports)
 Not Enough Crashes | [Modrinth](https://modrinth.com/mod/notenoughcrashes)
 Too Many Shortcuts | [Modrinth](https://modrinth.com/mod/too-many-shortcuts)
-Simple Update Checker | [Modrinth](https://modrinth.com/mod/simple-update-checker)
 Screenshot Organization | [Modrinth](https://modrinth.com/mod/screenshot-organisation)
 CraftPresence | [Modrinth](https://modrinth.com/mod/craftpresence)
 
