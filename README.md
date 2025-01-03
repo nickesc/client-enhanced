@@ -240,6 +240,7 @@ Axolotl Buckets | [Modrinth](https://modrinth.com/mod/axolotl-buckets)
 Better Shields | [Modrinth](https://modrinth.com/mod/bettershields)
 Fast IP Ping | [Modrinth](https://modrinth.com/mod/fast-ip-ping)
 No Telemetry | [Modrinth](https://modrinth.com/mod/no-telemetry)
+GPUTape | [Modrinth](https://modrinth.com/mod/gputape)
 
 </details>
 
