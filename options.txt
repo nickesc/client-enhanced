@@ -215,6 +215,7 @@ key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
+key_key.togglesubtitles.toggle-subtitles:key.keyboard.apostrophe
 key_key.too_many_shortcuts.alternative_escape:key.keyboard.unknown
 key_key.too_many_shortcuts.toggle_auto_jump:key.keyboard.unknown
 key_key.too_many_shortcuts.toggle_cape:key.keyboard.unknown

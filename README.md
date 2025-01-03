@@ -272,6 +272,7 @@ Current Music Track | [Modrinth](https://modrinth.com/mod/current-game-music-tra
 Traveller's Titles | [Modrinth](https://modrinth.com/mod/travelers-titles)
 Better Ping Display | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric)
 Colorful Subtitles | [Modrinth](https://modrinth.com/mod/colorful-subtitles)
+Toggle Subtitles | [Modrinth](https://modrinth.com/mod/toggle-subtitles)
 
 ##### Inventory
 
