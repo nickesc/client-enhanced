@@ -382,6 +382,12 @@ ClickThrough Plus | [Modrinth](https://modrinth.com/mod/clickthrough+)
 Client Tweaks | [Modrinth](https://modrinth.com/mod/client-tweaks)
 Mouse Tweaks | [Modrinth](https://modrinth.com/mod/mouse-tweaks)
 
+##### Commands
+
+Mod | Link
+-|-|
+Mods Command | [Modrinth](https://modrinth.com/mod/searchables)
+
 ##### Client
 
 Mod | Link
