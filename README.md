@@ -354,7 +354,7 @@ Entity Texture Features | [Modrinth](https://modrinth.com/mod/entitytexturefeatu
 Entity Model Features | [Modrinth](https://modrinth.com/mod/entity-model-features)
 Continuity | [Modrinth](https://modrinth.com/mod/continuity)
 OptiGUI | [Modrinth](https://modrinth.com/mod/optigui)
-LambDynamicLights | [Modrinth](https://modrinth.com/mod/lambdynamiclights)
+Sodium Dynamic Lights | [Modrinth](https://modrinth.com/mod/sodium-dynamic-lights)
 Capes | [Modrinth](https://modrinth.com/mod/capes)
 
 ##### Sound
