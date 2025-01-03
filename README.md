@@ -186,6 +186,7 @@ M.R.U | [Modrinth](https://modrinth.com/mod/mru)
 Forge Config API Port | [Modrinth](https://modrinth.com/mod/forge-config-api-port)
 oωo (owo-lib) | [Modrinth](https://modrinth.com/mod/owo-lib)
 TxniLib | [Modrinth](https://modrinth.com/mod/txnilib)
+Searchables | [Modrinth](https://modrinth.com/mod/searchables)
 
 </details>
 
