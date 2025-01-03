@@ -86,6 +86,11 @@
                 "keys": ""
             }
         },
+        "sort_inventory": {
+            "main": {
+                "keys": "COMMA"
+            }
+        },
         "move_all_items": {
             "main": {
                 "keys": ""
