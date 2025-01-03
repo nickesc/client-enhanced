@@ -333,6 +333,7 @@ Mod | Link
 *Physics Mod** | [Modrinth](https://modrinth.com/mod/physicsmod)
 Visuality | [Modrinth](https://modrinth.com/mod/visuality)
 Falling Leaves | [Modrinth](https://modrinth.com/mod/fallingleaves)
+Fog | [Modrinth](https://modrinth.com/mod/fog)
 *Explosive Enhancement** | [Modrinth](https://modrinth.com/mod/explosive-enhancement)
 *Chunks Fade In** | [Modrinth](https://modrinth.com/mod/chunks-fade-in)
 cat_jam | [Modrinth](https://modrinth.com/mod/cat_jam)

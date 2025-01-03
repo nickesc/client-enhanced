@@ -152,6 +152,7 @@ key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.s
 key_key.entityculling.toggle:key.keyboard.l
 key_key.firstperson.toggle:key.keyboard.f6
+key_key.fog.toggle:key.keyboard.g
 key_fullbrightnesstoggle.key.togglebrightness:key.keyboard.g
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.j
