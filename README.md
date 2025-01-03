@@ -185,6 +185,7 @@ TCDCommons API | [Modrinth](https://modrinth.com/mod/tcdcommons)
 M.R.U | [Modrinth](https://modrinth.com/mod/mru)
 Forge Config API Port | [Modrinth](https://modrinth.com/mod/forge-config-api-port)
 oωo (owo-lib) | [Modrinth](https://modrinth.com/mod/owo-lib)
+TxniLib | [Modrinth](https://modrinth.com/mod/txnilib)
 
 </details>
 
@@ -217,6 +218,8 @@ Mod | Link
 *Sodium** | [Modrinth](https://modrinth.com/mod/sodium)
 *Sodium Extra** | [Modrinth](https://modrinth.com/mod/sodium-extra)
 *Reese's Sodium Options** | [Modrinth](https://modrinth.com/mod/reeses-sodium-options)
+*Sodium Options API** | [Modrinth](https://modrinth.com/mod/sodium-options-api)
+*Sodium Options Mod Compat** | [Modrinth](https://modrinth.com/mod/sodium-options-mod-compat)
 ImmediatelyFast | [Modrinth](https://modrinth.com/mod/immediatelyfast)
 Entity Culling | [Modrinth](https://modrinth.com/mod/entityculling)
 More Culling | [Modrinth](https://modrinth.com/mod/moreculling)
