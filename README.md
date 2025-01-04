@@ -153,7 +153,7 @@ git pull
 
 ## Default Keybindings
 
-![Client-Enhanced Keybindings](client-enhanced/keybinds/keyboard-layout.png)
+![Client-Enhanced Keybindings](client-enhanced/graphics/keybinds/keyboard-layout.png)
 
 ## Mod List
 
@@ -187,7 +187,7 @@ Forge Config API Port | [Modrinth](https://modrinth.com/mod/forge-config-api-por
 oωo (owo-lib) | [Modrinth](https://modrinth.com/mod/owo-lib)
 TxniLib | [Modrinth](https://modrinth.com/mod/txnilib)
 Searchables | [Modrinth](https://modrinth.com/mod/searchables)
-Yung's API | [Modrinth](https://modrinth.com/mod/yungs-api)
+YUNG's API | [Modrinth](https://modrinth.com/mod/yungs-api)
 
 </details>
 
@@ -381,8 +381,7 @@ Pling | [Modrinth](https://modrinth.com/mod/pling)
 
 Mod | Link
 -|-|
-MidnightControls | [Modrinth](https://modrinth.com/mod/midnightcontrols)
-MidnightControlsExtra | [Modrinth](https://modrinth.com/mod/midnightcontrols-extra)
+Controlify | [Modrinth](https://modrinth.com/mod/controlify)
 ClickThrough Plus | [Modrinth](https://modrinth.com/mod/clickthrough+)
 Client Tweaks | [Modrinth](https://modrinth.com/mod/client-tweaks)
 Mouse Tweaks | [Modrinth](https://modrinth.com/mod/mouse-tweaks)

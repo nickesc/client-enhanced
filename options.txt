@@ -191,11 +191,6 @@ key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen_follow_player:key.keyboard.h
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.unknown
-key_key.midnightcontrols.look_up:key.keyboard.unknown
-key_key.midnightcontrols.look_right:key.keyboard.unknown
-key_key.midnightcontrols.look_down:key.keyboard.unknown
-key_key.midnightcontrols.look_left:key.keyboard.unknown
-key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.grave.accent
 key_key.optigui.inspect:key.keyboard.f12
 key_physicsmod.keybinding.guiphysics:key.keyboard.unknown
