@@ -2,119 +2,119 @@
  "classic": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Classic Panorama (Pre-1.13)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Classic Panorama (Pre-1.13)/panorama"
          }
      ]
  },
  "ocean": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Ocean Panorama (1.13)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Ocean Panorama (1.13)/panorama"
          }
      ]
  },
  "village": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Village Panorama (1.14)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Village Panorama (1.14)/panorama"
          }
      ]
  },
  "bees": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Bees Panorama (1.15)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Bees Panorama (1.15)/panorama"
          }
      ]
  },
  "nether": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Nether Panorama (1.16)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Nether Panorama (1.16)/panorama"
          }
      ]
  },
  "amethyst_geode": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Amethyst Geode Panorama (1.17)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Amethyst Geode Panorama (1.17)/panorama"
          }
      ]
  },
  "sunset_valley": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Sunset Valley Panorama (1.18)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Sunset Valley Panorama (1.18)/panorama"
          }
      ]
  },
  "mangrove_swamp": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Mangrove Swamp Panorama (1.19)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Mangrove Swamp Panorama (1.19)/panorama"
          }
      ]
  },
  "cherry_grove": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Cherry Grove Panorama (1.20)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Cherry Grove Panorama (1.20)/panorama"
          }
      ]
  },
  "trial_chamber": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Trial Chamber Panorama (1.21)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Trial Chamber Panorama (1.21)/panorama"
          }
      ]
  },
  "the_end": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/The End Panorama/panorama"
+             "backgroundId": "extrapanoramas:panoramas/The End Panorama/panorama"
          }
      ]
  },
  "pack.png": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/'pack.png' Panorama/panorama"
+             "backgroundId": "extrapanoramas:panoramas/'pack.png' Panorama/panorama"
          }
      ]
  },
  "alpha": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Alpha Panorama/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Alpha Panorama/panorama"
          }
      ]
  },
  "oceanside_extreme_hills": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Oceanside Extreme Hills Panorama/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Oceanside Extreme Hills Panorama/panorama"
          }
      ]
  },
  "lakeside_sunset": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Lakeside Sunset Panorama/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Lakeside Sunset Panorama/panorama"
          }
      ]
  },
  "underground_lava_pool": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/Underground Lava Pool Panorama/panorama"
+             "backgroundId": "extrapanoramas:panoramas/Underground Lava Pool Panorama/panorama"
          }
      ]
  },
  "tu69_tutorial": {
      "panoramas": [
          {
-             "backgroundId": "extrapanoramas:panoramas/biomes/TU69 Tutorial World Panorama (Legacy Console)/panorama"
+             "backgroundId": "extrapanoramas:panoramas/TU69 Tutorial World Panorama (Legacy Console)/panorama"
          }
      ]
  }
