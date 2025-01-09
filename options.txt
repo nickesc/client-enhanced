@@ -52,7 +52,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/1.18 Panorama.zip","axolotlbuckets:axolotl-buckets-small","file/Ultimacraft Models (v1.4).zip","file/3D Default - 1.20+ (v1.11.1).zip","file/Farm 3D (v1.0).zip","file/FreshAnimations (v1.9.3).zip","file/FA+ - All Extensions (v1.4 - Custom Baby:Chest Fix).zip","file/Colourful Containers (1.21).zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","axolotlbuckets:axolotl-buckets-small","continuity:default","continuity:glass_pane_culling_fix","file/1.18 Panorama.zip","file/FreshAnimations (v1.9.3).zip","file/FA+ - All Extensions (v1.4 - Custom Baby:Chest Fix).zip","file/Ultimacraft Models (v1.4).zip","file/Farm 3D (v1.0).zip","file/Colourful Containers (1.21).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -150,7 +150,14 @@ key_key.entityculling.toggle:key.keyboard.l
 key_key.firstperson.toggle:key.keyboard.f6
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.fog.toggle:key.keyboard.g
 key_fullbrightnesstoggle.key.togglebrightness:key.keyboard.g
+key_key.healthindicators.renderingEnabled:key.keyboard.j
+key_key.healthindicators.armorRenderingEnabled:key.keyboard.unknown
+key_key.healthindicators.overrideAllFilters:key.keyboard.unknown
+key_key.healthindicators.increaseHeartOffset:key.keyboard.unknown
+key_key.healthindicators.decreaseHeartOffset:key.keyboard.unknown
+key_key.healthindicators.openModMenuConfig:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.j
 key_key.jade.toggle_liquid:key.keyboard.unknown
@@ -182,11 +189,6 @@ key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen_follow_player:key.keyboard.h
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.unknown
-key_key.midnightcontrols.look_up:key.keyboard.unknown
-key_key.midnightcontrols.look_right:key.keyboard.unknown
-key_key.midnightcontrols.look_down:key.keyboard.unknown
-key_key.midnightcontrols.look_left:key.keyboard.unknown
-key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.grave.accent
 key_key.optigui.inspect:key.keyboard.f12
 key_key.raised.options:key.keyboard.unknown
@@ -202,6 +204,16 @@ key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
+key_key.togglesubtitles.toggle-subtitles:key.keyboard.apostrophe
+key_key.too_many_shortcuts.alternative_escape:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_auto_jump:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_cape:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_jacket:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_left_sleeve:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_right_sleeve:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_left_pants_leg:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_right_pants_leg:key.keyboard.unknown
+key_key.too_many_shortcuts.toggle_hat:key.keyboard.unknown
 key_armorhud.keybind.toggle:key.keyboard.j
 key_key.whatdidijustkill.toggle_toasts:key.keyboard.j
 key_zoomify.key.zoom:key.keyboard.left.alt

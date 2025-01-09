@@ -1,6 +1,6 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.4-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.3.0-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <a href="https://github.com/xCollateral/VulkanMod"><img alt="Renderer: Vulkan" src="https://img.shields.io/badge/renderer-vulkan-red?style=for-the-badge&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
@@ -155,7 +155,7 @@ git pull
 
 ## Default Keybindings
 
-![Client-Enhanced Keybindings](client-enhanced/keybinds/keyboard-layout.png)
+![Client-Enhanced Keybindings](client-enhanced/graphics/keybinds/keyboard-layout.png)
 
 ## Mod List
 
@@ -186,6 +186,9 @@ Melody | [Modrinth](https://modrinth.com/mod/melody)
 TCDCommons API | [Modrinth](https://modrinth.com/mod/tcdcommons)
 M.R.U | [Modrinth](https://modrinth.com/mod/mru)
 Forge Config API Port | [Modrinth](https://modrinth.com/mod/forge-config-api-port)
+oωo (owo-lib) | [Modrinth](https://modrinth.com/mod/owo-lib)
+TxniLib | [Modrinth](https://modrinth.com/mod/txnilib)
+Searchables | [Modrinth](https://modrinth.com/mod/searchables)
 
 </details>
 
@@ -218,6 +221,8 @@ Mod | Link
 *Sodium** | [Modrinth](https://modrinth.com/mod/sodium)
 *Sodium Extra** | [Modrinth](https://modrinth.com/mod/sodium-extra)
 *Reese's Sodium Options** | [Modrinth](https://modrinth.com/mod/reeses-sodium-options)
+*Sodium Options API** | [Modrinth](https://modrinth.com/mod/sodium-options-api)
+*Sodium Options Mod Compat** | [Modrinth](https://modrinth.com/mod/sodium-options-mod-compat)
 ImmediatelyFast | [Modrinth](https://modrinth.com/mod/immediatelyfast)
 Entity Culling | [Modrinth](https://modrinth.com/mod/entityculling)
 More Culling | [Modrinth](https://modrinth.com/mod/moreculling)
@@ -231,13 +236,13 @@ Mod | Link
 -|-|
 Debugify | [Modrinth](https://modrinth.com/mod/debugify) 
 Shift-Scroll Fix for macOS | [Modrinth](https://modrinth.com/mod/shift-scroll-fix)
-Keybind Fix Updated | [Modrinth](https://modrinth.com/mod/keybind-fix-updated)
 No Resource Pack Warnings | [Modrinth](https://modrinth.com/mod/no-resource-pack-warnings)
 Yeetus Experimentus | [Modrinth](https://modrinth.com/mod/yeetus-experimentus)
 Axolotl Buckets | [Modrinth](https://modrinth.com/mod/axolotl-buckets)
 Better Shields | [Modrinth](https://modrinth.com/mod/bettershields)
 Fast IP Ping | [Modrinth](https://modrinth.com/mod/fast-ip-ping)
 No Telemetry | [Modrinth](https://modrinth.com/mod/no-telemetry)
+GPUTape | [Modrinth](https://modrinth.com/mod/gputape)
 
 </details>
 
@@ -259,10 +264,14 @@ Detail Armor Bar | [Modrinth](https://modrinth.com/mod/detail-armor-bar)
 Better Mount HUD | [Modrinth](https://modrinth.com/mod/better-mount-hud)
 Raised | [Modrinth](https://modrinth.com/mod/raised)
 Chest Tracker | [Modrinth](https://modrinth.com/mod/chest-tracker)
+Health Indicators | [Modrinth](https://modrinth.com/mod/health-indicators)
 Provi's Health Bars | [Modrinth](https://modrinth.com/mod/provis-health-bars)
 What Did I Just Kill? | [Modrinth](https://modrinth.com/mod/what-did-i-just-kill)
 Status Effect Bars | [Modrinth](https://modrinth.com/mod/status-effect-bars)
 Current Music Track | [Modrinth](https://modrinth.com/mod/current-game-music-track)
+Better Ping Display | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric)
+Colorful Subtitles | [Modrinth](https://modrinth.com/mod/colorful-subtitles)
+Toggle Subtitles | [Modrinth](https://modrinth.com/mod/toggle-subtitles)
 
 ##### Inventory
 
@@ -297,6 +306,8 @@ Better Advancements | [Modrinth](https://modrinth.com/mod/better-advancements)
 Better Command Block UI | [Modrinth](https://modrinth.com/mod/bettercommandblockui)
 BetterF3 | [Modrinth](https://modrinth.com/mod/betterf3)
 Blur+ | [Modrinth](https://modrinth.com/mod/blur-plus)
+Server Country Flags | [Modrinth](https://modrinth.com/mod/server-country-flags)
+World Play Time | [Modrinth](https://modrinth.com/mod/world-play-time)
 Cursor Anchor | [Modrinth](https://modrinth.com/mod/cursor-anchor)
 Smooth Scrolling | [Modrinth](https://modrinth.com/mod/smooth-scroll)
 *Cubes Without Borders** | [Modrinth](https://modrinth.com/mod/cubes-without-borders)
@@ -330,11 +341,15 @@ Zoomify | [Modrinth](https://modrinth.com/mod/zoomify)
 *Fabrishot** | [Modrinth](https://modrinth.com/mod/fabrishot)
 
 ##### Visual
+
 Mod | Link
 -|-|
 *Physics Mod** | [Modrinth](https://modrinth.com/mod/physicsmod)
 Visuality | [Modrinth](https://modrinth.com/mod/visuality)
+Particular | [Modrinth](https://modrinth.com/mod/particular)
 Falling Leaves | [Modrinth](https://modrinth.com/mod/fallingleaves)
+Make Bubbles Pop | [Modrinth](https://modrinth.com/mod/make_bubbles_pop)
+Fog | [Modrinth](https://modrinth.com/mod/fog)
 *Explosive Enhancement** | [Modrinth](https://modrinth.com/mod/explosive-enhancement)
 *Chunks Fade In** | [Modrinth](https://modrinth.com/mod/chunks-fade-in)
 cat_jam | [Modrinth](https://modrinth.com/mod/cat_jam)
@@ -349,7 +364,7 @@ Entity Texture Features | [Modrinth](https://modrinth.com/mod/entitytexturefeatu
 Entity Model Features | [Modrinth](https://modrinth.com/mod/entity-model-features)
 Continuity | [Modrinth](https://modrinth.com/mod/continuity)
 OptiGUI | [Modrinth](https://modrinth.com/mod/optigui)
-LambDynamicLights | [Modrinth](https://modrinth.com/mod/lambdynamiclights)
+Sodium Dynamic Lights | [Modrinth](https://modrinth.com/mod/sodium-dynamic-lights)
 Capes | [Modrinth](https://modrinth.com/mod/capes)
 
 ##### Sound
@@ -358,28 +373,38 @@ Mod | Link
 -|-|
 Sound Physics Remastered | [Modrinth](https://modrinth.com/mod/sound-physics-remastered)
 Sounds | [Modrinth](https://modrinth.com/mod/sound)
+Sound Controller | [Modrinth](https://modrinth.com/mod/sound-controller)
 Pling | [Modrinth](https://modrinth.com/mod/pling)
 
 ##### Controls
 
 Mod | Link
 -|-|
-MidnightControls | [Modrinth](https://modrinth.com/mod/midnightcontrols)
-MidnightControlsExtra | [Modrinth](https://modrinth.com/mod/midnightcontrols-extra)
+Controlify | [Modrinth](https://modrinth.com/mod/controlify)
 ClickThrough Plus | [Modrinth](https://modrinth.com/mod/clickthrough+)
 Client Tweaks | [Modrinth](https://modrinth.com/mod/client-tweaks)
 Mouse Tweaks | [Modrinth](https://modrinth.com/mod/mouse-tweaks)
+
+##### Commands
+
+Mod | Link
+-|-|
+Mods Command | [Modrinth](https://modrinth.com/mod/searchables)
+Simple Item Editor | [Modrinth](https://modrinth.com/mod/simple-item-editor)
+Simple Update Checker | [Modrinth](https://modrinth.com/mod/simple-update-checker)
 
 ##### Client
 
 Mod | Link
 -|-|
 e4mc | [Modrinth](https://modrinth.com/mod/e4mc)
+Custom LAN | [Modrinth](https://modrinth.com/mod/custom-lan)
 ViaFabricPlus | [Modrinth](https://modrinth.com/mod/viafabricplus)
 Auth Me | [Modrinth](https://modrinth.com/mod/auth-me)
 No Chat Reports | [Modrinth](https://modrinth.com/mod/no-chat-reports)
 Not Enough Crashes | [Modrinth](https://modrinth.com/mod/notenoughcrashes)
-Simple Update Checker | [Modrinth](https://modrinth.com/mod/simple-update-checker)
+Too Many Shortcuts | [Modrinth](https://modrinth.com/mod/too-many-shortcuts)
+Screenshot Organization | [Modrinth](https://modrinth.com/mod/screenshot-organisation)
 CraftPresence | [Modrinth](https://modrinth.com/mod/craftpresence)
 
 </details>
