@@ -1,5 +1,5 @@
 {
-  "current_controller": "c74f3064-8a74-3fa0-a7e9-443a5d53fb1e",
+  "current_controller": null,
   "controllers": {
     "3d64f731-1746-3ac2-b783-2f455bfbfae8": {
       "config": {
@@ -41,17 +41,20 @@
             "controlify:gui_back": {
               "button": "controlify:button/south"
             },
+            "controlify:radial_menu": {
+              "button": "controlify:button/dpad_down"
+            },
             "controlify:vmouse_lclick": {
               "button": "controlify:button/east"
             },
-            "fabric-key-binding-api-v1:key.shouldersurfing.toggle_first_person": {
-              "button": "controlify:button/back"
-            },
-            "fabric-key-binding-api-v1:zoomify.key.zoom": {
-              "button": "controlify:button/dpad_up"
-            },
             "fabric-key-binding-api-v1:key.ayame_paperdoll.showpaperdoll": {
               "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:chunksfadein.keybinds.togglemod": {
+              "button": "controlify:button/dpad_left"
+            },
+            "fabric-key-binding-api-v1:key.do_a_barrel_roll.toggle_enabled": {
+              "button": "controlify:button/dpad_left"
             },
             "fabric-key-binding-api-v1:key.healthindicators.renderingenabled": {
               "button": "controlify:button/dpad_right"
@@ -62,23 +65,20 @@
             "fabric-key-binding-api-v1:key.journeymap.minimap_toggle_alt": {
               "button": "controlify:button/dpad_right"
             },
-            "fabric-key-binding-api-v1:armorhud.keybind.toggle": {
-              "button": "controlify:button/dpad_right"
-            },
-            "fabric-key-binding-api-v1:chunksfadein.keybinds.togglemod": {
-              "button": "controlify:button/dpad_left"
-            },
-            "fabric-key-binding-api-v1:key.do_a_barrel_roll.toggle_enabled": {
-              "button": "controlify:button/dpad_left"
-            },
             "fabric-key-binding-api-v1:physicsmod.keybinding.togglephysics": {
               "button": "controlify:button/dpad_left"
             },
+            "fabric-key-binding-api-v1:key.shouldersurfing.toggle_first_person": {
+              "button": "controlify:button/back"
+            },
+            "fabric-key-binding-api-v1:armorhud.keybind.toggle": {
+              "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:zoomify.key.zoom": {
+              "button": "controlify:button/dpad_up"
+            },
             "fabric-key-binding-api-v1:iris.keybind.toggleshaders": {
               "button": "controlify:button/dpad_left"
-            },
-            "controlify:radial_menu": {
-              "button": "controlify:button/dpad_down"
             }
           }
         },
@@ -305,7 +305,7 @@
           }
         },
         "controlify:config/generic": {
-          "nickname": "Xbox Series X Controller",
+          "nickname": "Xbox Wireless Controller",
           "auto_jump": false,
           "toggle_sprint": true,
           "toggle_sneak": true,
@@ -325,6 +325,259 @@
             "controlify:master": 1.0,
             "controlify:world": 1.0
           }
+        }
+      }
+    },
+    "57827c02-634b-3a08-9a86-e98aa119d7aa": {
+      "config": {
+        "controlify:input": {
+          "h_look_sensitivity": 1.0,
+          "v_look_sensitivity": 0.9,
+          "virtual_mouse_sensitivity": 0.4,
+          "reduce_aiming_sensitivity": true,
+          "button_activation_threshold": 0.5,
+          "deadzones": {
+            "controlify:right_stick": 0.080030516,
+            "controlify:left_stick": 0.08100708
+          },
+          "deadzones_calibrated": true,
+          "delayed_calibration": false,
+          "mixed_input": false,
+          "keep_default_bindings": false,
+          "radial_actions": [
+            "controlify:toggle_hud_visibility",
+            "controlify:change_perspective",
+            "controlify:drop_stack",
+            "controlify:open_chat",
+            "controlify:swap_hands",
+            "controlify:pick_block",
+            "controlify:take_screenshot",
+            "controlify:show_player_list"
+          ],
+          "radial_button_focus_timeout_ticks": 20,
+          "mapping": null,
+          "bindings": {
+            "controlify:drop": {
+              "button": "controlify:button/east"
+            },
+            "controlify:change_perspective": {},
+            "controlify:pick_block": {},
+            "controlify:open_chat": {},
+            "controlify:gui_press": {
+              "button": "controlify:button/east"
+            },
+            "controlify:gui_back": {
+              "button": "controlify:button/south"
+            },
+            "controlify:radial_menu": {
+              "button": "controlify:button/dpad_down"
+            },
+            "controlify:vmouse_lclick": {
+              "button": "controlify:button/east"
+            },
+            "fabric-key-binding-api-v1:key.ayame_paperdoll.showpaperdoll": {
+              "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:chunksfadein.keybinds.togglemod": {
+              "button": "controlify:button/dpad_left"
+            },
+            "fabric-key-binding-api-v1:key.do_a_barrel_roll.toggle_enabled": {
+              "button": "controlify:button/dpad_left"
+            },
+            "fabric-key-binding-api-v1:key.healthindicators.renderingenabled": {
+              "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:key.jade.show_overlay": {
+              "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:key.journeymap.minimap_toggle_alt": {
+              "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:physicsmod.keybinding.togglephysics": {
+              "button": "controlify:button/dpad_left"
+            },
+            "fabric-key-binding-api-v1:key.shouldersurfing.toggle_first_person": {
+              "button": "controlify:button/back"
+            },
+            "fabric-key-binding-api-v1:armorhud.keybind.toggle": {
+              "button": "controlify:button/dpad_right"
+            },
+            "fabric-key-binding-api-v1:zoomify.key.zoom": {
+              "button": "controlify:button/dpad_up"
+            },
+            "fabric-key-binding-api-v1:iris.keybind.toggleshaders": {
+              "button": "controlify:button/dpad_left"
+            }
+          }
+        },
+        "controlify:config/generic": {
+          "nickname": "Switch Pro Controller",
+          "auto_jump": false,
+          "toggle_sprint": true,
+          "toggle_sneak": true,
+          "disable_fly_drifting": false,
+          "show_ingame_guide": true,
+          "ingame_guide_bottom": true,
+          "show_screen_guides": true,
+          "show_on_screen_keyboard": true,
+          "dont_show_controller_submission": false
+        },
+        "controlify:rumble": {
+          "enabled": true,
+          "vibration_strengths": {
+            "controlify:gui": 1.0,
+            "controlify:interaction": 1.0,
+            "controlify:player": 1.0,
+            "controlify:master": 1.0,
+            "controlify:world": 1.0
+          }
+        },
+        "controlify:gyro": {
+          "calibrated": true,
+          "delayed_calibration": false,
+          "look_sensitivity": 0.0,
+          "relative_gyro_mode": false,
+          "requires_button": "ON",
+          "yaw_mode": "YAW",
+          "flick_stick": false,
+          "invert_x": false,
+          "invert_y": false,
+          "calibration": {
+            "x": -0.24864024,
+            "y": -0.07095764,
+            "z": 0.03428013
+          }
+        }
+      }
+    },
+    "06ebb338-31ec-328b-be07-74931b644b76": {
+      "config": {
+        "controlify:input": {
+          "h_look_sensitivity": 0.45000002,
+          "v_look_sensitivity": 0.35,
+          "virtual_mouse_sensitivity": 0.25,
+          "reduce_aiming_sensitivity": true,
+          "button_activation_threshold": 0.5,
+          "deadzones": {
+            "controlify:right_stick": 0.080030516,
+            "controlify:left_stick": 0.18406494
+          },
+          "deadzones_calibrated": true,
+          "delayed_calibration": false,
+          "mixed_input": false,
+          "keep_default_bindings": false,
+          "radial_actions": [
+            "controlify:toggle_hud_visibility",
+            "controlify:change_perspective",
+            "controlify:drop_stack",
+            "controlify:open_chat",
+            "controlify:swap_hands",
+            "controlify:pick_block",
+            "controlify:take_screenshot",
+            "controlify:show_player_list"
+          ],
+          "radial_button_focus_timeout_ticks": 20,
+          "mapping": null,
+          "bindings": {
+            "controlify:look_up": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "controlify:look_down": {
+              "button": "controlify:button/north"
+            },
+            "controlify:look_left": {
+              "button": "controlify:button/west"
+            },
+            "controlify:look_right": {
+              "button": "controlify:button/back"
+            },
+            "controlify:sprint": {},
+            "controlify:sneak": {
+              "button": "controlify:button/dpad_right"
+            },
+            "controlify:attack": {
+              "axis": "controlify:axis/left_trigger"
+            },
+            "controlify:use": {
+              "button": "controlify:button/east"
+            },
+            "controlify:drop": {},
+            "controlify:change_perspective": {},
+            "controlify:swap_hands": {},
+            "controlify:next_slot": {},
+            "controlify:prev_slot": {},
+            "controlify:hotbar_item_select_radial": {
+              "button": "controlify:button/right_shoulder"
+            },
+            "controlify:inventory": {
+              "button": "controlify:button/dpad_up"
+            },
+            "controlify:drop_inventory": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "controlify:pick_block": {},
+            "controlify:open_chat": {},
+            "controlify:gui_abstract_action_1": {
+              "axis": "controlify:axis/left_trigger"
+            },
+            "controlify:gui_abstract_action_2": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "controlify:gui_abstract_action_3": {
+              "button": "controlify:button/north"
+            },
+            "controlify:cycle_opt_forward": {
+              "button": "controlify:button/back"
+            },
+            "controlify:cycle_opt_backward": {
+              "button": "controlify:button/west"
+            },
+            "controlify:radial_menu": {
+              "button": "controlify:button/dpad_down"
+            },
+            "controlify:radial_axis_up": {
+              "axis": "controlify:axis/left_stick_up"
+            },
+            "controlify:radial_axis_down": {
+              "axis": "controlify:axis/left_stick_down"
+            },
+            "controlify:radial_axis_left": {
+              "axis": "controlify:axis/left_stick_left"
+            },
+            "controlify:radial_axis_right": {
+              "axis": "controlify:axis/left_stick_right"
+            },
+            "controlify:vmouse_rclick": {
+              "axis": "controlify:axis/left_trigger"
+            },
+            "controlify:vmouse_shift_click": {
+              "button": "controlify:button/west"
+            },
+            "controlify:vmouse_scroll_down": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "controlify:vmouse_scroll_up": {
+              "button": "controlify:button/north"
+            },
+            "controlify:vmouse_shift": {},
+            "controlify:vmouse_page_down": {},
+            "controlify:vmouse_page_up": {},
+            "controlify:vmouse_toggle": {
+              "button": "controlify:button/misc_1"
+            }
+          }
+        },
+        "controlify:config/generic": {
+          "nickname": "N64 Controller",
+          "auto_jump": false,
+          "toggle_sprint": true,
+          "toggle_sneak": true,
+          "disable_fly_drifting": false,
+          "show_ingame_guide": false,
+          "ingame_guide_bottom": false,
+          "show_screen_guides": false,
+          "show_on_screen_keyboard": true,
+          "dont_show_controller_submission": true
         }
       }
     },
