@@ -1,6 +1,6 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.2.4-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
+  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.3.0-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
   <a href="https://github.com/CaffeineMC/sodium"><img alt="Renderer: Sodium" src="https://img.shields.io/badge/renderer-sodium-%2383cc72?style=for-the-badge&labelColor=%23505050"></a>
   <br><br>
   <img src="config/fancymenu/assets/minecraft_title.png">
