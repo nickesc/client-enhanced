@@ -2,7 +2,7 @@
     "modpack": {
         "name": "Client-Enhanced (Vulkan)",
         "id":"client-enhanced",
-        "version":"1.3.0",
+        "version":"1.3.1",
         "author":"nickesc",
         "source":"https://github.com/nickesc/client-enhanced",
         "target_mc_version":"1.21.4",
