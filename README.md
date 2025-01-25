@@ -115,41 +115,26 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 
 ## Installation
 
+The `Client-Enhanced` modpack is released on GitHub as a `.mrpack` file that can be imported into the Modrinth App to add the modpack configuration as a new instance.
+
 ### Requirements:
 - Minecraft 1.21.4
-- Git
-- macOS -- **Untested on other platforms**
+- the [Modrinth App](https://modrinth.com/app) installed
+- macOS **(untested on other platforms)**
 
 ### Instructions
 
-1. Install Fabric the normal way: [Installing Fabric - Fabric Documentation](https://docs.fabricmc.net/players/installing-fabric)
-> Make sure to check `Create Profile` when you install Fabric
+1. Choose your modpack version:
 
-2. In a terminal, navigate to the folder you want to install the modpack to:
-```sh
-cd modpack/directory/path
-```
-
-3. Choose your modpack version and clone the repository:
-
-#### Main version:
-> The complete, fully featured modpack. Includes all enhancements, including shaders.
-> 
-> **Execute the following commands in the terminal:**
-> ```sh
-> git clone -b main --single-branch https://github.com/nickesc/client-enhanced && \
->   client-enhanced/scripts/download-physics.sh
-> ```
-
-#### Vulkan Version
-> A somewhat paired-back version of the modpack made to run with a Vulkan renderer. Any mods that conflict with [VulkanMod](https://modrinth.com/mod/vulkanmod) have been removed.
+#### `Main` version:
+> The complete, fully featured modpack. Includes all enhancements, fixes and tweaks to the client.
 >
-> Delivers **significant** performance boosts on some systems, but **does not have shader support**, among other compromises. The minimap is also somewhat broken (acts like a radar -- does not display the map, only entities) and is turned off by default.
+> Runs on the Sodium rendering engine. Shaders are supported and enabled by default. Requires more powerful hardware to maintain a steady framerate.
+
+#### `Vulkan` Version
+> A lightweight version of the modpack made to run with a Vulkan renderer. Any mods that conflict with [VulkanMod](https://modrinth.com/mod/vulkanmod) have been removed.
 >
-> **Execute the following command in the terminal:**
-> ```sh
-> git clone -b vulkan --single-branch https://github.com/nickesc/client-enhanced
-> ```
+> Delivers **significant** performance boosts on some systems, but **does not have shader support**, among other compromises. Should be capable of running on any hardware.
 >
 > <details> 
 >   <summary><h4>Vulkan Only Mods</h4></summary>
@@ -162,11 +147,13 @@ cd modpack/directory/path
 > 
 > </details>
 
-4. Move the profile the Fabric installer made to the modpack folder using the Minecraft Launcher: [How to change your Game Directory in Minecraft](https://minecrafthopper.net/help/guides/changing-game-directory/)
+2. Download the chosen version of the `Client-Enhanced` `.mrpack` file from the [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
+3. In the Modrinth App, click the `+` icon in the left sidebar to create a new instance and select `From File`
+4. Select `Import from file` and open the `.mrpack` file you downloaded
+5. Allow the modpack to download
+6. Press `Play` to launch Minecraft
 
-5. Launch the Fabric profile from the launcher and enjoy!
-
-### Updating
+<!--### Updating
 
 To update either version of the modpack, execute the following command in the terminal from the modpack's directory:
 ```
@@ -176,9 +163,7 @@ git pull
 > [!NOTE]
 > Some settings changed by the user may be overwritten during modpack updates -- make backups of your `options.txt` file and `config/` folder if you want to make sure your settings stay the same as they were before the update.
 >
-> Keep in mind that updated settings are supposed to make the experience better and more enjoyable, especially if new mods are added to the pack.
-
-
+> Keep in mind that updated settings are supposed to make the experience better and more enjoyable, especially if new mods are added to the pack.-->
 
 ## Default Keybindings
 
