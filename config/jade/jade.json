@@ -54,6 +54,7 @@
       "player_head": true,
       "lectern": true,
       "entity_armor": true,
+      "pet_armor": "SHOW_DAMAGEABLE",
       "harvest_tool.creative": false,
       "horse_stats": true,
       "item_tooltip": true,
@@ -125,10 +126,11 @@
     "themesHash": -328442023,
     "usersHash": [
       -1593872613,
-      -294113569
+      -294113569,
+      1208967676
     ],
     "previewOverlay": true,
-    "hintOverlayToggle": false,
+    "hintOverlayToggle": true,
     "hintNarratorToggle": true
   }
 }
