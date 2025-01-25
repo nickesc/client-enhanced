@@ -39,7 +39,7 @@
     <a href="https://github.com/nickesc/client-enhanced/tree/main/mods"><img alt="Mods: Count" src="https://img.shields.io/github/directory-file-count/nickesc/client-enhanced/mods?type=file&style=for-the-badge&label=Mods&labelColor=%23505050&color=%231998ca"></a>
     <br>
     <a href="https://fabricmc.net/"><img alt="Mod Loader: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.loader&style=for-the-badge&label=Loader&labelColor=%23505050&color=%23dbb69b"></a>
-    <a href="https://modrinth.com/mod/sodium"><img alt="Renderer: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fvulkan%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.renderer&style=for-the-badge&label=Renderer&labelColor=%23505050&color=red"></a>
+    <a href="https://modrinth.com/mod/vulkanmod"><img alt="Renderer: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnickesc%2Fclient-enhanced%2Frefs%2Fheads%2Fvulkan%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.renderer&style=for-the-badge&label=Renderer&labelColor=%23505050&color=red"></a>
   </div>
 </h3>
 
