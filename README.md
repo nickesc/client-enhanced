@@ -1,20 +1,46 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.3.2-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
-  <a href="https://github.com/CaffeineMC/sodium"><img alt="Renderer: Sodium" src="https://img.shields.io/badge/renderer-sodium-%2383cc72?style=for-the-badge&labelColor=%23505050"></a>
-  <br><br>
+  <!--
+  mods color: #1998ca
+  fabric color: #dbb69b
+  modrinth color: #1bd96a
+  github color: brightgreen
+  sodium color: #83cc72
+  minecraft color: #00AA00
+  label color: #505050
+  discord color: #5865F2
+  mastodon color: #6364FF
+  -->
+
+  <div>
+    <!-- <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Version: Modrinth" src="https://img.shields.io/modrinth/v/client-enhanced?style=for-the-badge&logo=modrinth&label=Version&labelColor=%23505050&color=%231bd96a"></a> -->
+    <a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/v/release/nickesc/client-enhanced?include_prereleases&sort=semver&display_name=tag&style=for-the-badge&logo=github&label=Version&labelColor=%23505050&color=brightgreen"></a>
+    <a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/last-commit/nickesc/client-enhanced?display_timestamp=committer&style=for-the-badge&logo=github&label=Latest&labelColor=%23505050&color=brightgreen"></a>
+  </div>
+  <br>
   <img src="config/fancymenu/assets/minecraft_title.png">
 
   <h3 align="center">
     Minecraft <code>Client-Enhanced</code> Modpack
   </h3>
+  
   <h6 align="center">
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
+    <br><br>
+    <a href="https://infosec.exchange/@nickesc"><img alt="Follow: Mastodon" src="https://img.shields.io/mastodon/follow/109578095057040584?domain=infosec.exchange&style=for-the-badge&logo=mastodon&label=Follow&labelColor=%23505050&color=%236364FF"></a>
   </h6>
   <h6 align="center">
     a client-side Minecraft modpack that aims<br>
     to overhaul and modernize the experience
   </h6>
+  <div align="center">
+    <a href="https://www.minecraft.net/en-us/about-minecraft"><img alt="Minecraft: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Ftags%2F1.3.2%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.target_mc_version&style=for-the-badge&label=Minecraft&labelColor=%23505050&color=%2300AA00
+    "></a>
+    <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Mods: Count" src="https://img.shields.io/github/directory-file-count/nickesc/client-enhanced/mods?type=file&style=for-the-badge&label=Mods&labelColor=%23505050&color=%231998ca"></a>
+    <br>
+    <a href="https://fabricmc.net/"><img alt="Mod Loader: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.loader&style=for-the-badge&label=Loader&labelColor=%23505050&color=%23dbb69b"></a>
+    <a href="https://github.com/nickesc/client-enhanced"><img alt="Renderer: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.renderer&style=for-the-badge&label=Renderer&labelColor=%23505050&color=%2383cc72"></a>
+  </div>
 </h3>
 
 ## Overview
