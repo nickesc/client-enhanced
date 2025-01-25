@@ -46,7 +46,7 @@
 
 ![Title Screen](client-enhanced/img/title-screen.png)
 
-Client-Enhanced is an overhaul of the current Minecraft client.
+`Client-Enhanced` is an overhaul of the current Minecraft client.
 
 Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls. 
 
@@ -62,9 +62,9 @@ Shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast
 > Click the `.gif` to see shader load-in in realtime and full resolution
 
 > [!CAUTION]
-> Client-Enhanced is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
+> `Client-Enhanced` is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
 > 
-> ***DO NOT*** connect to a server while using Client-Enhanced unless you know that the mods in this modpack are permitted on that server.
+> ***DO NOT*** connect to a server while using `Client-Enhanced` unless you know that the mods in this modpack are permitted on that server.
 
 #### Other notable features:
 - Client side only
