@@ -507,3 +507,12 @@ git checkout main && \
 
 Then proceed with installation instructions.
 -->
+
+## Stats
+<!--<a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/v/release/nickesc/client-enhanced?include_prereleases&sort=semver&display_name=tag&style=for-the-badge&logo=github&label=Version&labelColor=%23505050&color=brightgreen"></a>-->
+<a href="https://github.com/nickesc/client-enhanced"><img alt="Downloads: GitHub" src="https://img.shields.io/github/downloads/nickesc/client-enhanced/total?style=for-the-badge&logo=github&label=Downloads&labelColor=%23505050&color=brightgreen"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="Contributors: GitHub" src="https://img.shields.io/github/contributors-anon/nickesc/client-enhanced?style=for-the-badge&logo=github&label=Contributors&labelColor=%23505050&color=brightgreen"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="Stars: GitHub" src="https://img.shields.io/github/stars/nickesc/client-enhanced?style=for-the-badge&logo=github&label=Stars&labelColor=%23505050&color=brightgreen"></a>
+
+<!--<a href="https://modrinth.com/modpack/client-enhanced"><img alt="Follow: Modrinth" src="https://img.shields.io/modrinth/followers/client-enhanced?style=for-the-badge&logo=modrinth&label=Follow&labelColor=%23505050&color=%231bd96a"></a>
+<a href=""><img alt="Downloads: Modrinth" src="https://img.shields.io/modrinth/dt/client-enhanced?style=for-the-badge&logo=modrinth&label=Downloads&labelColor=%23505050&color=%231bd96a"></a>-->
