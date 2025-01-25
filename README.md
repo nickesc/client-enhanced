@@ -19,7 +19,6 @@
   </div>
   <br>
   <img src="config/fancymenu/assets/minecraft_title.png">
-
   <h3 align="center">
     Minecraft <code>Client-Enhanced</code> Modpack
   </h3>
@@ -94,7 +93,8 @@ Shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast
 
 See the [Mod List](#mod-list) for a full list of the included mods.
 
-#### Optional
+<details>
+  <summary><h3> Optional Features </h4></summary>
 
 ##### Resource Packs
 Included in the resource packs are a number of vanilla-adjacent updates to mob models and animations. These are disabled by default, but can be enabled if you want. Make sure they are at the top of the resource pack list if you want to use them. They may impact performance significantly.
@@ -110,6 +110,8 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 - Pressing `K` will toggle camera changes, including shaders and particle physics
 - Pressing `J` will toggle many HUD elements, including the minimap, armor HUD and block ID
 - Pressing `L` will toggle a couple backend changes like sign click-through and some render culling
+
+</details>
 
 ## Installation
 
@@ -497,6 +499,7 @@ DepthField | [Modrinth](https://modrinth.com/shader/depthfield)
 
 </details>
 
+<!--
 ## Development:
 Development steps are the same as installation until choosing a version.
 
@@ -518,3 +521,4 @@ git checkout main && \
 ```
 
 Then proceed with installation instructions.
+-->
