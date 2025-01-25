@@ -34,10 +34,10 @@
   </h6>
   <div align="center">
     <a href="https://www.minecraft.net/en-us/about-minecraft"><img alt="Minecraft: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Ftags%2F1.3.2%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.target_mc_version&style=for-the-badge&label=Minecraft&labelColor=%23505050&color=%2300AA00"></a>
-    <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Mods: Count" src="https://img.shields.io/github/directory-file-count/nickesc/client-enhanced/mods?type=file&style=for-the-badge&label=Mods&labelColor=%23505050&color=%231998ca"></a>
+    <a href="https://github.com/nickesc/client-enhanced/tree/main/mods"><img alt="Mods: Count" src="https://img.shields.io/github/directory-file-count/nickesc/client-enhanced/mods?type=file&style=for-the-badge&label=Mods&labelColor=%23505050&color=%231998ca"></a>
     <br>
     <a href="https://fabricmc.net/"><img alt="Mod Loader: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.loader&style=for-the-badge&label=Loader&labelColor=%23505050&color=%23dbb69b"></a>
-    <a href="https://github.com/nickesc/client-enhanced"><img alt="Renderer: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.renderer&style=for-the-badge&label=Renderer&labelColor=%23505050&color=%2383cc72"></a>
+    <a href="https://modrinth.com/mod/sodium"><img alt="Renderer: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.renderer&style=for-the-badge&label=Renderer&labelColor=%23505050&color=%2383cc72"></a>
   </div>
 </h3>
 
@@ -509,9 +509,9 @@ Then proceed with installation instructions.
 
 ## Stats
 <!--<a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/v/release/nickesc/client-enhanced?include_prereleases&sort=semver&display_name=tag&style=for-the-badge&logo=github&label=Version&labelColor=%23505050&color=brightgreen"></a>-->
-<a href="https://github.com/nickesc/client-enhanced"><img alt="Downloads: GitHub" src="https://img.shields.io/github/downloads/nickesc/client-enhanced/total?style=for-the-badge&logo=github&label=Downloads&labelColor=%23505050&color=brightgreen"></a>
+<a href="https://github.com/nickesc/client-enhanced/releases"><img alt="Downloads: GitHub" src="https://img.shields.io/github/downloads/nickesc/client-enhanced/total?style=for-the-badge&logo=github&label=Downloads&labelColor=%23505050&color=brightgreen"></a>
 <a href="https://github.com/nickesc/client-enhanced"><img alt="Contributors: GitHub" src="https://img.shields.io/github/contributors-anon/nickesc/client-enhanced?style=for-the-badge&logo=github&label=Contributors&labelColor=%23505050&color=brightgreen"></a>
 <a href="https://github.com/nickesc/client-enhanced"><img alt="Stars: GitHub" src="https://img.shields.io/github/stars/nickesc/client-enhanced?style=for-the-badge&logo=github&label=Stars&labelColor=%23505050&color=brightgreen"></a>
 
 <!--<a href="https://modrinth.com/modpack/client-enhanced"><img alt="Follow: Modrinth" src="https://img.shields.io/modrinth/followers/client-enhanced?style=for-the-badge&logo=modrinth&label=Follow&labelColor=%23505050&color=%231bd96a"></a>
-<a href=""><img alt="Downloads: Modrinth" src="https://img.shields.io/modrinth/dt/client-enhanced?style=for-the-badge&logo=modrinth&label=Downloads&labelColor=%23505050&color=%231bd96a"></a>-->
+<a href="https://modrinth.com/modpack/client-enhanced/versions"><img alt="Downloads: Modrinth" src="https://img.shields.io/modrinth/dt/client-enhanced?style=for-the-badge&logo=modrinth&label=Downloads&labelColor=%23505050&color=%231bd96a"></a>-->
