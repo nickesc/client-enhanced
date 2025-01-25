@@ -1,6 +1,6 @@
 {
   "ayame_paperdoll:general": {
-    "ayame_paperdoll:enabled": true,
+    "ayame_paperdoll:display_paperdoll": true,
     "ayame_paperdoll:rotation_mode": "LOCK",
     "ayame_paperdoll:offset_x": 0.053,
     "ayame_paperdoll:offset_y": 0.177,
@@ -33,12 +33,13 @@
     "ayame_paperdoll:render_vehicle": true,
     "ayame_paperdoll:pause_game_on_config_screen": true,
     "ayame_paperdoll:disable_config_screen_blur": true,
+    "ayame_paperdoll:visible_during_activity": false,
     "ayame_paperdoll:hide_under_debug": true,
     "ayame_paperdoll:hide_on_screen_open": false,
     "ayame_paperdoll:spectator_auto_switch": true,
     "ayame_paperdoll:player_name": ""
   },
   "ayame_paperdoll:hidden": {
-    "ayame_paperdoll:last_config_tab_idx": 1
+    "ayame_paperdoll:last_config_tab_idx": 0
   }
 }

@@ -65,3 +65,5 @@ fancymenu_data/
 mods/physics-mod-*.jar
 
 config/jade/usernamecache.json
+
+controlify-natives/

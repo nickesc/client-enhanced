@@ -1,13 +1,12 @@
 {
-  "version": 4,
-  "mixinEarly": {
-    "state": "DISABLED"
-  },
-  "debugShowKey": {
-    "state": "DISABLED"
-  },
+  "version": 9,
+  "detectionMode": "HUD_KNOWN_TAGS",
+  "debugMode": "NONE",
+  "notifMode": "ALL_SINGLE_SOUND",
+  "restyleMode": "ALL_INSTANCES",
+  "sendMode": "PACKET",
+  "senderDetectionMode": "COMBINED",
   "checkOwnMessages": true,
-  "compatSendMode": false,
   "soundSource": "PLAYERS",
   "defaultColor": 16761856,
   "defaultSound": {
@@ -23,11 +22,11 @@
   ],
   "notifications": [
     {
-      "version": 4,
+      "version": 5,
       "enabled": true,
+      "checkOwnMode": "DEFER",
       "exclusionEnabled": false,
       "responseEnabled": false,
-      "blockMessage": false,
       "sound": {
         "version": 1,
         "enabled": true,
@@ -36,42 +35,44 @@
         "pitch": 1.0
       },
       "textStyle": {
-        "version": 1,
+        "version": 2,
         "doColor": true,
         "color": 16761856,
-        "bold": {
-          "state": "DISABLED"
-        },
-        "italic": {
-          "state": "DISABLED"
-        },
-        "underlined": {
-          "state": "DISABLED"
-        },
-        "strikethrough": {
-          "state": "DISABLED"
-        },
-        "obfuscated": {
-          "state": "DISABLED"
-        }
+        "bold": "DISABLED",
+        "italic": "DISABLED",
+        "underlined": "DISABLED",
+        "strikethrough": "DISABLED",
+        "obfuscated": "DISABLED"
       },
-      "titleText": {
-        "version": 1,
-        "enabled": false,
-        "color": 16777215,
-        "text": ""
-      },
+      "replacementMsg": "",
+      "replacementMsgEnabled": false,
+      "statusBarMsg": "",
+      "statusBarMsgEnabled": false,
+      "titleMsg": "",
+      "titleMsgEnabled": false,
       "triggers": [
         {
-          "version": 3,
+          "version": 4,
           "enabled": true,
           "string": "Profile name",
+          "styleTarget": {
+            "version": 1,
+            "enabled": false,
+            "string": "",
+            "type": "NORMAL"
+          },
           "type": "NORMAL"
         },
         {
-          "version": 3,
+          "version": 4,
           "enabled": true,
           "string": "Display name",
+          "styleTarget": {
+            "version": 1,
+            "enabled": false,
+            "string": "",
+            "type": "NORMAL"
+          },
           "type": "NORMAL"
         }
       ],
