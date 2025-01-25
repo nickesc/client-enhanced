@@ -8,6 +8,6 @@
         "target_mc_version":"1.21.4",
         "target_fabric_version":"1.6.10",
         "loader": "Fabric",
-        "renderer": "Sodium"
+        "renderer": "Vulkan"
     }
 }
