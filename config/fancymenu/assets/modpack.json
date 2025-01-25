@@ -6,6 +6,8 @@
         "author":"nickesc",
         "source":"https://github.com/nickesc/client-enhanced",
         "target_mc_version":"1.21.4",
-        "target_fabric_version":"1.6.9"
+        "target_fabric_version":"1.6.10",
+        "loader": "Fabric",
+        "renderer": "Sodium"
     }
 }

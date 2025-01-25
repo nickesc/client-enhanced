@@ -1,29 +1,53 @@
 
 <h3 align="center" >
-  <a href="https://github.com/nickesc/client-enhanced"><img alt="Source: Github" src="https://img.shields.io/badge/source-v1.3.2-brightgreen?style=for-the-badge&logo=github&labelColor=%23505050"></a>
-  <a href="https://github.com/xCollateral/VulkanMod"><img alt="Renderer: Vulkan" src="https://img.shields.io/badge/renderer-vulkan-red?style=for-the-badge&labelColor=%23505050"></a>
-  <br><br>
-  <img src="config/fancymenu/assets/minecraft_title.png">
+  <!--
+  mods color: #1998ca
+  fabric color: #dbb69b
+  modrinth color: #1bd96a
+  github color: brightgreen
+  sodium color: #83cc72
+  minecraft color: #00AA00
+  label color: #505050
+  discord color: #5865F2
+  mastodon color: #6364FF
+  -->
 
+  <div>
+    <!-- <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Version: Modrinth" src="https://img.shields.io/modrinth/v/client-enhanced?style=for-the-badge&logo=modrinth&label=Version&labelColor=%23505050&color=%231bd96a"></a> -->
+    <a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/v/release/nickesc/client-enhanced?include_prereleases&sort=semver&display_name=tag&style=for-the-badge&logo=github&label=Version&labelColor=%23505050&color=brightgreen"></a>
+    <a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/last-commit/nickesc/client-enhanced?display_timestamp=committer&style=for-the-badge&logo=github&label=Latest&labelColor=%23505050&color=brightgreen"></a>
+  </div>
+  <br>
+  <img src="config/fancymenu/assets/minecraft_title.png">
   <h3 align="center">
     Minecraft <code>Client-Enhanced</code> Modpack<br>
     <code><i>(Vulkan)</i></code>
   </h3>
+  
   <h6 align="center">
     by <a href="https://nickesc.github.io">N. Escobar</a> / <a href="https://github.com/nickesc">nickesc</a>
+    <br><br>
+    <a href="https://infosec.exchange/@nickesc"><img alt="Follow: Mastodon" src="https://img.shields.io/mastodon/follow/109578095057040584?domain=infosec.exchange&style=for-the-badge&logo=mastodon&label=Follow&labelColor=%23505050&color=%236364FF"></a>
   </h6>
   <h6 align="center">
     a client-side Minecraft modpack that aims<br>
     to overhaul and modernize the experience,<br>
     built for the Vulkan renderer
   </h6>
+  <div align="center">
+    <a href="https://www.minecraft.net/en-us/about-minecraft"><img alt="Minecraft: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Ftags%2F1.3.2%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.target_mc_version&style=for-the-badge&label=Minecraft&labelColor=%23505050&color=%2300AA00"></a>
+    <a href="https://github.com/nickesc/client-enhanced/tree/main/mods"><img alt="Mods: Count" src="https://img.shields.io/github/directory-file-count/nickesc/client-enhanced/mods?type=file&style=for-the-badge&label=Mods&labelColor=%23505050&color=%231998ca"></a>
+    <br>
+    <a href="https://fabricmc.net/"><img alt="Mod Loader: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.loader&style=for-the-badge&label=Loader&labelColor=%23505050&color=%23dbb69b"></a>
+    <a href="https://modrinth.com/mod/sodium"><img alt="Renderer: Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fnickesc%2Fclient-enhanced%2Fraw%2Frefs%2Fheads%2Fmain%2Fconfig%2Ffancymenu%2Fassets%2Fmodpack.json&query=%24.modpack.renderer&style=for-the-badge&label=Renderer&labelColor=%23505050&color=%2383cc72"></a>
+  </div>
 </h3>
 
 ## Overview
 
 ![Title Screen](client-enhanced/img/title-screen.png)
 
-Client-Enhanced is an overhaul of the current Minecraft client.
+`Client-Enhanced` is an overhaul of the current Minecraft client.
 
 Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls. 
 
@@ -39,9 +63,9 @@ Shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast
 > Click the `.gif` to see shader load-in in realtime and full resolution
 
 > [!CAUTION]
-> Client-Enhanced is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
+> `Client-Enhanced` is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins. 
 > 
-> ***DO NOT*** connect to a server while using Client-Enhanced unless you know that the mods in this modpack are permitted on that server.
+> ***DO NOT*** connect to a server while using `Client-Enhanced` unless you know that the mods in this modpack are permitted on that server.
 
 #### Other notable features:
 - Client side only
@@ -70,7 +94,8 @@ Shaders like [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast
 
 See the [Mod List](#mod-list) for a full list of the included mods.
 
-#### Optional
+<details>
+  <summary><h3> Optional Features </h4></summary>
 
 ##### Resource Packs
 Included in the resource packs are a number of vanilla-adjacent updates to mob models and animations. These are disabled by default, but can be enabled if you want. Make sure they are at the top of the resource pack list if you want to use them. They may impact performance significantly.
@@ -87,43 +112,30 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 - Pressing `J` will toggle many HUD elements, including the minimap, armor HUD and block ID
 - Pressing `L` will toggle a couple backend changes like sign click-through and some render culling
 
+</details>
+
 ## Installation
+
+The `Client-Enhanced` modpack is released on GitHub as a `.mrpack` file that can be imported into the Modrinth App to add the modpack configuration as a new instance.
 
 ### Requirements:
 - Minecraft 1.21.4
-- Git
-- macOS -- **Untested on other platforms**
+- the [Modrinth App](https://modrinth.com/app) installed
+- macOS **(untested on other platforms)**
 
 ### Instructions
 
-1. Install Fabric the normal way: [Installing Fabric - Fabric Documentation](https://docs.fabricmc.net/players/installing-fabric)
-> Make sure to check `Create Profile` when you install Fabric
+1. Choose your modpack version:
 
-2. In a terminal, navigate to the folder you want to install the modpack to:
-```sh
-cd modpack/directory/path
-```
-
-3. Choose your modpack version and clone the repository:
-
-#### Main version:
-> The complete, fully featured modpack. Includes all enhancements, including shaders.
-> 
-> **Execute the following commands in the terminal:**
-> ```sh
-> git clone -b main --single-branch https://github.com/nickesc/client-enhanced && \
->   client-enhanced/scripts/download-physics.sh
-> ```
-
-#### Vulkan Version
-> A somewhat paired-back version of the modpack made to run with a Vulkan renderer. Any mods that conflict with [VulkanMod](https://modrinth.com/mod/vulkanmod) have been removed.
+#### `Main` version:
+> The complete, fully featured modpack. Includes all enhancements, fixes and tweaks to the client.
 >
-> Delivers **significant** performance boosts on some systems, but **does not have shader support**, among other compromises. The minimap is also somewhat broken (acts like a radar -- does not display the map, only entities) and is turned off by default.
+> Runs on the Sodium rendering engine. Shaders are supported and enabled by default. Requires more powerful hardware to maintain a steady framerate.
+
+#### `Vulkan` Version
+> A lightweight version of the modpack made to run with a Vulkan renderer. Any mods that conflict with [VulkanMod](https://modrinth.com/mod/vulkanmod) have been removed.
 >
-> **Execute the following command in the terminal:**
-> ```sh
-> git clone -b vulkan --single-branch https://github.com/nickesc/client-enhanced
-> ```
+> Delivers **significant** performance boosts on some systems, but **does not have shader support**, among other compromises. Should be capable of running on any hardware.
 >
 > <details> 
 >   <summary><h4>Vulkan Only Mods</h4></summary>
@@ -136,11 +148,13 @@ cd modpack/directory/path
 > 
 > </details>
 
-4. Move the profile the Fabric installer made to the modpack folder using the Minecraft Launcher: [How to change your Game Directory in Minecraft](https://minecrafthopper.net/help/guides/changing-game-directory/)
+2. Download the chosen version of the `Client-Enhanced` `.mrpack` file from the [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
+3. In the Modrinth App, click the `+` icon in the left sidebar to create a new instance and select `From File`
+4. Select `Import from file` and open the `.mrpack` file you downloaded
+5. Allow the modpack to download
+6. Press `Play` to launch Minecraft
 
-5. Launch the Fabric profile from the launcher and enjoy!
-
-### Updating
+<!--### Updating
 
 To update either version of the modpack, execute the following command in the terminal from the modpack's directory:
 ```
@@ -150,9 +164,7 @@ git pull
 > [!NOTE]
 > Some settings changed by the user may be overwritten during modpack updates -- make backups of your `options.txt` file and `config/` folder if you want to make sure your settings stay the same as they were before the update.
 >
-> Keep in mind that updated settings are supposed to make the experience better and more enjoyable, especially if new mods are added to the pack.
-
-
+> Keep in mind that updated settings are supposed to make the experience better and more enjoyable, especially if new mods are added to the pack.-->
 
 ## Default Keybindings
 
@@ -473,6 +485,7 @@ DepthField | [Modrinth](https://modrinth.com/shader/depthfield)
 
 </details>
 
+<!--
 ## Development:
 Development steps are the same as installation until choosing a version.
 
@@ -494,3 +507,13 @@ git checkout main && \
 ```
 
 Then proceed with installation instructions.
+-->
+
+## Stats
+<!--<a href="https://github.com/nickesc/client-enhanced"><img alt="Version: GitHub" src="https://img.shields.io/github/v/release/nickesc/client-enhanced?include_prereleases&sort=semver&display_name=tag&style=for-the-badge&logo=github&label=Version&labelColor=%23505050&color=brightgreen"></a>-->
+<a href="https://github.com/nickesc/client-enhanced/releases"><img alt="Downloads: GitHub" src="https://img.shields.io/github/downloads/nickesc/client-enhanced/total?style=for-the-badge&logo=github&label=Downloads&labelColor=%23505050&color=brightgreen"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="Contributors: GitHub" src="https://img.shields.io/github/contributors-anon/nickesc/client-enhanced?style=for-the-badge&logo=github&label=Contributors&labelColor=%23505050&color=brightgreen"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="Stars: GitHub" src="https://img.shields.io/github/stars/nickesc/client-enhanced?style=for-the-badge&logo=github&label=Stars&labelColor=%23505050&color=brightgreen"></a>
+
+<!--<a href="https://modrinth.com/modpack/client-enhanced"><img alt="Follow: Modrinth" src="https://img.shields.io/modrinth/followers/client-enhanced?style=for-the-badge&logo=modrinth&label=Follow&labelColor=%23505050&color=%231bd96a"></a>
+<a href="https://modrinth.com/modpack/client-enhanced/versions"><img alt="Downloads: Modrinth" src="https://img.shields.io/modrinth/dt/client-enhanced?style=for-the-badge&logo=modrinth&label=Downloads&labelColor=%23505050&color=%231bd96a"></a>-->
