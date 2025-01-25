@@ -22,6 +22,7 @@
   "chatWidth": 0,
   "chatHeight": 0,
   "chatMaxMessages": 16384,
+  "chatName": true,
   "chatNameFormat": "$:",
   "chatNameColor": 11184810,
   "shiftChat": 10,
@@ -31,5 +32,8 @@
   "hideSearchButton": false,
   "vanillaClearing": false,
   "copyColor": 5636095,
-  "copyReplyFormat": "/msg $ "
+  "copyReplyFormat": "/msg $ ",
+  "caseSensitive": true,
+  "formatting": false,
+  "regex": false
 }
