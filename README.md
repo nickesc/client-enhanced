@@ -321,7 +321,6 @@ BetterF3 | [Modrinth](https://modrinth.com/mod/betterf3)
 Blur+ | [Modrinth](https://modrinth.com/mod/blur-plus)
 Server Country Flags | [Modrinth](https://modrinth.com/mod/server-country-flags)
 World Play Time | [Modrinth](https://modrinth.com/mod/world-play-time)
-Cursor Anchor | [Modrinth](https://modrinth.com/mod/cursor-anchor)
 Smooth Scrolling | [Modrinth](https://modrinth.com/mod/smooth-scroll)
 *Cubes Without Borders** | [Modrinth](https://modrinth.com/mod/cubes-without-borders)
 
@@ -517,3 +516,5 @@ Then proceed with installation instructions.
 
 <!--<a href="https://modrinth.com/modpack/client-enhanced"><img alt="Follow: Modrinth" src="https://img.shields.io/modrinth/followers/client-enhanced?style=for-the-badge&logo=modrinth&label=Follow&labelColor=%23505050&color=%231bd96a"></a>
 <a href="https://modrinth.com/modpack/client-enhanced/versions"><img alt="Downloads: Modrinth" src="https://img.shields.io/modrinth/dt/client-enhanced?style=for-the-badge&logo=modrinth&label=Downloads&labelColor=%23505050&color=%231bd96a"></a>-->
+
+![Alt](https://repobeats.axiom.co/api/embed/9022367b57fda95b75c3223c14fa31f4bbefb6a1.svg "Repobeats analytics image")
