@@ -69,3 +69,5 @@ config/jade/usernamecache.json
 controlify-natives/
 
 modrinth/
+
+config/*.toml.bak
