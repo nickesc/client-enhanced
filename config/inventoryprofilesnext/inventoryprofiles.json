@@ -32,17 +32,12 @@
         },
         "lock_slots_config_key": {
             "main": {
-                "keys": ""
-            }
-        },
-        "lock_slots_quick_config_key": {
-            "main": {
-                "keys": "BUTTON_2"
+                "keys": "LEFT_ALT,BUTTON_1"
             }
         },
         "lock_slots_quick_disable": {
             "main": {
-                "keys": "LEFT_ALT"
+                "keys": "LEFT_CONTROL"
             }
         }
     },
