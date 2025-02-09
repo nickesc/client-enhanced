@@ -50,9 +50,9 @@ usercache.json
 
 /data/
 
-shaderpacks/ComplementaryReimagined_r5.3 \+ EuphoriaPatches_1.4.3/
+shaderpacks/*EuphoriaPatches*/
 
-shaderpacks/ComplementaryUnbound_r5.3 \+ EuphoriaPatches_1.4.3/
+shaderpacks/*EuphoriaPatches*/
 
 /.physics_mod_cache/
 
