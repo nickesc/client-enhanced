@@ -70,6 +70,6 @@ controlify-natives/
 
 modrinth/
 
-config/*.toml.bak
+config/*.toml.bak*
 
 TODO.md
