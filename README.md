@@ -130,11 +130,13 @@ The `Client-Enhanced` modpack is released on GitHub as a `.mrpack` file that can
 >
 > Runs on the Sodium rendering engine. Shaders are supported and enabled by default. Requires more powerful hardware to maintain a steady framerate.
 
-#### `Vulkan` Version
+#### `Vulkan` Version:
+> ###### [View the Vulkan branch of the repository](https://github.com/nickesc/client-enhanced/tree/vulkan)
+> 
 > A lightweight version of the modpack made to run with a Vulkan renderer. Any mods that conflict with [VulkanMod](https://modrinth.com/mod/vulkanmod) have been removed.
 >
 > Delivers **significant** performance boosts on some systems, but **does not have shader support**, among other compromises. Should be capable of running on any hardware.
->
+> 
 > <details> 
 >   <summary><h4>Vulkan Only Mods</h4></summary>
 >
