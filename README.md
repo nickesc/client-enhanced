@@ -434,6 +434,9 @@ Pack | Link
 3D Default | [Modrinth](https://modrinth.com/resourcepack/3d-default)
 3D Models (UltiCraft Sandalone) | [Modrinth](https://modrinth.com/resourcepack/ulticraft-models-3d)
 Farm 3D | [Modrinth](https://modrinth.com/resourcepack/farm-3d)
+Rounded Trees | [Modrinth](https://modrinth.com/resourcepack/round-trees)
+Cubic Sun and Moon | [Modrinth](https://modrinth.com/resourcepack/cubic-sun-moon)
+Better Leaves | [Modrinth](https://modrinth.com/resourcepack/betterleaves)
 Blue's Better Monsters | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/blues-better-monsters)
 Duck Chicken Goose | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/allfowl)
 Better Cats | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/better-cats-minecraft)
@@ -447,6 +450,7 @@ Pack | Link
 -|-|
 Fresh Animations | [Modrinth](https://modrinth.com/resourcepack/fresh-animations)
 Fresh Animations - Extensions | [Modrinth](https://modrinth.com/resourcepack/fresh-animations-extensions)
+Better Flame Particles | [Modrinth](https://modrinth.com/resourcepack/better-flame-particles)
 
 ##### GUI
 
@@ -454,8 +458,18 @@ Pack | Link
 -|-|
 Colorful Containers GUI | [Modrinth](https://modrinth.com/resourcepack/colourful-containers-gui)
 Recolorful Containers | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui/)
+Unique Dark | [Modrinth](https://modrinth.com/resourcepack/unique-dark)
+Low Shield | [Modrinth](https://modrinth.com/resourcepack/low-shield-pack)
+Low On Fire | [Modrinth](https://modrinth.com/resourcepack/low-on-fire)
 Rybo's Enhanced GUI | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
 Caves & Cliffs Panorama | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/the-1-18-panorama)
+
+##### CTM
+
+Pack | Link
+-|-|
+CTM Overhaul | [Modrinth]()
+It's All Connected | [Modrinth](https://modrinth.com/resourcepack/its-all-connected)
 
 </details>
 
