@@ -52,7 +52,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","axolotlbuckets:axolotl-buckets-small","continuity:default","file/CTM-Overhaul-V_5.0.zip","continuity:glass_pane_culling_fix","file/1.18 Panorama.zip","file/§lcolourful containers§8.zip","file/LowOnFire 1.21.4.zip","file/Low Shield.zip","file/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip","file/cubic-sun-moon-v1-8a.zip","file/FreshAnimations (v1.9.3).zip","file/FA+ - All Extensions (v1.4 - Custom Baby:Chest Fix).zip","file/Ultimacraft Models (v1.4).zip","file/3D Default - 1.20+ (v1.11.1).zip","file/Farm 3D (v1.0).zip"]
+resourcePacks:["vanilla","fabric","axolotlbuckets:axolotl-buckets-small","continuity:default","continuity:glass_pane_culling_fix","file/It\u0027s All Connected v1.3.zip","file/CTM-Overhaul-V_5.0.zip","file/1.18 Panorama.zip","file/§lcolourful containers§8.zip","file/LowOnFire 1.21.4.zip","file/Low Shield.zip","file/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip","file/cubic-sun-moon-v1-8a.zip","file/FreshAnimations (v1.9.3).zip","file/FA+ - All Extensions (v1.4 - Custom Baby:Chest Fix).zip","file/Ultimacraft Models (v1.4).zip","file/3D Default - 1.20+ (v1.11.1).zip","file/Farm 3D (v1.0).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
