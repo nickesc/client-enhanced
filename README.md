@@ -98,10 +98,12 @@ See the [Mod List](#mod-list) for a full list of the included mods.
 ##### Resource Packs
 Included in the resource packs are a number of vanilla-adjacent updates to mob models and animations. These are disabled by default, but can be enabled if you want. Make sure they are at the top of the resource pack list if you want to use them. They may impact performance significantly.
 
+There are also additional optional 3D model/effect packs that can be enabled to add further dimension to the world.
+
 There are also alternatives to the container GUI replacements that can be enabled as resource packs instead of Colorful Containers.
 
 ##### Shaders
-There are a lot of different options for shaders in the Shader Pack menu. To access that menu, press `O`. By default, the MakeUp - Ultra Fast shader is selected, but there are also options for higher end machines and lower end machines.
+There are a lot of different options for shaders in the Shader Pack menu. To access that menu, press `O`. By default, the [LITE Shaders](https://modrinth.com/shader/lite-shaders) shader is selected, but there are also options for higher end machines and lower end machines.
 
 ##### Hotkeys
 Many of the enhancements included in this modpack can be toggled using hotkeys:
