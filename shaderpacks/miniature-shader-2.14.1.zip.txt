@@ -1,0 +1,7 @@
+#Sun Feb 09 15:25:50 EST 2025
+ENABLE_FOG=false
+SHADOW_PIXEL=0
+SUN_BRIGHTNESS=1.2
+shadowDistance=384.0
+shadowIntervalSize=10.0
+shadowMapResolution=4096

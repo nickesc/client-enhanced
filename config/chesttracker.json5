@@ -12,6 +12,7 @@
 		inventory_button: {
 			enabled: true,
 			show_extra: true,
+			always_show_extra: false,
 			show_export: false
 		}
 	},

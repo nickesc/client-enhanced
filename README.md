@@ -100,10 +100,12 @@ See the [Mod List](#mod-list) for a full list of the included mods.
 ##### Resource Packs
 Included in the resource packs are a number of vanilla-adjacent updates to mob models and animations. These are disabled by default, but can be enabled if you want. Make sure they are at the top of the resource pack list if you want to use them. They may impact performance significantly.
 
+There are also additional optional 3D model/effect packs that can be enabled to add further dimension to the world.
+
 There are also alternatives to the container GUI replacements that can be enabled as resource packs instead of Colorful Containers.
 
 ##### Shaders
-There are a lot of different options for shaders in the Shader Pack menu. To access that menu, press `O`. By default, the MakeUp - Ultra Fast shader is selected, but there are also options for higher end machines and lower end machines.
+There are a lot of different options for shaders in the Shader Pack menu. To access that menu, press `O`. By default, the [LITE Shaders](https://modrinth.com/shader/lite-shaders) shader is selected, but there are also options for higher end machines and lower end machines.
 
 ##### Hotkeys
 Many of the enhancements included in this modpack can be toggled using hotkeys:
@@ -132,11 +134,13 @@ The `Client-Enhanced` modpack is released on GitHub as a `.mrpack` file that can
 >
 > Runs on the Sodium rendering engine. Shaders are supported and enabled by default. Requires more powerful hardware to maintain a steady framerate.
 
-#### `Vulkan` Version
+#### `Vulkan` Version:
+> ###### [View the Vulkan branch of the repository](https://github.com/nickesc/client-enhanced/tree/vulkan)
+> 
 > A lightweight version of the modpack made to run with a Vulkan renderer. Any mods that conflict with [VulkanMod](https://modrinth.com/mod/vulkanmod) have been removed.
 >
 > Delivers **significant** performance boosts on some systems, but **does not have shader support**, among other compromises. Should be capable of running on any hardware.
->
+> 
 > <details> 
 >   <summary><h4>Vulkan Only Mods</h4></summary>
 >
@@ -433,6 +437,9 @@ Pack | Link
 3D Default | [Modrinth](https://modrinth.com/resourcepack/3d-default)
 3D Models (UltiCraft Sandalone) | [Modrinth](https://modrinth.com/resourcepack/ulticraft-models-3d)
 Farm 3D | [Modrinth](https://modrinth.com/resourcepack/farm-3d)
+Rounded Trees | [Modrinth](https://modrinth.com/resourcepack/round-trees)
+Cubic Sun and Moon | [Modrinth](https://modrinth.com/resourcepack/cubic-sun-moon)
+Better Leaves | [Modrinth](https://modrinth.com/resourcepack/betterleaves)
 Blue's Better Monsters | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/blues-better-monsters)
 Duck Chicken Goose | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/allfowl)
 Better Cats | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/better-cats-minecraft)
@@ -446,6 +453,7 @@ Pack | Link
 -|-|
 Fresh Animations | [Modrinth](https://modrinth.com/resourcepack/fresh-animations)
 Fresh Animations - Extensions | [Modrinth](https://modrinth.com/resourcepack/fresh-animations-extensions)
+Better Flame Particles | [Modrinth](https://modrinth.com/resourcepack/better-flame-particles)
 
 ##### GUI
 
@@ -453,8 +461,18 @@ Pack | Link
 -|-|
 Colorful Containers GUI | [Modrinth](https://modrinth.com/resourcepack/colourful-containers-gui)
 Recolorful Containers | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui/)
+Unique Dark | [Modrinth](https://modrinth.com/resourcepack/unique-dark)
+Low Shield | [Modrinth](https://modrinth.com/resourcepack/low-shield-pack)
+Low On Fire | [Modrinth](https://modrinth.com/resourcepack/low-on-fire)
 Rybo's Enhanced GUI | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
 Caves & Cliffs Panorama | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/the-1-18-panorama)
+
+##### CTM
+
+Pack | Link
+-|-|
+CTM Overhaul | [Modrinth]()
+It's All Connected | [Modrinth](https://modrinth.com/resourcepack/its-all-connected)
 
 </details>
 
@@ -477,7 +495,6 @@ Miniature Shader | [Modrinth](https://modrinth.com/shader/miniature-shader)
 Licorice Shaders | [Modrinth](https://modrinth.com/shader/liquorice)
 Open4ES Renewed | [Modrinth](https://modrinth.com/shader/open4es-renewed)
 Simply Upscaled | [Modrinth](https://modrinth.com/shader/simply-upscaled)
-BVS - Best Vanilla Shader | [Modrinth](https://modrinth.com/shader/bvs)
 Vanilletix Reimagined | [Modrinth](https://modrinth.com/shader/vanilletix)
 CH Motion | [Modrinth](https://modrinth.com/shader/ch-motion)
 DepthField | [Modrinth](https://modrinth.com/shader/depthfield)

@@ -51,6 +51,9 @@ creativeBreakingSupport = true
 # This option will disable log stripping.
 disableLogStripping = false
 
+# This option will disable paving when holding a block in your offhand.
+disablePavingWithBlockInOffhand = true
+
 # This option will disable step assist added by other mods.
 disableStepAssist = false
 
