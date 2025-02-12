@@ -75,3 +75,5 @@ config/*.toml.bak*
 TODO.md
 
 config/authme.jsonc
+
+config/resourceful-config-web.json
