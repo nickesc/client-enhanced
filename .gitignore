@@ -73,3 +73,5 @@ modrinth/
 config/*.toml.bak*
 
 TODO.md
+
+config/authme.jsonc
