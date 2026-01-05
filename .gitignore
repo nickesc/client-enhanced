@@ -79,3 +79,5 @@ config/authme.jsonc
 config/resourceful-config-web.json
 
 debug/
+
+sha1error.txt
