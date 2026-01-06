@@ -1,25 +1,30 @@
+mods/*.jar
 
-/assets/
+resourcepacks/*.zip
 
-/bin/
+shaderpacks/*.zip
 
-/downloads/
+assets/
 
-/launcher/
+bin/
 
-/libraries/
+downloads/
+
+launcher/
+
+libraries/
 
 logs/
 
-/runtime/
+runtime/
 
 saves/
 
-/screenshots/
+screenshots/
 
-/versions/
+versions/
 
-/webcache2/
+webcache2/
 
 launcher_*.*
 
@@ -36,33 +41,25 @@ updateSourceCache.json
 
 usercache.json
 
-/.fabric/
+.fabric/
 
-/journeymap/data/
+journeymap/data/
 
-/journeymap/server/
+journeymap/server/
 
-/voxelmap/
+voxelmap/
 
-/crash-reports/
+crash-reports/
 
-/backups/
+backups/
 
-/data/
+data/
 
-shaderpacks/*EuphoriaPatches*/
-
-shaderpacks/*EuphoriaPatches*/
-
-/.physics_mod_cache/
-
-/chesttracker/
+chesttracker/
 
 cache/
 
 fancymenu_data/
-
-mods/physics-mod-*.jar
 
 config/jade/usernamecache.json
 
@@ -81,3 +78,5 @@ config/resourceful-config-web.json
 debug/
 
 sha1error.txt
+
+waypoints/
