@@ -1,9 +1,10 @@
 mods/*.jar
 
 resourcepacks/*.zip
-!resourcepacks/More\ JourneyMap\ Waypoints\ v1.1.zip
 
 shaderpacks/*.zip
+
+datapacks/*.zip
 
 assets/
 
