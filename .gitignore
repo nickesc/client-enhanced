@@ -1,10 +1,10 @@
+# modpack-lock:start
 mods/*.jar
-
 resourcepacks/*.zip
-
 shaderpacks/*.zip
-
 datapacks/*.zip
+*/**/*.disabled
+# modpack-lock:end
 
 assets/
 
@@ -84,17 +84,6 @@ waypoints/
 journeymap/icon/
 
 client-enhanced/unused/
-
-# modpack-lock:start
-mods/*.jar
-resourcepacks/*.zip
-shaderpacks/*.zip
-datapacks/*.zip
-*/**/*.disabled
-
-## Exceptions
-# No exceptions needed - all files are hosted on Modrinth
-# modpack-lock:end
 
 .replay_cache/
 
