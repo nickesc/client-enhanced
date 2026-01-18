@@ -63,8 +63,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/Icons v.1.13.zip","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/Chat+ v.1.3.zip","file/More JourneyMap Waypoints v1.1.zip","file/No Pumpkin Blur 1.0.zip","file/Low Fire.zip","file/Low Shield.zip","file/Recolourful Containers 3.0.1 (1.19.4+).zip","file/visuals-2.0.2.zip","file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip","file/Theone\u0027s Eating Animation Pack v1.0.zip","file/Lively Turtle Helmet.zip","file/EvenBetterEnchants_v3_1.21.5+.zip","file/Nautilus3D-V2.5.zip","file/§l3D§f+Ladders+v1.2.1 - 1.21.11.zip","file/EnderEyes_1.21.11_v3.1.zip","cursors_extended:default_auto","file/FreshAnimations_v1.10.3.zip","file/FA+All_Extensions-v1.7.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","cursors_extended:default_auto","white_icons","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Chat+ v.1.3.zip","file/More JourneyMap Waypoints v1.2.zip","file/Accurate Pumpkin Blur.zip","file/Low Fire.zip","file/Low Shield.zip","file/Theone\u0027s Eating Animation Pack v1.0.zip","file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip","subtle_effects:biome_color_water_particles","file/visuals-2.0.2.zip","file/Icons v.1.13.zip","file/Recolourful Containers 3.0.1 (1.19.4+).zip","file/Lively Turtle Helmet.zip","file/EvenBetterEnchants_v3_1.21.5+.zip","file/Nautilus3D-V2.5.zip","file/FreshAnimations_v1.10.3.zip","file/FA+Spiders-v2.1.zip","file/FA+Objects-v2.1.zip","file/FA+Emissive-v1.4.1.zip","file/FA+Details-v2.1.zip","file/FA+Classic_Horses-v1.4.1.zip"]
+incompatibleResourcePacks:["file/Accurate Pumpkin Blur.zip","subtle_effects:biome_color_water_particles"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -126,7 +126,7 @@ key_key.toggleGui:key.keyboard.f1
 key_key.toggleSpectatorShaderEffects:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.f5
-key_key.smoothCamera:key.keyboard.f4
+key_key.smoothCamera:key.keyboard.f7
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.spectatorHotbar:key.mouse.middle
@@ -167,6 +167,7 @@ key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.l
+key_hardcover.key.quick_craft:key.keyboard.unknown
 key_key.bcbui.areaselectioninput:key.keyboard.semicolon
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_key.clickthrough.toggle:key.keyboard.l
@@ -184,6 +185,8 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
+key_key.emotecraft.fastchoose:key.keyboard.c
+key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.l
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.freecam.toggle:key.keyboard.f4
@@ -260,11 +263,10 @@ key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen_follow_player:key.keyboard.h
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.unknown
-key_mapfrontiers.key.open_settings:key.keyboard.f8
+key_key.debug.reloadLanguages:key.keyboard.j
+key_mapfrontiers.key.open_settings:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.grave.accent
 key_key.optigui.inspect:key.keyboard.f12
-key_key.pingwheel.ping_location:key.mouse.5
-key_key.pingwheel.open_settings:key.keyboard.x
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.l
 key_key.presencefootsteps.debug_toggle:key.keyboard.unknown
@@ -301,6 +303,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.5010315801056338
