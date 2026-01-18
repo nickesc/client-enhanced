@@ -54,7 +54,7 @@ toggleCrouch:false
 toggleSprint:false
 toggleAttack:false
 toggleUse:false
-sprintWindow:7
+sprintWindow:10
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
