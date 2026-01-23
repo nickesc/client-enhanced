@@ -23,6 +23,7 @@
         DarkOakLeaves: false,
         MangroveLeaves: false,
         CherryLeaves: false,
+        PaleOakLeaves: true,
         AzaleaLeaves: false,
         FloweringAzaleaLeaves: false
     },
@@ -62,9 +63,9 @@
         Beetroots: true
     },
     Misc: {
-        Mace: true,
-        Trident: true,
-        Chest: true,
+        Mace: false,
+        Trident: false,
+        Chest: false,
         RandomBookshelves: true,
         Rails: true,
         RailCorner: "curved",
