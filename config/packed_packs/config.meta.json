@@ -1,25 +1,6 @@
 {
   "resourcepacks": {
-    "aliases": {
-
-      "regex:file\\/3D Default \\d*": "alias/3D Default",
-      "regex:file\\/better_flame_particles-v\\d*": "alias/better_flame_particles",
-      "regex:file\\/Chat+ v\\d*": "alias/Chat+",
-      "regex:file\\/EvenBetterEnchants_v\\d*": "alias/EvenBetterEnchants",
-      "regex:file\\/FA+Classic_Horses-v\\d*": "alias/FA+Classic_Horses",
-      "regex:file\\/FA+Details-v\\d*": "alias/FA+Details",
-      "regex:file\\/FA+Emissive-v\\d*": "alias/FA+Emissive",
-      "regex:file\\/FA+Objects-v\\d*": "alias/FA+Objects",
-      "regex:file\\/FA+Player-v\\d*": "alias/FA+Player",
-      "regex:file\\/FA+Spiders-v \\d*": "alias/FA+Spiders",
-      "regex:file\\/FreshAnimations_v\\d*": "alias/FreshAnimations",
-      "regex:file\\/Icons v.\\d*": "alias/Icons",
-      "regex:file\\/More JourneyMap Waypoints v\\d*": "alias/More JourneyMap Waypoints",
-      "regex:file\\/Nautilus3D-V\\d*": "alias/Nautilus3D",
-      "regex:file\\/Recolourful Containers \\d*": "alias/Recolourful Containers",
-      "regex:file\\/Theone's Eating Animation Pack v\\d*": "alias/Theone's Eating Animation Pack",
-      "regex:file\\/visuals-\\d*": "alias/visuals"
-    }
+    "aliases": {}
   },
   "datapacks": {
     "aliases": {}
