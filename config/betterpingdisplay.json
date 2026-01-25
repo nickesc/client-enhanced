@@ -1,6 +1,6 @@
 {
   "autoColorPingText": true,
   "renderPingBars": true,
-  "pingTextColor": "#A0A0A0",
+  "pingTextColor": "#a0a0a0",
   "pingTextFormatString": "%dms"
 }

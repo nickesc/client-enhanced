@@ -7,6 +7,7 @@
   "showDebugCoordinates": false,
   "orderTabsAlphabetically": false,
   "uiScaling": 100,
+  "defaultZoom": 1.0,
   "criteriaDetail": "Default",
   "criteriaDetailRequiresShift": false,
   "addInventoryButton": false,

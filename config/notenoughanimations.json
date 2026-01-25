@@ -22,9 +22,11 @@
   "enableEatDrinkAnimation": true,
   "enableRowBoatAnimation": true,
   "enableHorseAnimation": true,
+  "enableHorseLegAnimation": false,
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,
   "rotationLock": "NONE",
+  "limitRotationLockToFP": true,
   "showLastUsedSword": false,
   "sheathSwords": [
     "minecraft:golden_sword",
@@ -36,15 +38,25 @@
   ],
   "enableCrawlingAnimation": true,
   "holdUpItemsMode": "CONFIG",
+  "holdUpTarget": "CAMERA",
+  "holdUpCameraOffset": 0.1,
+  "holdUpOnlySelf": false,
   "holdUpItemOffset": 0.0,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
-  "fallingAnimation": false,
+  "fallingAnimation": true,
   "freezingAnimation": true,
-  "huggingAnimation": false,
+  "huggingAnimation": true,
   "narutoRunning": false,
-  "enableInWorldBookRendering": false,
   "disableLegSmoothing": false,
-  "bowAnimation": "VANILLA"
+  "bowAnimation": "CUSTOM_V1",
+  "customBowRotationLock": false,
+  "clampCrossbowAnimations": false,
+  "burningAnimation": true,
+  "hideItemsForTheseBows": [],
+  "mapHolding": [
+    "minecraft:filled_map",
+    "antiqueatlas:antique_atlas"
+  ]
 }

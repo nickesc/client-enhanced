@@ -3,6 +3,7 @@
 	"hostile_mobs": true,
 	"players": true,
 	"self": false,
+	"show_through_walls": false,
 	"blacklistOrWhitelist": true,
 	"list": [
 		"minecraft:armor_stand"
@@ -17,8 +18,10 @@
 	"distance": 8,
 	"override_players": true,
 	"indicator_type": "HEARTS",
+	"dynamic_health_threshold": 100,
 	"icons_per_row": 10,
 	"use_vanilla_textures": false,
+	"health_bar_opacity": 100,
 	"show_heart_effects": true,
 	"number_color": -65536,
 	"render_number_display_shadow": false,
@@ -31,5 +34,11 @@
 	"force_higher_offset_for_players": false,
 	"message_type": "CHAT",
 	"colored_messages": true,
-	"enable_commands": true
+	"enable_commands": true,
+	"enable_damage_direction_indicators": true,
+	"damage_direction_indicators_scale": 1,
+	"damage_direction_indicators_color": -2016453,
+	"damage_direction_indicators_visibility_time": 4,
+	"damage_direction_indicators_fade_out": true,
+	"damage_direction_indicators_fade_out_time": 3
 }

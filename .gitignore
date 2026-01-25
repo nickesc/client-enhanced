@@ -62,19 +62,13 @@ cache/
 
 fancymenu_data/
 
-config/jade/usernamecache.json
-
 controlify-natives/
 
 modrinth/
 
-config/*.toml.bak*
 
 TODO.md
 
-config/authme.jsonc
-
-config/resourceful-config-web.json
 
 debug/
 
@@ -90,6 +84,24 @@ client-enhanced/unused/
 
 replay_recordings/
 
+## CONFIG IGNORE ##
+
+config/jade/usernamecache.json
+
+config/*.toml.bak*
+
+config/authme.jsonc
+
+config/resourceful-config-web.json
+
 config/jei/world/
 
 config/litematica/
+
+config/cubes-without-borders.json
+
+config/.puzzle_cache/
+
+config/inventoryprofilesnext/*/
+
+!config/inventoryprofilesnext/integrationHints/

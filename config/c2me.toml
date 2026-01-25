@@ -47,7 +47,7 @@ threadPoolPriority = "default"
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
-		# (Default: 56) Max render distance allowed in game options
+		# (Default: 111) Max render distance allowed in game options
 		maxViewDistance = "default"
 		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 		# This allows requesting render distances higher than 127 chunks from the server
@@ -59,14 +59,9 @@ threadPoolPriority = "default"
 		enableExtRenderDistanceProtocol = "default"
 
 [noTickViewDistance]
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = "default"
 	# (Default: 12) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
-	# (Default: true) Whether to use compatibility mode to send chunks 
-	#  This may fix some mod compatibility issues
-	compatibilityMode = "default"
 	# (Default: true) Enable server-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 	# This allows requesting render distances higher than 127 chunks from the server
 	# 
@@ -76,6 +71,13 @@ threadPoolPriority = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
+	# (Default: true) Whether to attempt to smooth out chunk sending rate
+	# 
+	# Due to the nature of chunk loading and generation, chunks reach full status in bursts,
+	# which can cause frame time stability if the server also delivers chunks in a bursty way
+	# This config attempts to smooth out the bursty stream of chunks to help frame time stability
+	# 
+	smoothChunkSendingRate = "default"
 
 [ioSystem]
 	# (Default: 8192) Soft limit for io worker nbt cache
@@ -91,7 +93,7 @@ threadPoolPriority = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	# Set to false for the following reasons: 
-	# Incompatible with architectury@15.0.1 (*) (defined in c2me) 
+	# Incompatible with architectury@19.0.1 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
@@ -190,7 +192,21 @@ threadPoolPriority = "default"
 	fluidPostProcessingToScheduledTick = "default"
 	# (Default: false) Whether to enable low memory mode
 	# 
-	# This will attempt to aggressively unload unneeded chunks, saving memory at the cost of additional
-	# overhead when generating new chunks.
+	# This option will attempt to aggressively unload unused chunks.
+	# Only applies when useLegacyScheduling is disabled.
 	# 
 	lowMemoryMode = "default"
+	# (Default: true) Whether to filter fluid post-processing on worldgen threads
+	# 
+	# The worldgen processes creates a lot of unnecessary fluid post-processing tasks,
+	# which can overload the server thread and cause stutters.
+	# This applies a rough filter to filter out fluids that are definitely not going to flow
+	# 
+	filterFluidPostProcessing = "default"
+	# (Default: false) Whether to use legacy scheduling for neighbor chunks
+	# 
+	# Enabling this restores the behavior of always loading in neighbor chunks when a chunk is loaded.
+	# 
+	# This is currently deprecated and will be removed in the future.
+	# 
+	useLegacyScheduling = "default"

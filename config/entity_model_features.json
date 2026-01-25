@@ -4,12 +4,13 @@
   "renderModeChoice": "NORMAL",
   "vanillaModelHologramRenderMode_2": "OFF",
   "modelExportMode": "NONE",
-  "attemptPhysicsModPatch_2": "OFF",
   "modelUpdateFrequency": "Average",
   "entityRenderModeOverrides": {},
-  "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
-  "modelsNamesDisabled": [],
+  "modelsNamesDisabled": [
+    "chest",
+    "boat_patch"
+  ],
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
@@ -26,5 +27,7 @@
   "enforceOptifineSubFoldersVariantOnly": true,
   "enforceOptiFineAnimSyntaxLimits": true,
   "allowOptifineFallbackProperties": true,
-  "showReloadErrorToast": false
+  "showReloadErrorToast": false,
+  "armorCopiesAnimationsHack": true,
+  "exportRotations": false
 }
