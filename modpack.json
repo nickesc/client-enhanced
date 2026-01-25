@@ -200,6 +200,7 @@
     "datapacks": []
   },
   "scripts": {
-    "changelog": "./client-enhanced/scripts/update-changelog.sh"
+    "changelog": "./client-enhanced/scripts/update-changelog.sh",
+    "yosbr": "rsync -avi --stats --filter=':- ../.gitignore' --exclude-from=\"$(git config --get core.excludesfile)\" --exclude='yosbr' config/ config/yosbr"
   }
 }
