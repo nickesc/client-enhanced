@@ -19,3 +19,5 @@ cubes-without-borders.json
 inventoryprofilesnext/*/
 
 !inventoryprofilesnext/integrationHints/
+
+sodium-fingerprint.json
