@@ -1,0 +1,21 @@
+## CONFIG IGNORE ##
+
+jade/usernamecache.json
+
+*.toml.bak*
+
+authme.jsonc
+
+resourceful-config-web.json
+
+jei/world/
+
+litematica/
+
+cubes-without-borders.json
+
+.puzzle_cache/
+
+inventoryprofilesnext/*/
+
+!inventoryprofilesnext/integrationHints/

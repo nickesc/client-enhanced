@@ -83,25 +83,3 @@ client-enhanced/unused/
 .replay_cache/
 
 replay_recordings/
-
-## CONFIG IGNORE ##
-
-config/jade/usernamecache.json
-
-config/*.toml.bak*
-
-config/authme.jsonc
-
-config/resourceful-config-web.json
-
-config/jei/world/
-
-config/litematica/
-
-config/cubes-without-borders.json
-
-config/.puzzle_cache/
-
-config/inventoryprofilesnext/*/
-
-!config/inventoryprofilesnext/integrationHints/
