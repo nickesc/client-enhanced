@@ -89,3 +89,7 @@ client-enhanced/unused/
 .replay_cache/
 
 replay_recordings/
+
+config/jei/world/
+
+config/litematica/
