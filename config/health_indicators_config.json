@@ -35,7 +35,7 @@
 	"message_type": "CHAT",
 	"colored_messages": true,
 	"enable_commands": true,
-	"enable_damage_direction_indicators": true,
+	"enable_damage_direction_indicators": false,
 	"damage_direction_indicators_scale": 1,
 	"damage_direction_indicators_color": -2016453,
 	"damage_direction_indicators_visibility_time": 4,
