@@ -2,10 +2,6 @@
   "locked": false,
   "name": "Vanilla-like",
   "overrides": {
-    "file/visuals-2.0.2.zip": {
-      "hidden": true,
-      "position": "BOTTOM"
-    },
     "continuity:default": {
       "hidden": true,
       "required": true,
@@ -48,9 +44,6 @@
       "hidden": true
     },
     "cursors_extended:legacy": {
-      "hidden": true
-    },
-    "black_icons": {
       "hidden": true
     },
     "classic_icons": {
@@ -114,9 +107,19 @@
     "file/Theone\u0027s Eating Animation Pack v1.0.zip": {
       "hidden": true,
       "required": true
+    },
+    "file/Chase the Skies.zip": {
+      "hidden": true
+    },
+    "naturalwaters:opaque_water": {
+      "hidden": true,
+      "required": true,
+      "position": "TOP"
     }
   },
   "packIds": [
+    "naturalwaters:opaque_water",
+    "file/Gentler Weather Sounds 2.1.0.zip",
     "file/EvenBetterEnchants_v3_1.21.5+.zip",
     "file/Icons v.1.13.zip",
     "subtle_effects:biome_color_water_particles",

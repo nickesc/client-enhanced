@@ -1,0 +1,158 @@
+{
+  "locked": false,
+  "name": "Vanilla",
+  "overrides": {
+    "subtle_effects:biome_color_water_particles": {
+      "hidden": true,
+      "required": true
+    },
+    "continuity:default": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Chat+ v.1.3.zip": {
+      "hidden": true
+    },
+    "file/Lively Turtle Helmet.zip": {
+      "hidden": true
+    },
+    "white_icons": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "classic_icons": {
+      "hidden": true
+    },
+    "file/FA+Spiders-v2.1.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "vanilla": {
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/visuals-2.0.2.zip": {
+      "hidden": true
+    },
+    "file/3D Default 1.21.2+ v1.13.1.zip": {
+      "hidden": true
+    },
+    "file/Icons v.1.13.zip": {
+      "hidden": true
+    },
+    "file/FA+Emissive-v1.4.1.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "file/FA+Classic_Horses-v1.4.1.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "cursors_extended:default": {
+      "hidden": true
+    },
+    "file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip": {
+      "hidden": true
+    },
+    "file/FA+Player-v1.0.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "file/animated-items 1.21.x - v1.5.5.zip": {
+      "hidden": true
+    },
+    "file/EvenBetterEnchants_v3_1.21.5+.zip": {
+      "hidden": true
+    },
+    "file/Chase the Skies.zip": {
+      "hidden": true
+    },
+    "naturalwaters:opaque_water": {
+      "hidden": true,
+      "required": true,
+      "position": "TOP"
+    },
+    "file/FA+Objects-v2.1.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "cursors_extended:default_auto": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/FA+Details-v2.1.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "file/FreshAnimations_v1.10.3.zip": {
+      "hidden": true
+    },
+    "file/Nautilus3D-V2.6.zip": {
+      "hidden": true
+    },
+    "file/Gentler Weather Sounds 2.1.0.zip": {
+      "hidden": true
+    },
+    "file/Accurate Pumpkin Blur.zip": {
+      "hidden": true
+    },
+    "cursors_extended:legacy": {
+      "hidden": true
+    },
+    "file/Low Fire.zip": {
+      "hidden": true
+    },
+    "file/Chat Reporting Helper.zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "hardcover:default_dark_mode": {
+      "hidden": true
+    },
+    "file/Theone\u0027s Eating Animation Pack v1.0.zip": {
+      "hidden": true
+    },
+    "hardcover:vanilla_tweaks": {
+      "hidden": true
+    },
+    "file/More JourneyMap Waypoints v1.2.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "axolotlbuckets:axolotl-buckets-small": {
+      "hidden": true
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Low Shield.zip": {
+      "hidden": true
+    },
+    "file/Recolourful Containers 3.0.1 (1.19.4+).zip": {
+      "hidden": true
+    },
+    "file/SodiumTranslations.zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    }
+  },
+  "packIds": [
+    "naturalwaters:opaque_water",
+    "subtle_effects:biome_color_water_particles",
+    "file/More JourneyMap Waypoints v1.2.zip",
+    "file/Chat Reporting Helper.zip",
+    "file/SodiumTranslations.zip",
+    "white_icons",
+    "cursors_extended:default_auto",
+    "continuity:glass_pane_culling_fix",
+    "continuity:default",
+    "vanilla"
+  ]
+}
