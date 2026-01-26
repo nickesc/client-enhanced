@@ -200,6 +200,8 @@
   },
   "scripts": {
     "changelog": "./client-enhanced/scripts/update-changelog.sh",
-    "yosbr": "rsync -avi --stats --filter=':- ../.gitignore' --exclude-from=\"$(git config --get core.excludesfile)\" --exclude='yosbr' config/ config/yosbr"
+    "yosbr": "rsync -avin --stats --filter=':- ../.gitignore' --exclude-from=\"$(git config --get core.excludesfile)\" --exclude='yosbr' config/ config/yosbr/config && cp options.txt config/yosbr/options.txt",
+    "fancyassets": "cp modpack.json config/fancymenu/assets/modpack.json",
+    "sync": "modpack-lock -grq && modpack-lock run yosbr && modpack-lock run fancyassets"
   }
 }
