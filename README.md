@@ -39,7 +39,7 @@ And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://mo
 
 The pack also includes mods like [Just Enough Items](https://modrinth.com/mod/jei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap.
 
-Resource packs like [3D Default](https://modrinth.com/resourcepack/3d-default) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
+Resource packs like [Nautilus 3D](https://modrinth.com/resourcepack/nautilus3d) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
 
 Shaders like [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) and [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
 
