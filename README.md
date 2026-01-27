@@ -35,7 +35,7 @@
 
 Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls.
 
-And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience for all kinds of hardware (with the addition of a version of the modpack.
+And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience for all kinds of hardware.
 
 The pack also includes mods like [Just Enough Items](https://modrinth.com/mod/jei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap.
 
@@ -47,7 +47,7 @@ Shaders like [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) and [M
 > Click the `.gif` to see shader load-in in realtime and full resolution
 
 > [!CAUTION]
-> `Client-Enhanced` is not necessarily compatible with multiplayer servers just because it is client-side only! Some of the mods included may be detected by anti-cheat plugins.
+> `Client-Enhanced` is not necessarily compatible with multiplayer servers even though it is client-side only! Some of the mods included may be flagged by anti-cheat plugins.
 >
 > ***DO NOT*** connect to a server while using `Client-Enhanced` unless you know that the mods in this modpack are permitted on that server.
 
@@ -80,7 +80,7 @@ See the [Mod List](#mod-list) for a full list of the included mods.
 
 ##### Resource Packs
 
-Included in the resource packs are a number of resource packs that can be enabled or disabled to your liking. By default, you can find two profiles in the Resource Pack Browser: `Default` and `Vanilla+`. `Default` includes all recommended packs, while `Vanilla+` excludes packs that change the look too much.
+Included in the resource packs are a number of resource packs that can be enabled or disabled to your liking. By default, you can find three profiles in the Resource Pack Browser: `Enhanced` and `Vanilla-Like`, and `Vanilla`. `Enhanced` includes all recommended packs, while `Vanilla-Like` excludes packs that change the look too much. `Vanilla` is the default profile and includes only neccessary packs.
 
 Even within these profiles, there are still some packs that can be chosen between to fit your needs. To choose between *all* packs, including packs that are usually required, you can use the `No Profile` profile.
 
