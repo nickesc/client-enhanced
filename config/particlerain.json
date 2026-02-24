@@ -582,7 +582,7 @@
   },
   "mist": {
     "lifetime": 200,
-    "opacity": 1.0,
+    "opacity": 0.75,
     "size": 3.0,
     "renderStyle": "BLENDED"
   }
