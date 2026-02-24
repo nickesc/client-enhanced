@@ -12,7 +12,6 @@
   "targetMinecraftVersion": "1.21.11",
   "dependencies": {
     "mods": [
-      "animated-loading-screen",
       "appleskin",
       "architectury-api",
       "auth-me",
