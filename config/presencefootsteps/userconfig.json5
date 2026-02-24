@@ -4,7 +4,7 @@
      * Sets the global footsteps volume on a value between 0% and 100%
      * Default: 70
      */
-    "volume": 70,
+    "volume": 50,
     /*
      * Sets the volume of sounds generated due to walking through foliage and brush
      * Default: 50
@@ -59,7 +59,7 @@
      * When enabled, special footstep sounds will be generated matching the boots you are wearing.
      * Note not all types of boots are supported. Modded boots may sound strange or not work.
      */
-    "footwear": true,
+    "footwear": false,
     /*
      * Sets whether to block vanilla footstep sounds when generating sounds for other entities or players
      */
