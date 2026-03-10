@@ -173,7 +173,7 @@ key_key.clickthrough.toggle:key.keyboard.l
 key_key.clienttweaks.hide_offhand_item:key.keyboard.unknown
 key_key.clienttweaks.disable_step_assist:key.keyboard.unknown
 key_key.clienttweaks.disable_log_stripping:key.keyboard.unknown
-key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.l
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
 key_key.do_a_barrel_roll.pitch_up:key.keyboard.unknown
@@ -267,7 +267,7 @@ key_key.lighty.enable:key.keyboard.unknown
 key_key.lighty.toggle:key.keyboard.f8
 key_mapfrontiers.key.open_settings:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.grave.accent
-key_key.optigui.inspect:key.keyboard.f12
+key_key.optigui.inspect:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.l
 key_key.presencefootsteps.debug_toggle:key.keyboard.unknown
