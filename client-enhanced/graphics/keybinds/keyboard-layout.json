@@ -18,27 +18,27 @@
     "F1\nToggle HUD",
     "F2\nScreen-shot",
     "F3\nDebug Screen",
-    "F4\nCinema Camera",
+    "F4\nFree Cam",
     {
       "x": 0.5
     },
     "F5\nChange POV",
-    "F6\nPlayer Model",
-    "F7",
-    "F8",
+    "F6",
+    "F7\nCinema Cam",
+    "F8\nLight Overlay",
     {
       "x": 0.5
     },
     "F9",
     "F10\nFabri-shot",
     "F11\nFull-screen",
-    "F12\nCopy Inspect",
+    "F12",
     {
       "x": 0.25
     },
     "PrtSc",
     "Scroll Lock",
-    "Pause\nBreak"
+    "Pause"
   ],
   [
     {
@@ -66,7 +66,7 @@
     },
     "Insert",
     "Home",
-    "PgUp"
+    "PgUp\nShoulder Cam ↑"
   ],
   [
     {
@@ -80,7 +80,7 @@
     "T\nChat",
     "Y",
     "U\nSwap Shoulder",
-    "I\nWeapon Menu",
+    "I",
     "O\nShader Menu",
     "P\nSocial Menu",
     "[\nMap Type",
@@ -94,18 +94,18 @@
     },
     "Delete\nSlow Zoom",
     "End",
-    "PgDn"
+    "PgDn\nShoulder Cam ↓"
   ],
   [
     {
       "w": 1.75
     },
-    "Caps Lock\nShoulder Camera",
+    "Caps Lock\nPush-to-talk",
     "A\n\n\n\n\n\n\n\n\n\n←",
     "S\n\n\n\n\n\n\n\n\n\n↓",
     "D\n\n\n\n\n\n\n\n\n\n→",
     "F\nOff  Hand Item",
-    "G\nFull-Bright",
+    "G",
     "H",
     "J\nToggle HUD+",
     "K\nToggle Camera+",
@@ -122,10 +122,10 @@
       "w": 2.25
     },
     "Left Shift\nSneak",
-    "Z",
-    "X",
-    "C\nChest Tracker",
-    "V\nWhere Is This?",
+    "Z\nVC Menu",
+    "X\nMute VC",
+    "C\nEmotes",
+    "V\nShoulder Surfing",
     "B\nCreate Waypoint",
     "N\nWaypoint Manager",
     "M\nFull Map",
@@ -145,7 +145,7 @@
     {
       "w": 1.25
     },
-    "Ctrl",
+    "Ctrl\nSprint",
     {
       "w": 1.25
     },
@@ -179,8 +179,8 @@
     {
       "x": 0.25
     },
-    "←\nShoulder Cam Left",
+    "←\nShoulder Cam ←",
     "↓\nShoulder Cam Out",
-    "→\nShoulder C...Right"
+    "→\nShoulder Cam →"
   ]
 ]
