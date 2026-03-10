@@ -53,7 +53,7 @@
       "hidden": true,
       "position": "TOP"
     },
-    "file/FA+Details-v2.1.zip": {
+    "file/FA+Details-v2.2.zip": {
       "hidden": true,
       "position": "TOP"
     },
@@ -61,10 +61,10 @@
       "hidden": true,
       "position": "TOP"
     },
-    "file/FA+Emissive-v1.4.1.zip": {
+    "file/FA+Emissive-v1.5.zip": {
       "position": "TOP"
     },
-    "file/FA+Classic_Horses-v1.4.1.zip": {
+    "file/FA+Classic_Horses-v1.5.zip": {
       "position": "TOP"
     },
     "file/FA+Objects-v2.1.zip": {
@@ -119,9 +119,9 @@
   },
   "packIds": [
     "naturalwaters:opaque_water",
-    "file/Gentler Weather Sounds 2.1.0.zip",
+    "file/Gentler Weather Sounds 2.2.0.zip",
     "file/EvenBetterEnchants_v3_1.21.5+.zip",
-    "file/Icons v.1.13.zip",
+    "file/Icons v.1.13.2.zip",
     "subtle_effects:biome_color_water_particles",
     "file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip",
     "file/Theone\u0027s Eating Animation Pack v1.0.zip",

@@ -1,0 +1,20 @@
+{
+    HUD: {
+        hotbar: true,
+        hearts: true,
+        foodBar: true,
+        armourBar: true,
+        experienceBar: true
+    },
+    animations: {
+        anvil: true,
+        cartographyTable: true,
+        dispenser: true,
+        dropper: true,
+        enchantingTable: true,
+        enderChest: true,
+        furnaceFire: true,
+        smithingTable: true,
+        stonecutter: true
+    }
+}
