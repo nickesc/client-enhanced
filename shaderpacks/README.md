@@ -1,6 +1,6 @@
 # Shaderpacks
 
-| Name | Author | Version | Dependencies | Dependants |
+| Name | Author | Version | Dependencies | Dependents |
 |-|-|-|-|-|
 | <img alt="Icon" src="https://cdn.modrinth.com/data/BWnGghPW/fa36391f2d9fc9330f74cb08cd2d0f71ff821f23_96.webp" height="20px"> [RetroVision](https://modrinth.com/shader/retrovision) | <img alt="Avatar" src="https://cdn.modrinth.com/user/ULJZx0k3/88ecea808746693d24c5f00caa3ec433599cc76b.jpeg" height="20px"> [marctgamer](https://modrinth.com/user/marctgamer) | 1.80.1 | - | - |
 | <img alt="Icon" src="https://cdn.modrinth.com/data/XaonJnsc/50f76c6946633c8910a50cac689d4329d37dc9df.gif" height="20px"> [CTR VCR](https://modrinth.com/shader/ctrvcr) | <img alt="Avatar" src="https://cdn.modrinth.com/user/neVIzwaO/f82ade15a95676b802d61e0256d52e382979fd1a.png" height="20px"> [millennIumAMbiguity](https://modrinth.com/user/millennIumAMbiguity) | v1.3.1 | - | - |
