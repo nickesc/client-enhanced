@@ -78,6 +78,11 @@ threadPoolPriority = "default"
 	# This config attempts to smooth out the bursty stream of chunks to help frame time stability
 	# 
 	smoothChunkSendingRate = "default"
+	# (Default: true) Whether to enable no-tick view distance
+	# 
+	# Faster alternative implementation of simulation distance, and additionally support up to 65530 view distance
+	# 
+	enabled = "default"
 
 [ioSystem]
 	# (Default: 8192) Soft limit for io worker nbt cache
