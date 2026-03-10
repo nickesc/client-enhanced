@@ -1,5 +1,7 @@
 {
-  "overworldShader": "I Like Vanilla v1.2.2.zip",
-  "netherShader": "CTR-VCR_v1.3.1.zip",
-  "endShader": "§aretrovision_v1.80.1.zip"
+  "shaders": {
+    "minecraft:overworld": "I Like Vanilla v1.3.1.zip",
+    "minecraft:the_nether": "CTR-VCR_v1.4.0.zip",
+    "minecraft:the_end": "§aretrovision_v1.80.1.zip"
+  }
 }
