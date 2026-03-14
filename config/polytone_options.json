@@ -1,0 +1,5 @@
+{
+  "polytone:lenient_loading": true,
+  "polytone:legacy_parsing": true,
+  "polytone:particles_throttle": 1.0
+}
