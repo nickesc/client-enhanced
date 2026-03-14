@@ -7,8 +7,6 @@ datapacks/*.zip
 */**/*.disabled
 # modpack-lock:end
 
-assets/
-
 bin/
 
 downloads/
