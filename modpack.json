@@ -25,7 +25,6 @@
       "bettercommandblockui": "0.5.3",
       "better-mount-hud": "1.2.6",
       "better-stats": "5.0.0-beta.6+fabric-1.21.11",
-      "blur-perfected": "5.3.2-rev.3+1.21.11",
       "c2me-fabric": "0.3.7+alpha.0.9+1.21.11",
       "cameraoverhaul": "2.0.6-fabric+mc.1.21.11-plus",
       "capes": "1.5.10+1.21.11",
@@ -41,7 +40,6 @@
       "cloth-config": "21.11.153+fabric",
       "clumps": "29.0.0.1",
       "collective": "1.21.11-8.13-fabric+forge+neo",
-      "compact-chat": "3.1.0",
       "consumableoptimizer": "2.2.1-1.21.5",
       "continuity": "3.0.1-beta.1+1.21.11",
       "controlify": "3.0.0-beta.3",
@@ -115,7 +113,6 @@
       "modmenu": "17.0.0-beta.2",
       "moreculling": "1.6.2",
       "mru": "1.0.26+edge+1.21.11-fabric",
-      "my_totem_doll": "2.3.3+1.21.11",
       "natural-waters": "21.11.0",
       "netherportalfix": "21.11.2+fabric-1.21.11",
       "no-telemetry": "1.10.0",
@@ -146,7 +143,7 @@
       "rsls": "1.1.14",
       "scalablelux": "0.1.6+fabric.c25518a",
       "scribble": "2.0.0-beta2+mc1.21.11-fabric",
-      "searchables": "1.0.3",
+      "searchables": "1.0.4",
       "serverpingerfixer": "1.0.5",
       "shoulder-surfing-reloaded": "1.21.11-4.22.1+fabric",
       "simple-item-editor": "0.1.8",
@@ -214,7 +211,7 @@
     "shaderpacks": {
       "retrovision": "1.80.1",
       "ctrvcr": "v1.4.0",
-      "i-like-vanilla": "v1.3.2",
+      "i-like-vanilla": "v1.3.1",
       "makeup-ultra-fast-shaders": "9.4c",
       "miniature-shader": "2.18.10"
     }
