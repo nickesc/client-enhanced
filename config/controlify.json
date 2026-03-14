@@ -22,33 +22,42 @@
       },
       "input": {
         "bindings": {
-          "voicechat:ptt_toggle": {
-            "button": "controlify:button/misc_1"
-          },
-          "controlify:swap_hands": {
-            "button": "controlify:button/right_stick"
+          "fabric-key-binding-api-v1:zoomify.key.zoom": {
+            "axis": "controlify:axis/left_trigger"
           },
           "controlify:sneak": {
             "button": "controlify:button/east"
           },
-          "fabric-key-binding-api-v1:key.shouldersurfing.toggle_first_person": {
-            "button": "controlify:button/dpad_left"
-          },
-          "controlify:pick_block": {},
-          "controlify:use": {
-            "button": "controlify:button/west"
-          },
-          "journeymap:radial_menu_open_map": {
-            "button": "controlify:button/back"
-          },
-          "controlify:change_perspective": {},
-          "fabric-key-binding-api-v1:zoomify.key.zoom": {
-            "axis": "controlify:axis/left_trigger"
-          },
           "controlify:radial_menu": {
             "button": "controlify:button/dpad_up"
           },
-          "controlify:open_chat": {}
+          "controlify:use": {
+            "button": "controlify:button/west"
+          },
+          "controlify:change_perspective": {},
+          "fabric-key-binding-api-v1:key.jei.showuses": {
+            "button": "controlify:button/west"
+          },
+          "controlify:pick_block": {},
+          "controlify:open_chat": {},
+          "fabric-key-binding-api-v1:key.journeymap.minimap_preset": {
+            "button": "controlify:button/dpad_right"
+          },
+          "voicechat:ptt_toggle": {
+            "button": "controlify:button/misc_1"
+          },
+          "fabric-key-binding-api-v1:key.jei.showrecipe": {
+            "button": "controlify:button/south"
+          },
+          "fabric-key-binding-api-v1:key.journeymap.map_toggle_alt": {
+            "button": "controlify:button/back"
+          },
+          "controlify:swap_hands": {
+            "button": "controlify:button/right_stick"
+          },
+          "fabric-key-binding-api-v1:key.shouldersurfing.toggle_first_person": {
+            "button": "controlify:button/dpad_left"
+          }
         },
         "sensitivity": {
           "horizontal": 1.0,
@@ -63,13 +72,13 @@
         "radial_menu": {
           "actions": [
             "controlify:toggle_hud_visibility",
-            "controlify:inventory",
+            "controlify:open_chat",
             "controlify:drop_stack",
-            "fabric-key-binding-api-v1:iris.keybind.shaderpackselection",
+            "fabric-key-binding-api-v1:key.voice_chat",
             "fabric-key-binding-api-v1:iris.keybind.toggleshaders",
             "fabric-key-binding-api-v1:key.journeymap.fullscreen_waypoints",
             "fabric-key-binding-api-v1:key.journeymap.fullscreen_create_waypoint",
-            "controlify:take_screenshot"
+            "fabric-key-binding-api-v1:key.emotecraft.fastchoose"
           ],
           "button_focus_timeout_ticks": 20
         },
@@ -98,7 +107,8 @@
   ],
   "global": {
     "virtual_mouse_screens": [
-      "net.minecraft.class_465"
+      "net.minecraft.class_465",
+      "mezz.jei.gui.recipes.RecipesGui"
     ],
     "mixed_input": false,
     "out_of_focus_input": false,
