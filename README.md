@@ -9,7 +9,7 @@
   <h3 align="center">
     Minecraft: <code>Client-Enhanced</code>
   </h3>
-  
+
   <h6 align="center">
     by nickesc — <a href="https://github.com/nickesc">GitHub</a> | <a href="https://modrinth.com/user/nickesc">Modrinth</a>
     <br><br>
@@ -33,23 +33,39 @@
 
 `Client-Enhanced` is an overhaul of the current Minecraft client.
 
-Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls.
+Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and
+[Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)
+update the way it feels to move around and the way the camera controls.
 
-And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience for all kinds of hardware.
+And mods like [Sodium](https://modrinth.com/mod/sodium) and
+[Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience
+for all kinds of hardware.
 
-The pack also includes mods like [Just Enough Items](https://modrinth.com/mod/jei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap.
+The pack also includes mods like
+[Just Enough Items](https://modrinth.com/mod/jei) and
+[JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI
+elements like item/recipe lookup and a minimap.
 
-Resource packs like [Nautilus 3D](https://modrinth.com/resourcepack/nautilus3d) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
+Resource packs like [Nautilus 3D](https://modrinth.com/resourcepack/nautilus3d)
+and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are
+also used to add 3D detail to models and revamp animations.
 
-Shaders like [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) and [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
+Shaders like [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) and
+[MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) are
+able to breath new life into the visuals and make the world look much more
+impressive through [Iris](https://modrinth.com/mod/iris) while maintaining
+reasonable framerates.
 
 [![Shader load-in](client-enhanced/img/load-in/optimized.gif)](client-enhanced/img/load-in/load-in.mp4)
+
 > Click the `.gif` to see shader load-in in realtime and full resolution
 
-> [!CAUTION]
-> `Client-Enhanced` is not necessarily compatible with multiplayer servers even though it is client-side only! Some of the mods included may be flagged by anti-cheat plugins.
+> [!CAUTION] `Client-Enhanced` is not necessarily compatible with multiplayer
+> servers even though it is client-side only! Some of the mods included may be
+> flagged by anti-cheat plugins.
 >
-> ***DO NOT*** connect to a server while using `Client-Enhanced` unless you know that the mods in this modpack are permitted on that server.
+> **_DO NOT_** connect to a server while using `Client-Enhanced` unless you know
+> that the mods in this modpack are permitted on that server.
 
 #### Other notable features:
 
@@ -80,21 +96,41 @@ See the [Mod List](#mod-list) for a full list of the included mods.
 
 ##### Resource Packs
 
-Included in the resource packs are a number of resource packs that can be enabled or disabled to your liking. By default, you can find three profiles in the Resource Pack Browser: `Enhanced` and `Vanilla-Like`, and `Vanilla`. `Enhanced` includes all recommended packs, while `Vanilla-Like` excludes packs that change the look too much. `Vanilla` is the default profile and includes only neccessary packs.
+Included in the resource packs are a number of resource packs that can be
+enabled or disabled to your liking. By default, you can find three profiles in
+the Resource Pack Browser: `Enhanced` and `Vanilla-Like`, and `Vanilla`.
+`Enhanced` includes all recommended packs, while `Vanilla-Like` excludes packs
+that change the look too much. `Vanilla` is the default profile and includes
+only neccessary packs.
 
-Even within these profiles, there are still some packs that can be chosen between to fit your needs. To choose between *all* packs, including packs that are usually required, you can use the `No Profile` profile.
+Even within these profiles, there are still some packs that can be chosen
+between to fit your needs. To choose between _all_ packs, including packs that
+are usually required, you can use the `No Profile` profile.
 
 ##### Shaders
 
-There are a lot of different options for shaders in the Shader Pack menu. To access that menu, press <kbd>O</kbd>. By default, the [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) shader is selected, but there are also options for higher end machines and lower end machines. You might find the look of the game shifts a little in other dimensions...
+There are a lot of different options for shaders in the Shader Pack menu. To
+access that menu, press <kbd>O</kbd>. By default, the
+[I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) shader is selected,
+but there are also options for higher end machines and lower end machines. You
+might find the look of the game shifts a little in other dimensions...
 
 ##### Hotkeys
 
 Many of the enhancements included in this modpack can be toggled using hotkeys:
 
 - Pressing <kbd>K</kbd> will toggle camera changes, including shaders
-- Pressing <kbd>J</kbd> will toggle many HUD elements, including the minimap and block ID
-- Pressing <kbd>L</kbd> will toggle a couple backend changes like sign click-through and some render culling
+- Pressing <kbd>J</kbd> will toggle many HUD elements, including the minimap and
+  block ID
+- Pressing <kbd>L</kbd> will toggle a couple backend changes like sign
+  click-through and some render culling
+
+</details>
+
+<details>
+  <summary><h3> Keybindings </h4></summary>
+
+![Client-Enhanced Keybindings](client-enhanced/graphics/keybinds/keyboard-layout.png)
 
 </details>
 
@@ -102,7 +138,8 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 
 The `Client-Enhanced` modpack is released on Modrinth and on GitHub.
 
-<a href="https://modrinth.com/modpack/client-enhanced"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a> <a href="https://github.com/nickesc/client-enhanced"><img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png"></a>
+<a href="https://modrinth.com/modpack/client-enhanced"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png"></a>
 
 ### Requirements:
 
@@ -124,7 +161,8 @@ The `Client-Enhanced` modpack is released on Modrinth and on GitHub.
 #### Install from GitHub (Manual)
 
 1. Open the Modrinth App
-2. Download the `Client-Enhanced` `.mrpack` file from the [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
+2. Download the `Client-Enhanced` `.mrpack` file from the
+   [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
 3. Click the `+` icon in the left sidebar to create a new instance
 4. Select `Import from file` and open the `.mrpack` file you downloaded
 5. Allow the modpack to download
@@ -152,6 +190,5 @@ The `Client-Enhanced` modpack is released on Modrinth and on GitHub.
 
 ## Support
 
-<a href="https://ko-fi.com/nickesc"><img alt="kofi-singular-alt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_64h.png"></a> <a href="https://github.com/nickesc/client-enhanced"><img alt="git" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_64h.png"></a>
-
-
+<a href="https://ko-fi.com/nickesc"><img alt="kofi-singular-alt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_64h.png"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="git" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_64h.png"></a>
