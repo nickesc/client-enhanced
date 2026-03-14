@@ -10,6 +10,7 @@
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
   "modelsNamesDisabled": [
+    "bell",
     "chest",
     "boat_patch"
   ],
