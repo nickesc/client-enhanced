@@ -195,7 +195,7 @@
       "more-journeymap-waypoints": "1.2",
       "nautilus3d": "V2.6",
       "recolourful-containers-gui": "3.1",
-      "translations-for-sodium": "v6.14.0",
+      "translations-for-sodium": "v6.15.0",
       "theones-eating-animation-pack": "1.0",
       "visuals": "2.0.2"
     },
@@ -203,7 +203,7 @@
     "shaderpacks": {
       "retrovision": "1.80.1",
       "ctrvcr": "v1.4.0",
-      "i-like-vanilla": "v1.3.1",
+      "i-like-vanilla": "v1.3.2",
       "makeup-ultra-fast-shaders": "9.4c",
       "miniature-shader": "2.18.10"
     }
