@@ -8,10 +8,10 @@ foodItems = [ "supplementaries:lunch_basket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
 fragileBlocks = [ 
-    "minecraft:large_amethyst_bud", 
-    "minecraft:budding_amethyst", 
+    "minecraft:medium_amethyst_bud", 
     "minecraft:small_amethyst_bud", 
-    "minecraft:medium_amethyst_bud"
+    "minecraft:budding_amethyst", 
+    "minecraft:large_amethyst_bud"
 ]
 
 # Items that count as shields for the offhand-shield hiding tweak options.
@@ -113,4 +113,7 @@ paneBuildingSupport = true
 
 # Prevents accidental mining of certain fragile blocks like budding amethysts.
 preventAccidentalMining = false
+
+# This option retains recipe book search text when reopening the recipe book.
+retainRecipeBookSearch = true
 

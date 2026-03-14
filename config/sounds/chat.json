@@ -1,11 +1,4 @@
 {
-	"typingSoundEffect": {
-		"id": "typing",
-		"soundEvent": "minecraft:block.note_block.hat",
-		"shouldPlay": false,
-		"pitch": 1.6,
-		"volume": 0.4
-	},
 	"messageSoundEffect": {
 		"id": "message",
 		"soundEvent": "minecraft:block.note_block.hat",
