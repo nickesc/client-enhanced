@@ -1,7 +1,4 @@
 {
-  "fluid_placement": {
-    "lava_splash_enabled": false
-  },
   "item_interactions": {},
   "entity": {
     "item_frame_interaction_amount": 1
@@ -14,6 +11,8 @@
     "block_falling_effect_enabled": false
   },
   "block_overrides": {
+    "vanilla_block_particles_max_on_place": 0,
+    "vanilla_block_particles_max_on_break": 3,
     "grass_blade_block_particle_firefly_in_swamps": false,
     "dust_block_particle_blocks": [
       "minecraft:gravel",
@@ -39,5 +38,8 @@
       "minecraft:magenta_concrete_powder",
       "minecraft:pink_concrete_powder"
     ]
+  },
+  "fluid_placement": {
+    "lava_splash_enabled": false
   }
 }
