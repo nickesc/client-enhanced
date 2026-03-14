@@ -2,11 +2,11 @@
   "_schemaVersion": 7,
   "_lastMCVersionId": 774,
   "generalSettings": {
-    "detectATLauncherInstance": true,
-    "detectCurseManifest": true,
-    "detectMultiMCManifest": true,
-    "detectMCUpdaterInstance": true,
-    "detectTechnicPack": true,
+    "detectATLauncherInstance": false,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
     "detectModrinthPack": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
@@ -126,7 +126,7 @@
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
       "largeImageUrl": "",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageKey": "Client-Enhanced",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "smallImageUrl": "",
       "startTimestamp": "{data.general.time}",
@@ -134,7 +134,8 @@
       "buttons": {}
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "Client-Enhanced": "https://github.com/nickesc/client-enhanced/blob/main/config/fancymenu/assets/minecraft_icon.png?raw=true"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
