@@ -61,7 +61,7 @@ Controller support has been added with [Controlify](https://modrinth.com/mod/con
 
 The sound engine has also been overhauled — sound reacts to the environment now with reverb, echo, and occlusion, and new sound effects have been added throughout the game.
 
-[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) provides proximity voice chat on supported servers, and [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other versions of the game.
+[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) provides proximity voice chat on supported servers (toggle-able push-to-talk by default, with <kbd>Caps Lock</kbd> as the activation key), and [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other versions of the game.
 
 Character customization mods like [Capes](https://modrinth.com/mod/capes), [Ears](https://modrinth.com/mod/ears), [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin), and [Female Gender Mod](https://modrinth.com/mod/female-gender) add more ways to personalize your character, from skin-based customization to player model options.
 
@@ -87,8 +87,8 @@ The Achievement, Statistics and Command Block screens have all been overhauled w
 The chat interface has also had its message history expanded, formatting refreshed, and player icons added next to messages.
 
 <div align="center">
-  <img src="docs/screenshots/inventory.webp" alt="Inventory view" width="45%">
-  <img src="docs/screenshots/hud.webp" alt="Nether view" width="45%">
+  <img src="docs/clips/inventory/output.avif" alt="Inventory view" width="45%">
+  <img src="docs/clips/smelting/output.avif" alt="Smelting view" width="45%">
 </div>
 
 ### Optimization and Fixes
@@ -144,6 +144,8 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 <details>
   <summary>Keybinds</summary>
 
+Below, you'll find the default keybinds for **_Client-Enhanced_**. These can be customized to your liking in the Controls menu.
+
 ![Client-Enhanced Keybindings](client-enhanced/graphics/keybinds/keyboard-layout.png)
 
 </details>
@@ -176,7 +178,8 @@ The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 4. Allow the modpack to download
 5. Press `Play` to launch Minecraft
 
-#### Install from GitHub (Manual)
+<details>
+  <summary><i>Install from GitHub (Manual)</i></summary>
 
 1. Open the Modrinth App
 2. Download the `.mrpack` file from the [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
@@ -184,6 +187,8 @@ The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 4. Select `Import from file` and open the `.mrpack` file you downloaded
 5. Allow the modpack to download
 6. Press `Play` to launch Minecraft
+
+</details>
 
 ## License
 
