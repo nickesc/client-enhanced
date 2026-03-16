@@ -6,5 +6,5 @@ To capture the image for the keybindings:
     [https://www.keyboard-layout-editor.com](https://www.keyboard-layout-editor.com)
     and load [keyboard-layout.json](keyboard-layout.json)
 - Inspect the `#keyboard-bg` element
-- Right click the element in the DOM and select "Capture Element"
+- Right click the element in the DOM and select "Capture Screenshot"
 - Save image as `keyboard-layout.png`
