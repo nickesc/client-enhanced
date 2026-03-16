@@ -35,12 +35,7 @@
     - `quality` is the quality of the frames
     - Generally using:
       - `corners=15` @ 720p, `corners=30` @ 1080p
-
-> [!NOTE]
->
-> For images, use `extension=webp` and `quality=100` with `round_corners`
-
-1.  Run `compile_avif` from `make_clip_functions.sh` to compile the frames into
+11. Run `compile_avif` from `make_clip_functions.sh` to compile the frames into
     an AVIF video
     - Target 2-5mb file size
     - `compile_avif <frames> <output> <fps> <quality> <speed>`
@@ -56,7 +51,7 @@
       - `fps=12`
       - `quality=75`
       - `speed=1`
-2.  Run `compile_webp` from `make_clip_functions.sh` to compile the frames into
+12. Run `compile_webp` from `make_clip_functions.sh` to compile the frames into
     a WebP video
     - Target exactly 4.9mb file size
     - `compile_webp <frames> <output> <fps> <quality>`
@@ -69,3 +64,11 @@
     - Generally using:
       - `fps=12`
       - `quality=85`
+13. Run `extract_frames` from `make_clip_functions.sh` to get a screenshot of a
+    frame of the video
+    - run as `extract_frames transcode.mp4 stills/ 2304 2 5`
+    - Grab a frame from the `stills/` directory and save to
+      `docs/screenshots/<clip-name>.png`
+14. Run `round_corners` from `make_clip_functions.sh` to round the corners of
+    the screenshots
+    - run as `round_corners screenshots/ . 50 webp 90`
