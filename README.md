@@ -191,6 +191,8 @@ The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 
 **_Client-Enhanced_** is released with _all-rights-reserved_ while in development. That may change in the future. For now, please do not redistribute the modpack or the contents of this repository without permission.
 
+[![Built with modpack-lock](https://img.shields.io/badge/Built%20with-modpack--lock-000000?style=for-the-badge&logo=npm&labelColor=%23202020&color=%231bd96a&logoColor=white)](https://www.npmjs.com/package/modpack-lock)
+
 <br>
 
 <div align="center">
