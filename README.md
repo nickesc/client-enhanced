@@ -24,7 +24,7 @@
 
 **_Client-Enhanced_** is an overhaul of the current Minecraft client. Its goal is to keep the game feeling as close to Vanilla as possible while adding a number of improvements, enhancements and upgrades designed to improve quality of life, visuals, performance, multiplayer, and more.
 
-When you play with **_Client-Enhanced_**, you will only be playing with client-side mods. This means there are no blocks or items added to the game, and no significant additions to the game's mechanics or gameplay. Using this modpack, you should be able to play on any Vanilla server.
+When you play with **_Client-Enhanced_**, you will only be playing with client-side mods. This means there are no blocks or items added to the game, and no significant additions to the game's mechanics or gameplay. Using this modpack, you should be able to play on Vanilla servers.
 
 Instead, this modpack focuses on improving the way the game looks and feels.
 
@@ -34,9 +34,7 @@ Instead, this modpack focuses on improving the way the game looks and feels.
 
 <br>
 
-> **Caution: Always check server rules before connecting**
->
-> **_Client-Enhanced_** is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
+> **Caution:** **_Client-Enhanced_** is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
 >
 > **_DO NOT_** connect to a server with **_Client-Enhanced_** unless you know that the mods in this modpack are permitted on that server.
 
@@ -160,8 +158,8 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 
 The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 
-<a href="https://modrinth.com/modpack/client-enhanced"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
-<a href="https://github.com/nickesc/client-enhanced"><img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"></a>
+[![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/client-enhanced)
+[![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/nickesc/client-enhanced)
 
 ### Requirements:
 
