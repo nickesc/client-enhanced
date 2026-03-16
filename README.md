@@ -8,7 +8,7 @@
 
 <div align="center" >
   <h1 align="center">
-    <img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png">
+    <img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png" width="70%">
   </h1>
   <div align="center">
     by nickesc — <a href="https://github.com/nickesc">GitHub</a> | <a href="https://modrinth.com/user/nickesc">Modrinth</a>
@@ -21,11 +21,10 @@
 
 [![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net/)
 [![Check out the Gallery](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/modpack/client-enhanced/gallery)
-[![Read the Changelog](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/changelog_vector.svg)](https://modrinth.com/modpack/client-enhanced/changelog)
 
 **_Client-Enhanced_** is an overhaul of the current Minecraft client. Its goal is to keep the game feeling as close to Vanilla as possible while adding a number of improvements, enhancements and upgrades designed to improve quality of life, visuals, performance, multiplayer, and more.
 
-When you play with **_Client-Enhanced_**, you will only be playing with client-side mods. This means there are no blocks or items added to the game, and no significant additions to the game's mechanics or gameplay.
+When you play with **_Client-Enhanced_**, you will only be playing with client-side mods. This means there are no blocks or items added to the game, and no significant additions to the game's mechanics or gameplay. Using this modpack, you should be able to play on any Vanilla server.
 
 Instead, this modpack focuses on improving the way the game looks and feels.
 
@@ -33,18 +32,25 @@ Instead, this modpack focuses on improving the way the game looks and feels.
   <img src="docs/clips/flyover/output.avif" alt="Flyover" width="80%">
 </div>
 
+<br>
+
+> **Caution: Always check server rules before connecting**
+>
+> **_Client-Enhanced_** is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
+>
+> **_DO NOT_** connect to a server with **_Client-Enhanced_** unless you know that the mods in this modpack are permitted on that server.
+
+Below is a list of many of the major features and improvements included in **_Client-Enhanced_**, but it is not exhaustive. For a full list of included content, see the [Mod List](/mods/README.md), [Shader Pack List](/shaderpacks/README.md) and [Resource Pack List](/resourcepacks/README.md).
+
 ### Visuals
 
-Mods like [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) and [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) update the way it feels to move around and the way the camera controls.
+Shaders are supported through [Iris](https://modrinth.com/mod/iris), with [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) as the default, which overhauls lighting, shadows, and atmosphere while still looking like the Minecraft you know and love.
 
-Shaders like [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) are able to breath new life into the visuals and make the world look much more impressive through [Iris](https://modrinth.com/mod/iris) while maintaining reasonable framerates.
+[Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) adds weight and movement to the camera, so it tilts, sways, and bobs as you move. [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) reworks third-person into a proper over-the-shoulder perspective you can actually play in. Also available is a freecam perspective, allowing you to detach the camera for a free-roaming perspective.
 
-HUD mods like [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) and [AppleSkin](https://modrinth.com/mod/appleskin) are used to add more information to the screen.
+Effects and particles have been improved throughout, with tons of new and improved particle effects for blocks, entities, interactions and more. Player skin and cape rendering have also been updated to be more dynamic and three-dimensional, and new player animations have also been added for first- and third-person views.
 
-Resource packs like [Nautilus 3D](https://modrinth.com/resourcepack/nautilus3d) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) are also used to add 3D detail to models and revamp animations.
-
-- New and improved particle effects
-- Tweaks to how player animations, skins and capes are rendered
+Resource packs like [Nautilus 3D](https://modrinth.com/resourcepack/nautilus3d) and [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) add 3D detail to block models and give other entities more expressive movement. Other packs update UI elements (including [icons](https://modrinth.com/resourcepack/icons) throughout), add more immersive textures, tweak how things are rendered, and more.
 
 <div align="center">
   <img src="docs/clips/cherry/output.avif" alt="Cherry blossom view" width="45%">
@@ -53,40 +59,34 @@ Resource packs like [Nautilus 3D](https://modrinth.com/resourcepack/nautilus3d) 
 
 ### Enhancements
 
-There are also character customization mods like [Capes](https://modrinth.com/mod/capes), [Ears](https://modrinth.com/mod/ears), [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) and [Female Gender Mod](https://modrinth.com/mod/female-gender) to add even more customization to your character.
+Controller support has been added with [Controlify](https://modrinth.com/mod/controlify), elytra flight has been reworked with pitch-and-roll behavior, and <kbd>Alt</kbd>/<kbd>Option</kbd> has been mapped to a zoom function.
 
-Also includes [Controlify](https://modrinth.com/mod/controlify) to add controller support for the game.
+The sound engine has also been overhauled — sound reacts to the environment now with reverb, echo, and occlusion, and new sound effects have been added throughout the game.
 
-Elytra flight controls have been reworked with [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll) to create a better flight experience.
+[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) provides proximity voice chat on supported servers, and [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other versions of the game.
 
-A zoom button has been added with [Zoomify](https://modrinth.com/mod/zoomify) to allow for a more zoomed in view of the world.
+Character customization mods like [Capes](https://modrinth.com/mod/capes), [Ears](https://modrinth.com/mod/ears), [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin), and [Female Gender Mod](https://modrinth.com/mod/female-gender) add more ways to personalize your character, from skin-based customization to player model options.
 
-A freecam perspective option has been added with [Freecam](https://modrinth.com/mod/freecam) to allow for a more free and flexible view of the world.
-
-- Inventory sorting
-- New Statistics and Advancements screens
-- New sounds and a reworked, more realistic sound engine
-- Discord RPC integration
-- Player emotes and animations
-- Simple Voice Chat provides proximity chat on supported servers
-- Connect to Minecraft servers on other versions of the game
+Player emotes and new first- and third-person animations are also all included, among other enhancements.
 
 <div align="center">
   <img src="docs/clips/cold/output.avif" alt="Cold view" width="45%">
   <img src="docs/clips/tunnel/output.avif" alt="Tunnel view" width="45%">
 </div>
 
-### HUD
+### HUD and User Interface
 
-The pack also includes mods like [Just Enough Items](https://modrinth.com/mod/jei) and [JourneyMap](https://modrinth.com/mod/journeymap) that add common-sense UI elements like item/recipe lookup and a minimap.
+[Jade](https://modrinth.com/mod/jade) shows block and entity information on when you look at something in the world, including providing container previews. The crosshair will also change based on what you're looking at and the tool you're holding. Both of these give you better context at a glance, and allow you to interact with the world with less guesswork.
 
-Adds [Jade](https://modrinth.com/mod/jade) to provide block and entity identification and information, and container previews.
+In your inventory, [Just Enough Items](https://modrinth.com/mod/jei) adds item and recipe lookup, and options to sort the inventory and chests have been added to make organization easier and less time consuming.
 
-A dynamic crosshair has been added with [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) to improve targeting and visibility.
+Player health, armor, and hunger status have been made more compact, and health bars have been added above other entities.
 
-Adds enemy health bars with [Health Indicators](https://modrinth.com/mod/health-indicators) to improve targeting and visibility.
+[JourneyMap](https://modrinth.com/mod/journeymap) adds a minimap and full-screen map with waypoint support, which can be synced to the server if it is supported.
 
-- Improved chat UI
+The Achievement, Statistics and Command Block screens have all been overhauled with better layouts and more detailed information.
+
+The chat interface has also had its message history expanded, formatting refreshed, and player icons added next to messages.
 
 <div align="center">
   <img src="docs/screenshots/inventory.webp" alt="Inventory view" width="45%">
@@ -95,9 +95,13 @@ Adds enemy health bars with [Health Indicators](https://modrinth.com/mod/health-
 
 ### Optimization and Fixes
 
-And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) are used to optimize the experience for all kinds of hardware.
+[Sodium](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast), [Entity Culling](https://modrinth.com/mod/entityculling) and [More Culling](https://modrinth.com/mod/moreculling) adjust rendering as well.
 
-- Other fixes and tweaks to controls
+Mods like [Lithium](https://modrinth.com/mod/lithium), [FerriteCore](https://modrinth.com/mod/ferrite-core), [ModernFix](https://modrinth.com/mod/modernfix) and others fix a range of performance and optimization issues across the base game.
+
+Net-code has been improved with mods like [ModernNetworking](https://modrinth.com/mod/modernnetworking) and [Packet Fixer](https://modrinth.com/mod/packet-fixer).
+
+[Dynamic FPS](https://modrinth.com/mod/dynamic-fps) lowers resource usage when the window is in the background, and [Clumps](https://modrinth.com/mod/clumps) merges XP orbs to cut down on entity overhead. [Debugify](https://modrinth.com/mod/debugify) and others fix a number of reported issues that Mojang has yet to address.
 
 <div align="center">
   <img src="docs/clips/water/output-2.avif" alt="Water view" width="45%">
@@ -123,7 +127,7 @@ Even within these profiles, there are still some packs that can be chosen betwee
 
 #### Shaders
 
-Client-Enhanced uses the the [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to access the Shader Pack menu, where you'll also find an option for lower end machines: [Miniature Shader](https://modrinth.com/shader/miniature-shader). Different shaders are also enabled for the Nether and End dimensions.
+Client-Enhanced uses the [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to access the Shader Pack menu, where you'll also find an option for lower end machines: [Miniature Shader](https://modrinth.com/shader/miniature-shader). Different shaders are also enabled for the Nether and End dimensions.
 
 Shader selection is enforced using [Dimension Based Shader Switch](https://modrinth.com/mod/dimension-based-shaders). Shaders will always be reset to the defaults when the world reloads (death, dimension change, etc.). If you want to use a different shader in any dimension (and you have want it to persist across reloads), you can change it in the Dimension Based Shader Switch settings, found in Mod Menu. If you want to turn off shaders entirely, you can do so in the Shader Pack menu or by pressing <kbd>K</kbd>.
 
@@ -151,10 +155,6 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 <div align="center">
   <img src="docs/clips/player/output.avif" alt="Player on a beach" width="80%">
 </div>
-
-<br>
-
-See the [Mod List](/mods/README.md), [Shader Packs](/shaderpacks/README.md) and [Resource Packs](/resourcepacks/README.md) for a full list of included content.
 
 ## Installation
 
@@ -187,12 +187,6 @@ The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 5. Allow the modpack to download
 6. Press `Play` to launch Minecraft
 
-> ##### Caution: Check server rules before connecting
->
-> **_Client-Enhanced_** is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
->
-> **_DO NOT_** connect to a server while using **_Client-Enhanced_** unless you know that the mods in this modpack are permitted on that server.
-
 ## License
 
 **_Client-Enhanced_** is released with _all-rights-reserved_ while in development. That may change in the future. For now, please do not redistribute the modpack or the contents of this repository without permission.
@@ -205,7 +199,7 @@ The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 
 <br>
 
-[![Support me on Ko-Fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural-alt_vector.svg)](https://ko-fi.com/nickesc)
-[![Follow me on Mastodon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-plural_vector.svg)](https://infosec.exchange/@nickesc)
-[![View my GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_vector.svg)](https://github.com/nickesc/client-enhanced)
-[![Read the Changelog](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/issues_vector.svg)](https://modrinth.com/modpack/client-enhanced/changelog)
+[![Support us on Ko-Fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural-alt_vector.svg)](https://ko-fi.com/nickesc)
+[![Follow us on Mastodon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-plural_vector.svg)](https://infosec.exchange/@nickesc)
+[![Check the Repository](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_vector.svg)](https://github.com/nickesc/client-enhanced)
+[![See the Issue tracker](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/issues_vector.svg)](https://github.com/nickesc/client-enhanced/issues)
