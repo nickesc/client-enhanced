@@ -190,7 +190,7 @@ key_key.emotecraft.fastchoose:key.keyboard.c
 key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.l
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
-key_key.freecam.toggle:key.keyboard.f4
+key_key.freecam.toggle:key.keyboard.f6
 key_key.freecam.playerControl:key.keyboard.unknown
 key_key.freecam.tripodReset:key.keyboard.unknown
 key_key.freecam.configGui:key.keyboard.unknown

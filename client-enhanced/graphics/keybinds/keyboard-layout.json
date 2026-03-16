@@ -18,12 +18,12 @@
     "F1\nToggle HUD",
     "F2\nScreen-shot",
     "F3\nDebug Screen",
-    "F4\nFree Cam",
+    "F4",
     {
       "x": 0.5
     },
     "F5\nChange POV",
-    "F6",
+    "F6\nFree Cam",
     "F7\nCinema Cam",
     "F8\nLight Overlay",
     {
