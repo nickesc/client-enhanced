@@ -6,14 +6,11 @@
 
 <br>
 
-<div align="center" >
-  <h1 align="center">
+<h1 align="center">
     <img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png" width="70%">
-  </h1>
-  <div align="center">
-    by nickesc — <a href="https://github.com/nickesc">GitHub</a> | <a href="https://modrinth.com/user/nickesc">Modrinth</a>
-  </div>
-</div>
+</h1>
+
+by nickesc — [GitHub](https://github.com/nickesc) | [Modrinth](https://modrinth.com/user/nickesc)
 
 ## Overview
 
@@ -38,7 +35,7 @@ Instead, this modpack focuses on improving the way the game looks and feels.
 >
 > **_DO NOT_** connect to a server with **_Client-Enhanced_** unless you know that the mods in this modpack are permitted on that server.
 
-Below is a list of many of the major features and improvements included in **_Client-Enhanced_**, but it is not exhaustive. For a full list of included content, see the [Mod List](/mods/README.md), [Shader Pack List](/shaderpacks/README.md) and [Resource Pack List](/resourcepacks/README.md).
+Below is a list of many of the major features and improvements included in **_Client-Enhanced_**, but it is not exhaustive. For a full list of included content, see the [Mod List](mods/README.md), [Shader Pack List](shaderpacks/README.md) and [Resource Pack List](resourcepacks/README.md).
 
 ### Visuals
 
@@ -113,7 +110,7 @@ Net-code has been improved with mods like [ModernNetworking](https://modrinth.co
 
 #### Resource Packs
 
-Included by default are a number of resource packs that can be enabled or disabled to your liking. You'll find three preset profiles in the Resource Pack Menu:
+Included by default are a number of resource packs that can be enabled or disabled to your liking. You'll find three preset profiles in the Resource Pack menu:
 
 - `Enhanced`,
 - `Vanilla-Like` and
@@ -127,7 +124,7 @@ Even within these profiles, there are still some packs that can be chosen betwee
 
 Client-Enhanced uses the [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to access the Shader Pack menu, where you'll also find an option for lower end machines: [Miniature Shader](https://modrinth.com/shader/miniature-shader). Different shaders are also enabled for the Nether and End dimensions.
 
-Shader selection is enforced using [Dimension Based Shader Switch](https://modrinth.com/mod/dimension-based-shaders). Shaders will always be reset to the defaults when the world reloads (death, dimension change, etc.). If you want to use a different shader in any dimension (and you have want it to persist across reloads), you can change it in the Dimension Based Shader Switch settings, found in Mod Menu. If you want to turn off shaders entirely, you can do so in the Shader Pack menu or by pressing <kbd>K</kbd>.
+Shader selection is enforced using [Dimension Based Shader Switch](https://modrinth.com/mod/dimension-based-shaders). Shaders will always be reset to the defaults when the world reloads (death, dimension change, etc.). If you want to use a different shader in any dimension (and you have want it to persist across reloads), you can change it in the _Dimension Based Shader Switch_ config, accessed through Mod Menu. If you want to turn off shaders entirely, you can do so in the Shader Pack menu or by pressing <kbd>K</kbd>.
 
 #### Hotkeys
 
@@ -144,9 +141,9 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 <details>
   <summary>Keybinds</summary>
 
-Below, you'll find the default keybinds for **_Client-Enhanced_**. These can be customized to your liking in the Controls menu.
+Default keybinds for **_Client-Enhanced_** (can be customized in the Controls menu):
 
-![Client-Enhanced Keybindings](client-enhanced/graphics/keybinds/keyboard-layout.png)
+![Client-Enhanced Keybindings](docs/graphics/keybinds/keyboard-layout.png)
 
 </details>
 
