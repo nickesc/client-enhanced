@@ -138,6 +138,17 @@
       "hidden": true,
       "required": true,
       "position": "BOTTOM"
+    },
+    "file/1.21.6 PwS [1.21.x].zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Recolourful Containers DARK 3.1 (1.19.4+).zip": {
+      "hidden": true
+    },
+    "file/Small Low Totem.zip": {
+      "hidden": true
     }
   },
   "packIds": [
@@ -150,6 +161,7 @@
     "cursors_extended:default_auto",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
+    "file/1.21.6 PwS [1.21.x].zip",
     "vanilla"
   ]
 }

@@ -110,6 +110,15 @@
     },
     "file/FA+Details-v2.2.zip": {
       "position": "TOP"
+    },
+    "file/1.21.6 PwS [1.21.x].zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Small Low Totem.zip": {
+      "hidden": true,
+      "required": true
     }
   },
   "packIds": [
@@ -135,6 +144,7 @@
     "file/Accurate Pumpkin Blur.zip",
     "file/Low Shield.zip",
     "file/Low Fire.zip",
+    "file/Small Low Totem.zip",
     "file/Chat+ v.1.3.zip",
     "file/Chat Reporting Helper.zip",
     "file/SodiumTranslations.zip",
@@ -142,6 +152,7 @@
     "cursors_extended:default_auto",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
+    "file/1.21.6 PwS [1.21.x].zip",
     "vanilla"
   ]
 }
