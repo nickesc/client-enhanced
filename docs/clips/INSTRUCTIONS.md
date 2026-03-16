@@ -68,7 +68,7 @@
     frame of the video
     - run as `extract_frames transcode.mp4 stills/ 2304 2 5`
     - Grab a frame from the `stills/` directory and save to
-      `docs/screenshots/<clip-name>.png`
+      `docs/screenshots/source/<clip-name>.png`
 14. Run `round_corners` from `make_clip_functions.sh` to round the corners of
     the screenshots
-    - run as `round_corners screenshots/ . 50 webp 90`
+    - run as `round_corners screenshots/source/ screenshots/ 50 webp 90`
