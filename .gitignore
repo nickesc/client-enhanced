@@ -47,21 +47,15 @@ usercache.json
 
 journeymap/data/
 
-voxelmap/
-
 crash-reports/
 
 backups/
 
 data/
 
-chesttracker/
-
 cache/
 
 fancymenu_data/
-
-controlify-natives/
 
 modrinth/
 
@@ -74,12 +68,6 @@ sha1error.txt
 waypoints/
 
 journeymap/icon/
-
-client-enhanced/unused/
-
-.replay_cache/
-
-replay_recordings/
 
 docs/clips/**/*.mov
 docs/clips/**/*.mp4
