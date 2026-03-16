@@ -81,3 +81,7 @@ client-enhanced/unused/
 .replay_cache/
 
 replay_recordings/
+
+docs/clips/**/*.mov
+docs/clips/**/*.mp4
+docs/clips/**/*.png
