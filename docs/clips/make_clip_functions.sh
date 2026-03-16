@@ -48,6 +48,10 @@ round_corners() {
       -compose CopyOpacity -composite \
       ${=quality_string} \
       "$outdir/${base}.${extension}" || return $?
+
+      ## Can be used to color the corners black for webp compilation, but makes corner edge look whiteish, put under -compose line
+      # \( +clone -alpha extract \) \
+      # -channel RGB -compose Multiply -composite +channel \
   done
 }
 
