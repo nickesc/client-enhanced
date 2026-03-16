@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-    <img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png" width="70%">
+    <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png" width="70%"></a>
 </h1>
 
 by nickesc — [GitHub](https://github.com/nickesc) | [Modrinth](https://modrinth.com/user/nickesc)
