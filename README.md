@@ -4,6 +4,8 @@
   <a href="https://github.com/nickesc/client-enhanced"><img alt="Updated: GitHub" src="https://img.shields.io/github/last-commit/nickesc/client-enhanced?display_timestamp=committer&style=for-the-badge&logo=github&label=Latest&labelColor=%23202020&color=%231bd96a&logoColor=white"></a>
 </div>
 
+<br>
+
 <div align="center" >
   <h1 align="center">
     <img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png">
@@ -28,7 +30,7 @@ When you play with **_Client-Enhanced_**, you will only be playing with client-s
 Instead, this modpack focuses on improving the way the game looks and feels.
 
 <div align="center">
-  <img src="docs/clips/flyover/output.avif" alt="Flyover" width="100%">
+  <img src="docs/clips/flyover/output.avif" alt="Flyover" width="80%">
 </div>
 
 ### Visuals
@@ -102,6 +104,8 @@ And mods like [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://mo
   <img src="docs/clips/nether/output-2.avif" alt="Nether view" width="45%">
 </div>
 
+<br>
+
 <details>
   <summary>Optional Features</summary>
 
@@ -142,36 +146,34 @@ Many of the enhancements included in this modpack can be toggled using hotkeys:
 
 </details>
 
-See the [Mod List](/mods/README.md), [Shader Packs](/shaderpacks/README.md) and [Resource Packs](/resourcepacks/README.md) for a full list of included content.
-
-> [!CAUTION] `Client-Enhanced` is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
->
-> **_DO NOT_** connect to a server while using `Client-Enhanced` unless you know that the mods in this modpack are permitted on that server.
+<br>
 
 <div align="center">
-  <img src="docs/clips/player/output.avif" alt="Player on a beach" width="100%">
+  <img src="docs/clips/player/output.avif" alt="Player on a beach" width="80%">
 </div>
+
+<br>
+
+See the [Mod List](/mods/README.md), [Shader Packs](/shaderpacks/README.md) and [Resource Packs](/resourcepacks/README.md) for a full list of included content.
 
 ## Installation
 
-The `Client-Enhanced` modpack is released on Modrinth and on GitHub.
+The **_Client-Enhanced_** modpack is released on Modrinth and on GitHub.
 
-<a href="https://modrinth.com/modpack/client-enhanced"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
-<a href="https://github.com/nickesc/client-enhanced"><img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png"></a>
+<a href="https://modrinth.com/modpack/client-enhanced"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
+<a href="https://github.com/nickesc/client-enhanced"><img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"></a>
 
 ### Requirements:
 
-- Minecraft 1.21.4
-- Java 22+
+- Minecraft 1.21.11
 - the [Modrinth App](https://modrinth.com/app) installed
-- macOS **(untested on other platforms)**
 
 ### Instructions
 
 #### Install from Modrinth (Recommended)
 
 1. Open the Modrinth App
-2. Go to the 'Discover Content' tab in the sidebar
+2. Go to the `Discover Content` tab in the sidebar
 3. Search for `Client-Enhanced` and click the `Install` button
 4. Allow the modpack to download
 5. Press `Play` to launch Minecraft
@@ -179,12 +181,23 @@ The `Client-Enhanced` modpack is released on Modrinth and on GitHub.
 #### Install from GitHub (Manual)
 
 1. Open the Modrinth App
-2. Download the `Client-Enhanced` `.mrpack` file from the
-   [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
+2. Download the `.mrpack` file from the [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
 3. Click the `+` icon in the left sidebar to create a new instance
 4. Select `Import from file` and open the `.mrpack` file you downloaded
 5. Allow the modpack to download
 6. Press `Play` to launch Minecraft
+
+> ##### Caution: Check server rules before connecting
+>
+> **_Client-Enhanced_** is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
+>
+> **_DO NOT_** connect to a server while using **_Client-Enhanced_** unless you know that the mods in this modpack are permitted on that server.
+
+## License
+
+**_Client-Enhanced_** is released with _all-rights-reserved_ while in development. That may change in the future. For now, please do not redistribute the modpack or the contents of this repository without permission.
+
+<br>
 
 <div align="center">
   <img src="docs/clips/flight/output.avif" alt="Flyover of the landscape" width="100%">
