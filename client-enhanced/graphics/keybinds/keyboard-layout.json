@@ -2,9 +2,9 @@
   {
     "backcolor": "#ffffff00",
     "radii": "0",
-    "css": ".keylabel6 {\n    font-size: .63em;\n}\n.keyborder, .keycap {\n    border-color: #FFFFFF00;\n}\n\n#keyboard-bg {\n    border-color: #ffffff00 !important;\n}",
     "pcb": false,
-    "plate": false
+    "plate": false,
+    "css": ".keylabel6 {\n    font-size: .63em;\n}\n.keyborder, .keycap {\n    border-color: #FFFFFF00;\n}\n\n#keyboard-bg {\n    border-color: #ffffff00 !important;\n}"
   },
   [
     {
@@ -111,7 +111,7 @@
     "K\nToggle Shaders",
     "L\nToggle Tweaks+",
     ";",
-    "'",
+    "'\nSkin Settings",
     {
       "w": 2.25
     },

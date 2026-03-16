@@ -293,6 +293,8 @@ key_key.shouldersurfing.enter_first_person:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
+key_Open Settings:key.keyboard.apostrophe
+key_Global Toggle:key.keyboard.j
 key_talkingheads.keybinding.modToggle:key.keyboard.l
 key_talkingheads.keybinding.modSettings:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.caps.lock
