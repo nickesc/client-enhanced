@@ -90,7 +90,7 @@ The chat interface has also had its message history expanded, formatting refresh
 
 ### Optimization and Fixes
 
-[Sodium](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast), [Entity Culling](https://modrinth.com/mod/entityculling) and [More Culling](https://modrinth.com/mod/moreculling) adjust rendering as well.
+[Sodium](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast), [Entity Culling](https://modrinth.com/mod/entityculling) and [More Culling](https://modrinth.com/mod/moreculling) make additional adjustments to rendering.
 
 Mods like [Lithium](https://modrinth.com/mod/lithium), [FerriteCore](https://modrinth.com/mod/ferrite-core), [ModernFix](https://modrinth.com/mod/modernfix) and others fix a range of performance and optimization issues across the base game.
 
