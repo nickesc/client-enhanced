@@ -23,7 +23,7 @@
         DarkOakLeaves: false,
         MangroveLeaves: false,
         CherryLeaves: false,
-        PaleOakLeaves: true,
+        PaleOakLeaves: false,
         AzaleaLeaves: false,
         FloweringAzaleaLeaves: false
     },
@@ -52,7 +52,7 @@
         BambooFence: false,
         CrimsonFence: false,
         WarpedFence: false,
-        NetherBrickFence: true
+        NetherBrickFence: false
     },
     Vegetation: {
         Grass: true,
@@ -63,7 +63,7 @@
         Beetroots: true
     },
     Misc: {
-        Mace: false,
+        Mace: true,
         Trident: false,
         Chest: false,
         RandomBookshelves: true,
@@ -71,7 +71,7 @@
         RailCorner: "curved",
         Noteblock: true,
         Jukebox: true,
-        Ladder: true,
+        Ladder: false,
         Torch: false,
         Lantern: true,
         Chain: true
