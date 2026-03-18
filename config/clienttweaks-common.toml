@@ -8,10 +8,10 @@ foodItems = [ "supplementaries:lunch_basket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
 fragileBlocks = [ 
+    "minecraft:large_amethyst_bud", 
     "minecraft:medium_amethyst_bud", 
     "minecraft:small_amethyst_bud", 
-    "minecraft:budding_amethyst", 
-    "minecraft:large_amethyst_bud"
+    "minecraft:budding_amethyst"
 ]
 
 # Items that count as shields for the offhand-shield hiding tweak options.
@@ -48,6 +48,9 @@ autoClimbLadder = false
 # This option will make chains have a bigger hitbox while placing them, making it easier to aim.
 chainBuildingSupport = true
 
+# This option makes right clicking the creative menu search bar clear it.
+clearCreativeMenuSearchOnRightClick = true
+
 # This option makes right clicking the recipe book search bar clear it.
 clearRecipeBookOnRightClick = false
 
@@ -69,6 +72,12 @@ doNotUseLastMending = true
 # This prevents the last torch in the offhand from being placed.
 doNotUseLastTorch = true
 
+# This option will hide your empty main hand in first person.
+hideEmptyMainHand = false
+
+# This option will hide both first person hands. It can be toggled via an optional key binding.
+hideHands = false
+
 # This option will hide your offhand item. It can be toggled via an optional key binding.
 hideOffhandItem = false
 
@@ -78,11 +87,17 @@ hideOwnParticleEffects = false
 # This option will hide your shield unless you are holding a weapon.
 hideShieldUnlessHoldingWeapon = true
 
+# This option will disable log stripping unless the player is holding shift.
+logStrippingRequiresShift = false
+
 # This adds back the master volume slider to the options screen. Saves you a click!
 masterVolumeSlider = true
 
 # This adds back the music volume slider to the options screen. Saves you a click!
 musicVolumeSlider = true
+
+# This option makes clicking ghost ingredients in the crafting grid navigate to it in the recipe book.
+navigateToGhostIngredients = true
 
 # This prevents fireworks from being launched from your offhand if you are wearing an Elytra, unless you're flying.
 noOffhandFireworksWithElytra = true
@@ -113,6 +128,9 @@ paneBuildingSupport = true
 
 # Prevents accidental mining of certain fragile blocks like budding amethysts.
 preventAccidentalMining = false
+
+# This option retains creative menu search text when reopening the creative menu search tab.
+retainCreativeMenuSearch = true
 
 # This option retains recipe book search text when reopening the recipe book.
 retainRecipeBookSearch = true

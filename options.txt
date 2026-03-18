@@ -174,7 +174,9 @@ key_key.bcbui.areaselectioninput:key.keyboard.semicolon
 key_key.clickthrough.toggle:key.keyboard.l
 key_key.clienttweaks.hide_offhand_item:key.keyboard.unknown
 key_key.clienttweaks.disable_step_assist:key.keyboard.unknown
+key_key.clienttweaks.hide_hands:key.keyboard.unknown
 key_key.clienttweaks.disable_log_stripping:key.keyboard.unknown
+key_key.clienttweaks.mine_single_block:key.keyboard.unknown
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.l
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
