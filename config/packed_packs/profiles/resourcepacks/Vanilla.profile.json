@@ -63,9 +63,6 @@
     "file/EvenBetterEnchants_v3_1.21.5+.zip": {
       "hidden": true
     },
-    "file/Chase the Skies.zip": {
-      "hidden": true
-    },
     "naturalwaters:opaque_water": {
       "hidden": true,
       "required": true,
@@ -148,6 +145,12 @@
       "hidden": true
     },
     "file/Small Low Totem.zip": {
+      "hidden": true
+    },
+    "file/ReShaded [v.1.4] 1.21.11.zip": {
+      "hidden": true
+    },
+    "file/Chase the Skies.zip": {
       "hidden": true
     }
   },

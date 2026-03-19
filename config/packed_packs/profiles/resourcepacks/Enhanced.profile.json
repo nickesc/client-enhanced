@@ -119,10 +119,21 @@
     "file/Small Low Totem.zip": {
       "hidden": true,
       "required": true
+    },
+    "file/Default Trident.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "file/ReShaded [v.1.4] 1.21.11.zip": {
+      "hidden": true
+    },
+    "file/Chase the Skies.zip": {
+      "hidden": true
     }
   },
   "packIds": [
     "naturalwaters:opaque_water",
+    "file/Default Trident.zip",
     "file/FA+Emissive-v1.5.zip",
     "file/FA+Spiders-v2.1.zip",
     "file/FA+Objects-v2.1.zip",
@@ -130,9 +141,10 @@
     "file/FA+Details-v2.2.zip",
     "file/FreshAnimations_v1.10.4.zip",
     "file/Gentler Weather Sounds 2.2.0.zip",
+    "file/Undopia_3D_Ladder_1.21.11_v.1.0.zip",
     "file/Nautilus3D-V2.6.zip",
-    "file/EvenBetterEnchants_v3_1.21.5+.zip",
     "file/Lively Turtle Helmet.zip",
+    "file/EvenBetterEnchants_v3_1.21.5+.zip",
     "file/Recolourful Containers 3.1 (1.19.4+).zip",
     "file/Icons v.1.13.2.zip",
     "axolotlbuckets:axolotl-buckets-small",
