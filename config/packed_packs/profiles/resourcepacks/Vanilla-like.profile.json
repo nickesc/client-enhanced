@@ -127,10 +127,15 @@
     },
     "file/Chase the Skies.zip": {
       "hidden": true
+    },
+    "file/Default Trident.zip": {
+      "hidden": true,
+      "position": "TOP"
     }
   },
   "packIds": [
     "naturalwaters:opaque_water",
+    "file/Default Trident.zip",
     "file/Gentler Weather Sounds 2.2.0.zip",
     "file/EvenBetterEnchants_v3_1.21.5+.zip",
     "file/Icons v.1.13.2.zip",

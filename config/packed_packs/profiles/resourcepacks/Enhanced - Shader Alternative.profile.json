@@ -126,13 +126,13 @@
     },
     "file/ReShaded [v.1.4] 1.21.11.zip": {
       "hidden": false,
-      "position": "TOP",
-      "required": true
+      "required": true,
+      "position": "TOP"
     },
     "file/Chase the Skies.zip": {
       "hidden": false,
-      "position": "TOP",
-      "required": true
+      "required": true,
+      "position": "TOP"
     }
   },
   "packIds": [

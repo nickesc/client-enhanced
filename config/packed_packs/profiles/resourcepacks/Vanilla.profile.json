@@ -36,9 +36,6 @@
     "file/visuals-2.0.2.zip": {
       "hidden": true
     },
-    "file/3D Default 1.21.2+ v1.13.1.zip": {
-      "hidden": true
-    },
     "file/Icons v.1.13.2.zip": {
       "hidden": true
     },
@@ -152,10 +149,15 @@
     },
     "file/Chase the Skies.zip": {
       "hidden": true
+    },
+    "file/Default Trident.zip": {
+      "hidden": true,
+      "position": "BOTTOM"
     }
   },
   "packIds": [
     "naturalwaters:opaque_water",
+    "file/Default Trident.zip",
     "subtle_effects:biome_color_water_particles",
     "file/More JourneyMap Waypoints v1.2.zip",
     "file/Chat Reporting Helper.zip",
