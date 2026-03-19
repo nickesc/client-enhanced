@@ -5,6 +5,9 @@ resourcepacks/*.zip
 shaderpacks/*.zip
 datapacks/*.zip
 */**/*.disabled
+
+## Exceptions
+!resourcepacks/Default Trident.zip
 # modpack-lock:end
 
 bin/
