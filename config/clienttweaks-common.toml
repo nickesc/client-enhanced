@@ -8,10 +8,10 @@ foodItems = [ "supplementaries:lunch_basket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
 fragileBlocks = [ 
-    "minecraft:large_amethyst_bud", 
-    "minecraft:medium_amethyst_bud", 
     "minecraft:small_amethyst_bud", 
-    "minecraft:budding_amethyst"
+    "minecraft:medium_amethyst_bud", 
+    "minecraft:budding_amethyst", 
+    "minecraft:large_amethyst_bud"
 ]
 
 # Items that count as shields for the offhand-shield hiding tweak options.
@@ -97,7 +97,7 @@ masterVolumeSlider = true
 musicVolumeSlider = true
 
 # This option makes clicking ghost ingredients in the crafting grid navigate to it in the recipe book.
-navigateToGhostIngredients = true
+navigateToGhostIngredients = false
 
 # This prevents fireworks from being launched from your offhand if you are wearing an Elytra, unless you're flying.
 noOffhandFireworksWithElytra = true
