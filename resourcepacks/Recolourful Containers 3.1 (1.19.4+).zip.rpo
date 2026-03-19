@@ -1,9 +1,9 @@
 {
     HUD: {
-        hotbar: true,
+        hotbar: false,
         hearts: true,
         foodBar: true,
-        armourBar: true,
+        armourBar: false,
         experienceBar: true
     },
     animations: {
