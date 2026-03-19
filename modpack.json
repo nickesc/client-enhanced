@@ -185,6 +185,7 @@
       "zoomify": "2.15.2+1.21.11"
     },
     "resourcepacks": {
+      "resourcepacks/Default Trident.zip": "*",
       "1.21.6-panorama-with-shaders": "v1.0.1",
       "accurate-pumpkin-blur": "2.0.2",
       "better-flame-particles": "3.1",
