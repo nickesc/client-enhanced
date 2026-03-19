@@ -12,7 +12,7 @@ pollenBiomes = [
     "minecraft:flower_forest",
     "minecraft:sunflower_plains"
 ]
-pollenDensity = 50
+pollenDensity = 25
 sculkDustBiomes = [
     "minecraft:deep_dark"
 ]
@@ -81,7 +81,7 @@ spawnableBlocks = [
     "minecraft:pink_petals",
     "minecraft:flowering_azalea"
 ]
-defaultDensity = 3
+defaultDensity = 5
 ignoredSeasons = "DEFAULT"
 fireflyType = "ORIGINAL"
 fireflySoundVolume = 1.0
