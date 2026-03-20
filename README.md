@@ -122,6 +122,8 @@ Included by default are a number of resource packs that can be enabled or disabl
 
 Even within these profiles, there are still some packs that can be chosen between to fit your needs. To choose between _all_ packs, including packs that are usually required or hidden, select the `No Profile` profile.
 
+There are also packs disabled by default that provide optional things like dark-mode and different player animations.
+
 #### Shaders
 
 Client-Enhanced uses the [_I Like Vanilla_](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to access the Shader Pack menu, where you'll also find an option for lower end machines: [_Miniature Shader_](https://modrinth.com/shader/miniature-shader). Different shaders are also enabled for the Nether and End dimensions.
