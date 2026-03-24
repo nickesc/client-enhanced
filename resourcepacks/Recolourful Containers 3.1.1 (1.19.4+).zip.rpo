@@ -1,9 +1,10 @@
 {
     HUD: {
-        hotbar: true,
+        hotbar: false,
         hearts: true,
         foodBar: true,
-        armourBar: true,
+        armourBar: false,
+        airBar: true,
         experienceBar: true
     },
     animations: {
@@ -16,5 +17,9 @@
         furnaceFire: true,
         smithingTable: true,
         stonecutter: true
+    },
+    customSprites: {
+        villagerButtons: true,
+        beaconButtons: true
     }
 }
