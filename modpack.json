@@ -25,7 +25,7 @@
       "better-advancements": "0.4.8.51",
       "bettercommandblockui": "0.5.3",
       "better-mount-hud": "1.2.6",
-      "better-stats": "5.0.0-beta.6+fabric-1.21.11",
+      "better-stats": "5.0.0+fabric-1.21.11",
       "c2me-fabric": "0.3.7+alpha.0.9+1.21.11",
       "cameraoverhaul": "2.0.6-fabric+mc.1.21.11-plus",
       "capes": "1.5.10+1.21.11",
@@ -169,7 +169,7 @@
       "supermartijn642s-config-lib": "1.1.8-fabric-mc1.21.11",
       "tag-translations-for-jei": "1.21.5-to-1.21.11",
       "talkingheads": "1.1.0+1.21.11+fabric",
-      "tcdcommons": "5.0.0-beta.6+fabric-1.21.11",
+      "tcdcommons": "5.0.0+fabric-1.21.11",
       "threadtweak": "0.1.8",
       "title-fixer": "1.1+1.21.6",
       "totem-bar": "1.0.2",
@@ -209,11 +209,11 @@
       "low-shield-pack": "3.0.0",
       "more-journeymap-waypoints": "1.2",
       "nautilus3d": "V2.6",
-      "recolourful-containers-gui": "3.1",
-      "recolourful-containers-gui-hud-dark": "3.1",
+      "recolourful-containers-gui": "3.1.1",
+      "recolourful-containers-gui-hud-dark": "3.1.1",
       "re-shaded": "1.4.1",
       "small-low-totem": "1.2",
-      "translations-for-sodium": "v6.16.0",
+      "translations-for-sodium": "v7.0.0",
       "theones-eating-animation-pack": "1.0",
       "undopia-3d-ladder": "1.0",
       "visuals": "2.0.2"
@@ -221,8 +221,8 @@
     "datapacks": {},
     "shaderpacks": {
       "retrovision": "1.80.1",
-      "ctrvcr": "v1.4.0",
-      "i-like-vanilla": "v1.3.1",
+      "ctrvcr": "v1.4.3",
+      "i-like-vanilla": "v1.3.3b",
       "miniature-shader": "2.18.10"
     }
   },
