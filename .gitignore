@@ -76,3 +76,5 @@ docs/clips/**/*.mov
 docs/clips/**/*.mp4
 docs/clips/**/*.png
 docs/screenshots/source/**/*.png
+
+backup/
