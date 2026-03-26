@@ -8,6 +8,8 @@ rsync -avi options.txt config/yosbr/options.txt
 # include.json
 [ -d journeymap/config ] && mkdir -p config/yosbr/journeymap && rsync -avi journeymap/config/ config/yosbr/journeymap/config/
 
+[ -d journeymap/server ] && mkdir -p config/yosbr/journeymap && rsync -avi journeymap/server/ config/yosbr/journeymap/server/
+
 mkdir -p config/yosbr/mods
 rsync -avi --include='*.md' --exclude='*' mods/ config/yosbr/mods/
 
