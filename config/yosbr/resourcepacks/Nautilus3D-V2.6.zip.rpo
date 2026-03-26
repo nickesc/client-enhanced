@@ -1,0 +1,79 @@
+{
+    GUI: {
+        MainMenu: false,
+        Buttons: false,
+        Hotbar: false
+    },
+    Redstone: {
+        RedstoneLamp: true,
+        Repeater: true,
+        Comparator: true,
+        Dispenser: true,
+        Dropper: true,
+        Observer: true,
+        Crafter: true,
+        CopperBulb: true
+    },
+    Leaves: {
+        OakLeaves: false,
+        SpruceLeaves: false,
+        BirchLeaves: false,
+        JungleLeaves: false,
+        AcaciaLeaves: false,
+        DarkOakLeaves: false,
+        MangroveLeaves: false,
+        CherryLeaves: false,
+        PaleOakLeaves: false,
+        AzaleaLeaves: false,
+        FloweringAzaleaLeaves: false
+    },
+    Ores: {
+        CoalOre: true,
+        IronOre: true,
+        CopperOre: true,
+        GoldOre: true,
+        RedstoneOre: true,
+        EmeraldOre: true,
+        LapisOre: true,
+        DiamondOre: true,
+        NetherGoldOre: true,
+        NetherQuartzOre: true
+    },
+    Fences: {
+        OakFence: false,
+        SpruceFence: false,
+        BirchFence: false,
+        JungleFence: false,
+        AcaciaFence: false,
+        DarkOakFence: false,
+        MangroveFence: false,
+        CherryFence: false,
+        PaleOakFence: false,
+        BambooFence: false,
+        CrimsonFence: false,
+        WarpedFence: false,
+        NetherBrickFence: false
+    },
+    Vegetation: {
+        Grass: true,
+        Seagrass: true,
+        Wheat: true,
+        Potatoes: true,
+        Carrots: true,
+        Beetroots: true
+    },
+    Misc: {
+        Mace: true,
+        Trident: false,
+        Chest: false,
+        RandomBookshelves: true,
+        Rails: true,
+        RailCorner: "curved",
+        Noteblock: true,
+        Jukebox: true,
+        Ladder: false,
+        Torch: false,
+        Lantern: true,
+        Chain: true
+    }
+}

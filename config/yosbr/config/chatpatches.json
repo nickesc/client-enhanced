@@ -1,0 +1,8 @@
+{
+  "time": false,
+  "compactChat": true,
+  "compactDistance": 1,
+  "boundaryFormat": "\\n---------------\\n\\n&8[&r$&8]\\n",
+  "boundaryColor": "#B0B0B0",
+  "messageDrafting": true
+}

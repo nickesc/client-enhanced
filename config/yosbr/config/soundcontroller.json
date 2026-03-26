@@ -1,0 +1,10 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "subtle_effects:entity.player.snore",
+      "volume": 0.0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "synced": {
+    "allowNotShowInCombat": true,
+    "allowNotShowNameTag": true,
+    "allowNotForceElytraWhenFlying": true
+  }
+}

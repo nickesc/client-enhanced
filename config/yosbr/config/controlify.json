@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "profiles": [
+    {
+      "generic": {
+        "auto_jump": false,
+        "toggle_sprint": true,
+        "toggle_sneak": true,
+        "disable_fly_drifting": false,
+        "guide": {
+          "verbosity": "reduced",
+          "show_ingame_guide": true,
+          "ingame_guide_bottom": true,
+          "show_screen_guides": true
+        },
+        "keyboard": {
+          "show_on_screen_keyboard": true,
+          "hint_cursor": true,
+          "hint_command_suggester": true,
+          "hint_sign_line": true
+        }
+      },
+      "input": {
+        "bindings": {
+          "fabric-key-binding-api-v1:zoomify.key.zoom": {
+            "axis": "controlify:axis/left_trigger"
+          },
+          "controlify:sneak": {
+            "button": "controlify:button/east"
+          },
+          "controlify:radial_menu": {
+            "button": "controlify:button/dpad_up"
+          },
+          "controlify:use": {
+            "button": "controlify:button/west"
+          },
+          "controlify:change_perspective": {},
+          "fabric-key-binding-api-v1:key.jei.showuses": {
+            "button": "controlify:button/west"
+          },
+          "controlify:pick_block": {},
+          "controlify:open_chat": {},
+          "fabric-key-binding-api-v1:key.journeymap.minimap_preset": {
+            "button": "controlify:button/dpad_right"
+          },
+          "voicechat:ptt_toggle": {
+            "button": "controlify:button/misc_1"
+          },
+          "fabric-key-binding-api-v1:key.jei.showrecipe": {
+            "button": "controlify:button/south"
+          },
+          "fabric-key-binding-api-v1:key.journeymap.map_toggle_alt": {
+            "button": "controlify:button/back"
+          },
+          "controlify:swap_hands": {
+            "button": "controlify:button/right_stick"
+          },
+          "fabric-key-binding-api-v1:key.shouldersurfing.toggle_first_person": {
+            "button": "controlify:button/dpad_left"
+          }
+        },
+        "sensitivity": {
+          "horizontal": 1.0,
+          "vertical": 0.9,
+          "vertical_invert": false,
+          "virtual_mouse": 0.4,
+          "reduce_aiming": true,
+          "look_curve": "standard",
+          "is_lce": false,
+          "default_deadzone": 0.12
+        },
+        "radial_menu": {
+          "actions": [
+            "controlify:toggle_hud_visibility",
+            "controlify:open_chat",
+            "controlify:drop_stack",
+            "fabric-key-binding-api-v1:key.voice_chat",
+            "fabric-key-binding-api-v1:iris.keybind.toggleshaders",
+            "fabric-key-binding-api-v1:key.journeymap.fullscreen_waypoints",
+            "fabric-key-binding-api-v1:key.journeymap.fullscreen_create_waypoint",
+            "fabric-key-binding-api-v1:key.emotecraft.fastchoose"
+          ],
+          "button_focus_timeout_ticks": 20
+        },
+        "button_activation_threshold": 0.5,
+        "keep_default_bindings": false
+      },
+      "rumble": {
+        "enabled": true
+      },
+      "hd_haptic": {
+        "enabled": true
+      },
+      "gyro": {
+        "look_sensitivity": 0.0,
+        "relative_mode": false,
+        "invert_pitch": false,
+        "invert_yaw": false,
+        "button_mode": "on",
+        "yaw_mode": "yaw",
+        "flick_stick": false
+      },
+      "bluetooth_device": {
+        "dont_show_warning": false
+      }
+    }
+  ],
+  "global": {
+    "virtual_mouse_screens": [
+      "net.minecraft.class_465",
+      "mezz.jei.gui.recipes.RecipesGui"
+    ],
+    "mixed_input": false,
+    "out_of_focus_input": false,
+    "reach_around": "off",
+    "allow_server_rumble": true,
+    "extra_ui_sounds": true,
+    "notify_low_battery": true,
+    "ingame_button_guide_scale": 1.0,
+    "use_enhanced_steam_deck_driver": true,
+    "keyboard_movement": false,
+    "keyboard_movement_whitelist": [],
+    "seen_servers": [
+      "20.169.243.23"
+    ],
+    "show_splitscreen_ad": true
+  },
+  "devices": {
+    "1320cbb472b419eb7897cd2ec149b86e": {
+      "gyro_calibration": {}
+    }
+  }
+}
