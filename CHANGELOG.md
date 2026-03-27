@@ -1,4 +1,16 @@
+## 2.0.0
+
+- Updated to 1.21.11
+- Complete overhaul of the modpack!
+  - Updated all mods, resource packs, and shader packs to the latest versions
+  - Removed a lot of mods, resource packs, and shader packs
+  - Updated configs
+  - Updated docs
+  - Fixed various issues
+  - Started tracking content with [modpack-lock](https://npmjs.com/package/modpack-lock)
+
 # 1.3.3
+
 - edit changelog script
 - update vanilletix shader
 - update unique dark resource pack
