@@ -121,7 +121,7 @@ Several resource packs are included by default, and you can select between four 
 
 The `Enhanced - Shader Alternative` profile is a version of the `Enhanced` profile that uses Core Shaders. It is only recommended if you have performance issues with standard shaders.
 
-Within each profile, some packs can still be swapped out. To access all packs, including required and hidden ones, select `No Profile`.
+Within each profile, some packs can still be swapped out. To have finer control over all packs, including regularly required and hidden ones, select `No Profile`.
 
 Some packs are disabled by default, including options for GUI dark mode and alternate player animations.
 
