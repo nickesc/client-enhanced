@@ -41,11 +41,11 @@ The sections below cover the major features, but are not exhaustive. For full co
 
 Shaders are supported through [_Iris_](https://modrinth.com/mod/iris), with [_I Like Vanilla_](https://modrinth.com/shader/i-like-vanilla) as the default, which overhauls lighting, shadows, and atmosphere while still looking like the Minecraft you know and love.
 
-[_Camera Overhaul_](https://modrinth.com/mod/cameraoverhaul) adds weight and movement to the camera, so it tilts, sways, and bobs as you move. [_Shoulder Surfing Reloaded_](https://modrinth.com/mod/shoulder-surfing-reloaded) reworks third-person into a proper over-the-shoulder perspective you can actually play in. Also available is a freecam perspective, allowing you to detach the camera for a free-roaming perspective.
+[_Camera Overhaul_](https://modrinth.com/mod/cameraoverhaul) adds more weight and movement to the camera, making it tilt, sway, and bob realistically as you move. [_Shoulder Surfing Reloaded_](https://modrinth.com/mod/shoulder-surfing-reloaded) reworks third-person into a proper over-the-shoulder perspective you can actually play in. A freecam mode is also available, which lets you detach the camera entirely.
 
-Effects and particles have been improved throughout, with tons of new and improved particle effects for blocks, entities, interactions, and more. Player skin and cape rendering have also been updated to be more dynamic and three-dimensional, and new player animations have also been added for first- and third-person views.
+Effects and particles have been improved throughout, with tons of new and improved particle effects for blocks, entities, interactions, and more. Skin and cape rendering are updated to be more dynamic and three-dimensional, and new player animations have been added for first- and third-person views.
 
-Resource packs like [_Nautilus 3D_](https://modrinth.com/resourcepack/nautilus3d) and [_Fresh Animations_](https://modrinth.com/resourcepack/fresh-animations) add 3D detail to block models and give other entities more expressive movement. Other packs update UI elements (including [_icons_](https://modrinth.com/resourcepack/icons) throughout), add more immersive textures, tweak how things are rendered, and more.
+Resource packs like [_Nautilus 3D_](https://modrinth.com/resourcepack/nautilus3d) and [_Fresh Animations_](https://modrinth.com/resourcepack/fresh-animations) add 3D detail to block models and more expressive movement to entities. Other packs update UI elements (including [_icons_](https://modrinth.com/resourcepack/icons) throughout), add more immersive textures, tweak how things are rendered, and more.
 
 <div align="center">
   <img src="docs/clips/cherry/output.avif" alt="Cherry blossom view" width="45%">
