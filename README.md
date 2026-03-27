@@ -110,17 +110,20 @@ Mods like [_Dynamic FPS_](https://modrinth.com/mod/dynamic-fps) and [_Clumps_](h
 
 #### Resource Packs
 
-Included by default are a number of resource packs that can be enabled or disabled to your liking. You'll find three preset profiles in the Resource Pack menu:
+Several resource packs are included by default, and you can select between four preset profiles in the Resource Pack menu:
 
 - `Enhanced`,
-- `Vanilla-Like` and
-- `Vanilla`
+- `Vanilla-Like`,
+- `Vanilla`, and
+- `Enhanced - Shader Alternative`
 
-`Enhanced` includes all recommended packs, while `Vanilla-Like` excludes packs that change things significantly. `Vanilla` is the simplest profile and includes only necessary packs.
+`Enhanced` includes all recommended packs. `Vanilla-Like` drops packs that make significant changes. `Vanilla` includes only the necessary ones.
 
-Even within these profiles, there are still some packs that can be chosen between to fit your needs. To choose between _all_ packs, including packs that are usually required or hidden, select the `No Profile` profile.
+The `Enhanced - Shader Alternative` profile is a version of the `Enhanced` profile that uses Core Shaders. It is only recommended if you have performance issues with standard shaders.
 
-There are also packs disabled by default that provide optional things like dark-mode and different player animations.
+Within each profile, some packs can still be swapped out. To access all packs, including required and hidden ones, select `No Profile`.
+
+Some packs are disabled by default, including options for GUI dark mode and alternate player animations.
 
 #### Shaders
 
