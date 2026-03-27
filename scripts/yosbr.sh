@@ -10,13 +10,8 @@ rsync -avi options.txt config/yosbr/options.txt
 
 [ -d journeymap/server ] && mkdir -p config/yosbr/journeymap && rsync -avi journeymap/server/ config/yosbr/journeymap/server/
 
-mkdir -p config/yosbr/mods
-rsync -avi --include='*.md' --exclude='*' mods/ config/yosbr/mods/
-
 mkdir -p config/yosbr/resourcepacks
-rsync -avi --include='*.md' --include='*.rpo' --exclude='*' resourcepacks/ config/yosbr/resourcepacks/
+rsync -avi --include='*.rpo' --exclude='*' resourcepacks/ config/yosbr/resourcepacks/
 
 mkdir -p config/yosbr/shaderpacks
-rsync -avi --include='*.md' --include='*.txt' --exclude='*' shaderpacks/ config/yosbr/shaderpacks/
-
-rsync -avi .gitignore modpack.json modpack.lock CHANGELOG.md README.md config/yosbr/
+rsync -avi --include='*.txt' --exclude='*' shaderpacks/ config/yosbr/shaderpacks/
