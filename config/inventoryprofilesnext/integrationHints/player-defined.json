@@ -6,12 +6,12 @@
                 "bottom": -3
             },
             "SETTINGS": {
-                "horizontalOffset": 18,
-                "top": 482
+                "horizontalOffset": -3,
+                "top": 192
             },
             "SHOW_EDITOR": {
-                "horizontalOffset": 33,
-                "top": 497
+                "horizontalOffset": -3,
+                "top": 190
             }
         }
     },

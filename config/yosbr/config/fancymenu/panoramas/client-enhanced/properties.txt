@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = client-enhanced
+  speed = 0.5
+  fov = 80.0
+  angle = 10.0
+  start_rotation = 0
+}

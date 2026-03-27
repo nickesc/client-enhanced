@@ -1,0 +1,16 @@
+{
+  "alternativeRecipeBookLayout": false,
+  "alternativeRecipeButton": false,
+  "autoCloseRecipeBook": false,
+  "bounce": true,
+  "centeredInventory": false,
+  "circularScrolling": false,
+  "compactCreativeTabs": false,
+  "creativeTabs": false,
+  "invertScrollDirection": false,
+  "mouseWheelScrolling": false,
+  "quickCraft": false,
+  "recipeBook": true,
+  "ungroupRecipes": false,
+  "unlockAllRecipes": false
+}

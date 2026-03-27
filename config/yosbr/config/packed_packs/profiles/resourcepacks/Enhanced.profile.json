@@ -1,0 +1,170 @@
+{
+  "locked": false,
+  "name": "Enhanced",
+  "overrides": {
+    "continuity:default": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Low Fire.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "vanilla": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Chat Reporting Helper.zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "axolotlbuckets:axolotl-buckets-small": {
+      "hidden": true
+    },
+    "file/Theone\u0027s Eating Animation Pack v1.0.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/SodiumTranslations.zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Low Shield.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "file/More JourneyMap Waypoints v1.2.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "cursors_extended:default": {
+      "hidden": true
+    },
+    "cursors_extended:legacy": {
+      "hidden": true
+    },
+    "hardcover:default_dark_mode": {
+      "hidden": true
+    },
+    "hardcover:vanilla_tweaks": {
+      "hidden": true
+    },
+    "classic_icons": {
+      "hidden": true
+    },
+    "file/Chat+ v.1.3.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "cursors_extended:default_auto": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "subtle_effects:biome_color_water_particles": {
+      "hidden": true,
+      "required": true
+    },
+    "file/visuals-2.0.2.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "white_icons": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Accurate Pumpkin Blur.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "file/FA+Emissive-v1.5.zip": {
+      "position": "TOP"
+    },
+    "naturalwaters:opaque_water": {
+      "hidden": true,
+      "required": true,
+      "position": "TOP"
+    },
+    "file/FA+Spiders-v2.1.zip": {
+      "position": "TOP"
+    },
+    "file/FA+Objects-v2.1.zip": {
+      "position": "TOP"
+    },
+    "file/FA+Classic_Horses-v1.5.zip": {
+      "position": "TOP"
+    },
+    "file/FA+Details-v2.2.zip": {
+      "position": "TOP"
+    },
+    "file/1.21.6 PwS [1.21.x].zip": {
+      "hidden": true,
+      "required": true,
+      "position": "BOTTOM"
+    },
+    "file/Small Low Totem.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "file/Default Trident.zip": {
+      "hidden": true,
+      "position": "TOP"
+    },
+    "file/ReShaded [v.1.4] 1.21.11.zip": {
+      "hidden": true
+    },
+    "file/Chase the Skies.zip": {
+      "hidden": true
+    }
+  },
+  "packIds": [
+    "naturalwaters:opaque_water",
+    "file/Default Trident.zip",
+    "file/FA+Emissive-v1.5.zip",
+    "file/FA+Spiders-v2.1.zip",
+    "file/FA+Objects-v2.1.zip",
+    "file/FA+Classic_Horses-v1.5.zip",
+    "file/FA+Details-v2.2.zip",
+    "file/FreshAnimations_v1.10.4.zip",
+    "file/Gentler Weather Sounds 2.2.0.zip",
+    "file/Undopia_3D_Ladder_1.21.11_v.1.0.zip",
+    "file/Nautilus3D-V2.6.zip",
+    "file/Lively Turtle Helmet.zip",
+    "file/EvenBetterEnchants_v3_1.21.5+.zip",
+    "file/Recolourful Containers 3.1.1 (1.19.4+).zip",
+    "file/Icons v.1.13.2.zip",
+    "axolotlbuckets:axolotl-buckets-small",
+    "file/visuals-2.0.2.zip",
+    "subtle_effects:biome_color_water_particles",
+    "file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip",
+    "file/Theone\u0027s Eating Animation Pack v1.0.zip",
+    "file/More JourneyMap Waypoints v1.2.zip",
+    "file/Accurate Pumpkin Blur.zip",
+    "file/Low Shield.zip",
+    "file/Low Fire.zip",
+    "file/Small Low Totem.zip",
+    "file/Chat+ v.1.3.zip",
+    "file/Chat Reporting Helper.zip",
+    "file/SodiumTranslations.zip",
+    "white_icons",
+    "cursors_extended:default_auto",
+    "continuity:glass_pane_culling_fix",
+    "continuity:default",
+    "file/1.21.6 PwS [1.21.x].zip",
+    "vanilla"
+  ]
+}

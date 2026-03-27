@@ -1,0 +1,77 @@
+# 1.3.3
+- edit changelog script
+- update vanilletix shader
+- update unique dark resource pack
+- update more culling
+- update current game music track
+- update not enough animations
+- update mod menu
+- update full brightness
+- update fancy menu
+- update peek
+- update fabric api
+- update collective
+- update chat notify
+- update c2me
+- update better advancements
+- update gitignore
+- update authme
+- update readme
+- remove simple update checker
+- update resource pack list
+- update readme modlist
+- add it's all connected resource pack
+- add better leaves resource pack
+- add round trees resource pack
+- add low shield and low on fire resource pack
+- add cubic sun resource pack
+- add ctm overhaul resource pack
+- add better flame particles resource pack
+- update unique dark
+- update blue's better monsters
+- update colorful containers
+- update simply upscaled
+- update miniature shader
+- update mellow shader
+- update makeup ultrafast
+- update complimentary shaders
+- removed best vanilla shader
+- update euphoria patcher
+- update sodium
+- update fancy menu and title screen layout
+- reduce shoulder surfing camera distance from player
+- update falling leaves
+- update client tweaks
+- update chat heads
+- update camera overhaul
+- update blur
+- update default shader to lite shaders
+- update immediately fast
+- update gpu tape
+- update fabric language kotlin
+- update balm
+- add changelog script
+- update journeymap
+- update jade
+- update inventory profiles next and libipn
+- update controlify
+- update chest tracker
+- update what did i just kill
+- update sounds
+- update sound controller
+- update simple item editor
+- update shoulder surfing reloaded
+- update searchables
+- update mru
+- ignore backup shoulder surfing configs
+- update modern fix
+- remove cursor anchor
+- add repobeats
+- update gitignore and journeymap config
+- add resource pack permission
+- updating links
+- adding stats
+- updating install instructions
+- hiding sections
+- udated header badges
+- update modpack metadata

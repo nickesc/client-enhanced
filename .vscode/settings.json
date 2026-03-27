@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        ".cache/": true,
+        ".fabric/": true,
+        ".mixin.out/": true,
+        ".replay_cache/": true,
+        "cache/": true,
+        "crash-reports/": true,
+        "data/": true,
+        "fancymenu_data/": true,
+        "jmws/": true,
+        "replay_recordings/": true,
+        "resourcify-temp/": true,
+        "waypoints/": true
+    },
+    "explorer.excludeGitIgnore": false
+}

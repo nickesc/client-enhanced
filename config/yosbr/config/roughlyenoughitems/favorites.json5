@@ -1,0 +1,13 @@
+{
+	"favorites": [
+		"{mode:\"NOT_SET\",type:\"roughlyenoughitems:gamemode\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"CLEAR\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"RAIN\"}",
+		"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NOON\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"EVENING\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NIGHT\",type:\"roughlyenoughitems:time\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

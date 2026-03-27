@@ -1,0 +1,97 @@
+[effect_beacon_tooltips]
+	#Apply a fixed string before every description line.
+	#Supports formatting codes which will also apply to the description for setting custom text colors and styles.
+	#https://minecraft.wiki/w/Formatting_codes
+	#Default Value: §7 ◆ §r
+	tooltip_line_decorations = "§7 ◆ §r"
+	#Add descriptions to item tooltips.
+	#Default Value: ALWAYS
+	#Allowed Values: NEVER, SHIFT, ALWAYS
+	item_descriptions = "ALWAYS"
+
+	[effect_beacon_tooltips.widget_tooltip_lines]
+		#Add the internal id to tooltips.
+		#Default Value: false
+		internal_name = false
+		#Add the name of the source mod to tooltips.
+		#Default Value: false
+		mod_name = false
+		#Add attributes granted by an effect to tooltips.
+		#Default Value: true
+		effect_attributes = true
+		#Add the description to tooltips.
+		#Default Value: true
+		value_description = true
+		#Add the effect name and duration to tooltips.
+		#Default Value: true
+		display_name = true
+
+[effect_item_tooltips]
+	#Display potion effects for consumable item tooltips, such as food or the totem of undying.
+	#Default Value: true
+	consumables_effect_tooltips = true
+	#Add descriptions to item tooltips.
+	#Default Value: ALWAYS
+	#Allowed Values: NEVER, SHIFT, ALWAYS
+	item_descriptions = "ALWAYS"
+	#Apply a fixed string before every description line.
+	#Supports formatting codes which will also apply to the description for setting custom text colors and styles.
+	#https://minecraft.wiki/w/Formatting_codes
+	#Default Value: §7 ◆ §r
+	tooltip_line_decorations = "§7 ◆ §r"
+
+	[effect_item_tooltips.item_tooltip_lines]
+		#Add the internal id to tooltips.
+		#Default Value: false
+		internal_name = false
+		#Add the description to tooltips.
+		#Default Value: true
+		value_description = true
+		#Add the name of the source mod to tooltips.
+		#Default Value: false
+		mod_name = false
+
+	[effect_item_tooltips.item_description_targets]
+		#Add effect descriptions to consumable items (such as rotten flesh and raw chicken).
+		#Default Value: true
+		consumable = true
+		#Add effect descriptions to suspicious stew items.
+		#Default Value: true
+		suspicious_stew = true
+		#Add effect descriptions to totem of undying items.
+		#Default Value: true
+		totem_of_undying = true
+		#Add effect descriptions to potion items.
+		#Default Value: true
+		potion = true
+		#Add effect descriptions to ominous bottle items.
+		#Default Value: true
+		ominous_bottle = true
+
+[effect_widget_tooltips]
+	#Apply a fixed string before every description line.
+	#Supports formatting codes which will also apply to the description for setting custom text colors and styles.
+	#https://minecraft.wiki/w/Formatting_codes
+	#Default Value: §7 ◆ §r
+	tooltip_line_decorations = "§7 ◆ §r"
+	#Add descriptions to item tooltips.
+	#Default Value: ALWAYS
+	#Allowed Values: NEVER, SHIFT, ALWAYS
+	item_descriptions = "ALWAYS"
+
+	[effect_widget_tooltips.widget_tooltip_lines]
+		#Add the internal id to tooltips.
+		#Default Value: false
+		internal_name = false
+		#Add the name of the source mod to tooltips.
+		#Default Value: false
+		mod_name = false
+		#Add attributes granted by an effect to tooltips.
+		#Default Value: true
+		effect_attributes = true
+		#Add the description to tooltips.
+		#Default Value: true
+		value_description = true
+		#Add the effect name and duration to tooltips.
+		#Default Value: true
+		display_name = true

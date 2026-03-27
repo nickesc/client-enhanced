@@ -1,0 +1,19 @@
+## CONFIG IGNORE ##
+
+jade/usernamecache.json
+
+*.toml.bak*
+
+authme.jsonc
+
+resourceful-config-web.json
+
+jei/world/
+
+.puzzle_cache/
+
+inventoryprofilesnext/*/
+
+!inventoryprofilesnext/integrationHints/
+
+sodium-fingerprint.json
