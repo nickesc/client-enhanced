@@ -21,11 +21,9 @@ by nickesc — [GitHub](https://github.com/nickesc) | [Modrinth](https://modrint
 [![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net/)
 [![Check out the Gallery](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/modpack/client-enhanced/gallery)
 
-**_Client-Enhanced_** is an overhaul of the current Minecraft client. Its goal is to keep the game feeling as close to Vanilla as possible while adding a number of improvements, enhancements, and upgrades designed to improve quality of life, visuals, performance, multiplayer, and more.
+**_Client-Enhanced_** is an overhaul of the current Minecraft client. Its goal is to keep the game feeling as close to Vanilla as possible while adding a number of enhancements designed to improve quality of life, visuals, performance, multiplayer, and more.
 
-When you play with **_Client-Enhanced_**, you will only be playing with client-side mods. This means there are no blocks or items added to the game, and no significant additions to the game's mechanics or gameplay. Using this modpack, you should be able to play on Vanilla servers.
-
-Instead, this modpack focuses on improving the way the game looks and feels.
+When you play using **_Client-Enhanced_**, you will only be playing with client-side mods. Nothing adds blocks, items, or new gameplay mechanics. And using this modpack, you should still be able to play on Vanilla servers with friends who aren't using it.
 
 <div align="center">
   <img src="docs/clips/flyover/output.avif" alt="Flyover" width="80%">
@@ -33,11 +31,11 @@ Instead, this modpack focuses on improving the way the game looks and feels.
 
 <br>
 
-> **Caution:** **_Client-Enhanced_** is not necessarily compatible with multiplayer servers even though it is client-side only. Some of the mods included may be flagged by anti-cheat plugins and result in a ban.
+> **Caution:** **_Client-Enhanced_** is not guaranteed to be compatible with all multiplayer servers. Some mods may be flagged by anti-cheat plugins and result in a ban.
 >
-> **_DO NOT_** connect to a server with **_Client-Enhanced_** unless you know that the mods in this modpack are permitted on that server.
+> **_DO NOT_** connect to a server with **_Client-Enhanced_** unless you know the mods in this modpack are permitted on that server.
 
-Below is a list of many of the major features and improvements included in **_Client-Enhanced_**, but it is not exhaustive. For a full list of included content, see the [Mod List](mods/README.md), [Shader Pack List](shaderpacks/README.md), and [Resource Pack List](resourcepacks/README.md).
+The sections below cover the major features, but are not exhaustive. For full content lists, see the [Mod List](mods/README.md), [Shader Pack List](shaderpacks/README.md), and [Resource Pack List](resourcepacks/README.md).
 
 ### Visuals
 
@@ -73,9 +71,9 @@ Player emotes and new first- and third-person animations are also all included, 
 
 ### HUD and User Interface
 
-[_Jade_](https://modrinth.com/mod/jade) shows block and entity information on when you look at something in the world, including providing container previews. The crosshair will also change based on what you're looking at and the tool you're holding. Both of these give you better context at a glance, and allow you to interact with the world with less guesswork.
+[_Jade_](https://modrinth.com/mod/jade) shows block and entity information on when you look at something in the world, including providing container previews. The crosshair will also change based on what you're looking at and the tool you're holding. Both of these give you better context at a glance, and allow you to interact with the world with less guessing.
 
-In your inventory, [_Just Enough Items_](https://modrinth.com/mod/jei) adds item and recipe lookup, and options to sort the inventory and chests have been added to make organization easier and less time consuming.
+In your inventory, [_Just Enough Items_](https://modrinth.com/mod/jei) adds item and recipe lookup, and buttons to sort the inventory and chests have been added to make organization easier and less time consuming.
 
 Player health, armor, and hunger status have been made more compact, and health bars have been added above other entities.
 
