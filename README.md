@@ -73,13 +73,9 @@ Proximity chat, through [_Simple Voice Chat_](https://modrinth.com/mod/simple-vo
 
 [_Just Enough Items_](https://modrinth.com/mod/jei) adds item and recipe lookup in your inventory, and sort buttons in inventory and chest screens make organizing items easier.
 
-The health, armor, and hunger displays are more compact. Health indicators now appear above other entities.
-
 [_JourneyMap_](https://modrinth.com/mod/journeymap) adds a minimap and full-screen map with waypoints, synced to the server when supported.
 
 The Achievement, Statistics, and Command Block screens have cleaner layouts and provide additional information.
-
-The chat interface shows expanded message history, refreshed formatting, and player icons next to messages.
 
 <div align="center">
   <img src="docs/clips/inventory/output.avif" alt="Inventory view" width="45%">
