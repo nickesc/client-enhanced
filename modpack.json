@@ -227,9 +227,9 @@
     }
   },
   "scripts": {
-    "changelog": "./client-enhanced/scripts/update-changelog.sh",
+    "changelog": "./scripts/changelog.sh",
     "yosbr": "./scripts/yosbr.sh",
     "fancyassets": "cp modpack.json config/fancymenu/assets/modpack.json",
-    "sync": "modpack-lock -grq && modpack-lock run yosbr && modpack-lock run fancyassets"
+    "sync": "modpack-lock -grq && modpack-lock run fancyassets && modpack-lock run changelog && modpack-lock run yosbr"
   }
 }
