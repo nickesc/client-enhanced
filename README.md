@@ -127,9 +127,9 @@ Some packs are disabled by default, including options for GUI dark mode and alte
 
 #### Shaders
 
-Client-Enhanced uses the [_I Like Vanilla_](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to access the Shader Pack menu, where you'll also find an option for lower end machines: [_Miniature Shader_](https://modrinth.com/shader/miniature-shader). Different shaders are also enabled for the Nether and End dimensions.
+Client-Enhanced uses the [_I Like Vanilla_](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to open the Shader Pack menu, where you can also select [_Miniature Shader_](https://modrinth.com/shader/miniature-shader) for lower-end machines. Other shaders are enabled automatically in the Nether and End.
 
-Shader selection is enforced using [_Dimension Based Shader Switch_](https://modrinth.com/mod/dimension-based-shaders). Shaders will always be reset to the defaults when the world reloads (death, dimension change, etc.). If you want to use a different shader in any dimension (and you want it to persist across reloads), you can change it in the _Dimension Based Shader Switch_ config, accessed through Mod Menu. If you want to turn off shaders entirely, you can do so in the Shader Pack menu or by pressing <kbd>K</kbd>.
+[_Dimension Based Shader Switch_](https://modrinth.com/mod/dimension-based-shaders) enforces shader selection per dimension. Shaders will reset to defaults on world reload (death, dimension change, etc.). To use a different shader that persists across reloads, change it in the _Dimension Based Shader Switch_ config via Mod Menu. To turn off shaders entirely, use the Shader Pack menu or press <kbd>K</kbd>.
 
 #### Hotkeys
 
