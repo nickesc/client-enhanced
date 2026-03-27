@@ -136,17 +136,15 @@ Client-Enhanced uses the [_I Like Vanilla_](https://modrinth.com/shader/i-like-v
 Several enhancements can be toggled with hotkeys:
 
 - Pressing <kbd>K</kbd> will toggle camera changes, including shaders
-- Pressing <kbd>J</kbd> will toggle many HUD elements, including the minimap and
-  block ID
-- Pressing <kbd>L</kbd> will toggle a couple backend changes like sign
-  click-through and some render culling
+- Pressing <kbd>J</kbd> will toggle many HUD elements, including the minimap and block ID
+- Pressing <kbd>L</kbd> will toggle a couple backend changes like sign click-through and some render culling
 
 </details>
 
 <details>
   <summary>Keybinds</summary>
 
-Default keybinds for **_Client-Enhanced_** (can be customized in the Controls menu):
+Default keybinds (can be customized in the Controls menu):
 
 ![Client-Enhanced Keybindings](docs/graphics/keybinds/keyboard-layout.png)
 
@@ -165,14 +163,9 @@ Default keybinds for **_Client-Enhanced_** (can be customized in the Controls me
 [![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/client-enhanced)
 [![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/nickesc/client-enhanced)
 
-### Requirements:
-
-- Minecraft 1.21.11
-- the [Modrinth App](https://modrinth.com/app) installed
-
 ### Instructions
 
-#### Install from Modrinth (Recommended)
+#### Install from Modrinth (recommended)
 
 1. Open the Modrinth App
 2. Click the <kbd>![Discover Content](docs/icons/discover.svg)</kbd> icon in the sidebar to open the <i>'Discover Content'</i> page
@@ -181,7 +174,7 @@ Default keybinds for **_Client-Enhanced_** (can be customized in the Controls me
 5. Press <kbd>Play</kbd> to launch Minecraft
 
 <details>
-  <summary>Install from GitHub (Manual)</summary>
+  <summary><b>Install from GitHub (manual)</b></summary>
 
 1. Open the Modrinth App
 2. Download the `.mrpack` file from the [latest Release](https://github.com/nickesc/client-enhanced/releases/latest)
