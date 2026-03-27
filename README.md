@@ -54,11 +54,11 @@ Resource packs like [_Nautilus 3D_](https://modrinth.com/resourcepack/nautilus3d
 
 ### Enhancements
 
-[_Controlify_](https://modrinth.com/mod/controlify) adds controller support, elytra flight controls are reworked with more natural pitch-and-roll behavior, and <kbd>Alt</kbd>/<kbd>Option</kbd> is mapped to a zoom function.
+[_Controlify_](https://modrinth.com/mod/controlify) adds controller support and elytra flight controls are reworked with more natural pitch-and-roll behavior.
 
 The sound engine is overhauled -- audio now reacts to the environment with reverb, echo, and occlusion thanks to [_Sound Physics Remastered_](https://modrinth.com/mod/sound-physics-remastered) -- and new sound effects have been added throughout the game.
 
-[_Simple Voice Chat_](https://modrinth.com/mod/simple-voice-chat) adds proximity voice chat on supported servers (push-to-talk by default, with <kbd>Caps Lock</kbd> used to toggle it). Player emotes are also available, and can be synced to the server if supported. [_ViaFabricPlus_](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other Minecraft versions.
+Proximity chat, through [_Simple Voice Chat_](https://modrinth.com/mod/simple-voice-chat), and player emotes are available on supported servers. [_ViaFabricPlus_](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other Minecraft versions.
 
 [_Capes_](https://modrinth.com/mod/capes), [_Ears_](https://modrinth.com/mod/ears), [_Show Me Your Skin!_](https://modrinth.com/mod/show-me-your-skin), and [_Female Gender Mod_](https://modrinth.com/mod/female-gender) add character customization options, from skin details to player model changes.
 
