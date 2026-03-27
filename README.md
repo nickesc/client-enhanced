@@ -69,17 +69,17 @@ The sound engine is overhauled -- audio now reacts to the environment with rever
 
 ### HUD and User Interface
 
-[_Jade_](https://modrinth.com/mod/jade) shows block and entity information on when you look at something in the world, including providing container previews. The crosshair will also change based on what you're looking at and the tool you're holding. Both of these give you better context at a glance, and allow you to interact with the world with less guessing.
+[_Jade_](https://modrinth.com/mod/jade) shows block and entity information when you look at something, including container previews. The crosshair will also change based on what you're targeting and what you're holding.
 
-In your inventory, [_Just Enough Items_](https://modrinth.com/mod/jei) adds item and recipe lookup, and buttons to sort the inventory and chests have been added to make organization easier and less time consuming.
+[_Just Enough Items_](https://modrinth.com/mod/jei) adds item and recipe lookup in your inventory, and sort buttons in inventory and chest screens make organizing items easier.
 
-Player health, armor, and hunger status have been made more compact, and health bars have been added above other entities.
+The health, armor, and hunger displays are more compact. Health indicators now appear above other entities.
 
-[_JourneyMap_](https://modrinth.com/mod/journeymap) adds a minimap and full-screen map with waypoint support, which can be synced to the server if it is supported.
+[_JourneyMap_](https://modrinth.com/mod/journeymap) adds a minimap and full-screen map with waypoints, synced to the server when supported.
 
-The Achievement, Statistics, and Command Block screens have all been overhauled with better layouts and more detailed information.
+The Achievement, Statistics, and Command Block screens have cleaner layouts and provide additional information.
 
-The chat interface has also had its message history expanded, formatting refreshed, and player icons added next to messages.
+The chat interface shows expanded message history, refreshed formatting, and player icons next to messages.
 
 <div align="center">
   <img src="docs/clips/inventory/output.avif" alt="Inventory view" width="45%">
