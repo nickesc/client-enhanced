@@ -54,15 +54,13 @@ Resource packs like [_Nautilus 3D_](https://modrinth.com/resourcepack/nautilus3d
 
 ### Enhancements
 
-Controller support has been added with [_Controlify_](https://modrinth.com/mod/controlify), elytra flight has been reworked with pitch-and-roll behavior, and <kbd>Alt</kbd>/<kbd>Option</kbd> has been mapped to a zoom function.
+[_Controlify_](https://modrinth.com/mod/controlify) adds controller support, elytra flight controls are reworked with more natural pitch-and-roll behavior, and <kbd>Alt</kbd>/<kbd>Option</kbd> is mapped to a zoom function.
 
-The sound engine has also been overhauled — sound reacts to the environment now with reverb, echo, and occlusion, and new sound effects have been added throughout the game.
+The sound engine is overhauled -- audio now reacts to the environment with reverb, echo, and occlusion thanks to [_Sound Physics Remastered_](https://modrinth.com/mod/sound-physics-remastered) -- and new sound effects have been added throughout the game.
 
-[_Simple Voice Chat_](https://modrinth.com/mod/simple-voice-chat) provides proximity voice chat on supported servers (toggle-able push-to-talk by default, with <kbd>Caps Lock</kbd> as the activation key), and [_ViaFabricPlus_](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other versions of the game.
+[_Simple Voice Chat_](https://modrinth.com/mod/simple-voice-chat) adds proximity voice chat on supported servers (push-to-talk by default, with <kbd>Caps Lock</kbd> used to toggle it). Player emotes are also available, and can be synced to the server if supported. [_ViaFabricPlus_](https://modrinth.com/mod/viafabricplus) lets you connect to servers running other Minecraft versions.
 
-Character customization mods like [_Capes_](https://modrinth.com/mod/capes), [_Ears_](https://modrinth.com/mod/ears), [_Show Me Your Skin!_](https://modrinth.com/mod/show-me-your-skin), and [_Female Gender Mod_](https://modrinth.com/mod/female-gender) add more ways to personalize your character, from skin-based customization to player model options.
-
-Player emotes and new first- and third-person animations are also all included, among other enhancements.
+[_Capes_](https://modrinth.com/mod/capes), [_Ears_](https://modrinth.com/mod/ears), [_Show Me Your Skin!_](https://modrinth.com/mod/show-me-your-skin), and [_Female Gender Mod_](https://modrinth.com/mod/female-gender) add character customization options, from skin details to player model changes.
 
 <div align="center">
   <img src="docs/clips/cold/output.avif" alt="Cold view" width="45%">
