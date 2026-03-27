@@ -88,13 +88,15 @@ The chat interface shows expanded message history, refreshed formatting, and pla
 
 ### Optimization and Fixes
 
-[_Sodium_](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [_ImmediatelyFast_](https://modrinth.com/mod/immediatelyfast), [_Entity Culling_](https://modrinth.com/mod/entityculling), and [_More Culling_](https://modrinth.com/mod/moreculling) make additional adjustments to rendering.
+[_Sodium_](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [_ImmediatelyFast_](https://modrinth.com/mod/immediatelyfast), [_Entity Culling_](https://modrinth.com/mod/entityculling), and [_More Culling_](https://modrinth.com/mod/moreculling) handle further rendering optimizations.
 
-Mods like [_Lithium_](https://modrinth.com/mod/lithium), [_FerriteCore_](https://modrinth.com/mod/ferrite-core), [_ModernFix_](https://modrinth.com/mod/modernfix), and others fix a range of performance and optimization issues across the base game.
+[_Lithium_](https://modrinth.com/mod/lithium), [_FerriteCore_](https://modrinth.com/mod/ferrite-core), [_ModernFix_](https://modrinth.com/mod/modernfix), and others patch performance issues and make optimizations across the base game.
 
-Net-code has been improved with mods like [_ModernNetworking_](https://modrinth.com/mod/modernnetworking) and [_Packet Fixer_](https://modrinth.com/mod/packet-fixer).
+Mods like [_ModernNetworking_](https://modrinth.com/mod/modernnetworking) and [_Packet Fixer_](https://modrinth.com/mod/packet-fixer) improve net-code.
 
-[_Dynamic FPS_](https://modrinth.com/mod/dynamic-fps) lowers resource usage when the window is in the background, and [_Clumps_](https://modrinth.com/mod/clumps) merges XP orbs to cut down on entity overhead. [_Debugify_](https://modrinth.com/mod/debugify) and others fix a number of reported issues that Mojang has yet to address.
+Mods like [_Dynamic FPS_](https://modrinth.com/mod/dynamic-fps) and [_Clumps_](https://modrinth.com/mod/clumps) apply targeted optimizations to reduce resource usage in specific situations.
+
+[_Debugify_](https://modrinth.com/mod/debugify) and others fix a number of reported issues that Mojang has not yet patched.
 
 <div align="center">
   <img src="docs/clips/water/output-2.avif" alt="Water view" width="45%">
