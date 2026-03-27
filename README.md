@@ -84,15 +84,7 @@ The Achievement, Statistics, and Command Block screens have cleaner layouts and 
 
 ### Optimization and Fixes
 
-[_Sodium_](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [_ImmediatelyFast_](https://modrinth.com/mod/immediatelyfast), [_Entity Culling_](https://modrinth.com/mod/entityculling), and [_More Culling_](https://modrinth.com/mod/moreculling) handle further rendering optimizations.
-
-[_Lithium_](https://modrinth.com/mod/lithium), [_FerriteCore_](https://modrinth.com/mod/ferrite-core), [_ModernFix_](https://modrinth.com/mod/modernfix), and others patch performance issues and make optimizations across the base game.
-
-Mods like [_ModernNetworking_](https://modrinth.com/mod/modernnetworking) and [_Packet Fixer_](https://modrinth.com/mod/packet-fixer) improve net-code.
-
-Mods like [_Dynamic FPS_](https://modrinth.com/mod/dynamic-fps) and [_Clumps_](https://modrinth.com/mod/clumps) apply targeted optimizations to reduce resource usage in specific situations.
-
-[_Debugify_](https://modrinth.com/mod/debugify) and others fix a number of reported issues that Mojang has not yet patched.
+[_Sodium_](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [_Lithium_](https://modrinth.com/mod/lithium), [_FerriteCore_](https://modrinth.com/mod/ferrite-core), [_ModernNetworking_](https://modrinth.com/mod/modernnetworking) fix performance issues and bugs and make optimizations across the base game.
 
 <div align="center">
   <img src="docs/clips/water/output-2.avif" alt="Water view" width="45%">
