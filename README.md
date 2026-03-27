@@ -133,7 +133,7 @@ Client-Enhanced uses the [_I Like Vanilla_](https://modrinth.com/shader/i-like-v
 
 #### Hotkeys
 
-Many of the enhancements included in this modpack can be toggled using hotkeys:
+Several enhancements can be toggled with hotkeys:
 
 - Pressing <kbd>K</kbd> will toggle camera changes, including shaders
 - Pressing <kbd>J</kbd> will toggle many HUD elements, including the minimap and
