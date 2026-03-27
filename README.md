@@ -110,26 +110,24 @@ Mods like [_Dynamic FPS_](https://modrinth.com/mod/dynamic-fps) and [_Clumps_](h
 
 #### Resource Packs
 
-Several resource packs are included by default, and you can select between four preset profiles in the Resource Pack menu:
+Quite a few resource packs are included, and you can select between four preset profiles in the Resource Pack menu:
 
-- `Enhanced`,
-- `Vanilla-Like`,
-- `Vanilla`, and
+- `Enhanced` -- all recommended packs
+- `Vanilla-Like` -- drops packs that make significant changes
+- `Vanilla` -- only the necessary packs
 - `Enhanced - Shader Alternative`
-
-`Enhanced` includes all recommended packs. `Vanilla-Like` drops packs that make significant changes. `Vanilla` includes only the necessary ones.
 
 The `Enhanced - Shader Alternative` profile is a version of the `Enhanced` profile that uses Core Shaders. It is only recommended if you have performance issues with standard shaders.
 
-Within each profile, some packs can still be swapped out. To have finer control over all packs, including regularly required and hidden ones, select `No Profile`.
-
-Some packs are disabled by default, including options for GUI dark mode and alternate player animations.
+To have finer control over all packs, including regularly required and hidden ones, select `No Profile`.
 
 #### Shaders
 
 Client-Enhanced uses the [_I Like Vanilla_](https://modrinth.com/shader/i-like-vanilla) shader by default. Press <kbd>O</kbd> to open the Shader Pack menu, where you can also select [_Miniature Shader_](https://modrinth.com/shader/miniature-shader) for lower-end machines. Other shaders are enabled automatically in the Nether and End.
 
-[_Dimension Based Shader Switch_](https://modrinth.com/mod/dimension-based-shaders) enforces shader selection per dimension. Shaders will reset to defaults on world reload (death, dimension change, etc.). To use a different shader that persists across reloads, change it in the _Dimension Based Shader Switch_ config via Mod Menu. To turn off shaders entirely, use the Shader Pack menu or press <kbd>K</kbd>.
+> [_Dimension Based Shader Switch_](https://modrinth.com/mod/dimension-based-shaders) enforces shader selection per dimension. Shaders will reset to defaults on world reload (death, dimension change, etc.). To use a different shader that persists across reloads, change it in the _Dimension Based Shader Switch_ config via Mod Menu.
+
+To turn off shaders entirely, use the Shader Pack menu or press <kbd>K</kbd>.
 
 #### Hotkeys
 
