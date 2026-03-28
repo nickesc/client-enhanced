@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>
-      <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Minecraft: Client-Enhanced" src="config/fancymenu/assets/minecraft_title.png" width="70%"></a>
+      <a href="https://modrinth.com/modpack/client-enhanced"><img alt="Minecraft: Client-Enhanced" src="https://github.com/nickesc/client-enhanced/raw/main/config/fancymenu/assets/minecraft_title.png" width="70%"></a>
   </h1>
 </div>
 
@@ -16,7 +16,7 @@ by nickesc — [GitHub](https://github.com/nickesc) | [Modrinth](https://modrint
 
 ## Overview
 
-![Title Screen](docs/screenshots/title.webp)
+![Title Screen](https://github.com/nickesc/client-enhanced/raw/main/docs/screenshots/title.webp)
 
 [![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net/)
 [![Check out the Gallery](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/modpack/client-enhanced/gallery)
@@ -26,7 +26,7 @@ by nickesc — [GitHub](https://github.com/nickesc) | [Modrinth](https://modrint
 When you play using **_Client-Enhanced_**, you will only be playing with client-side mods. Nothing adds blocks, items, or new gameplay mechanics. And using this modpack, you should still be able to play on Vanilla servers with friends who aren't using it.
 
 <div align="center">
-  <img src="docs/clips/flyover/output.avif" alt="Flyover" width="80%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/flyover/output.avif" alt="Flyover" width="80%">
 </div>
 
 <br>
@@ -48,8 +48,8 @@ Effects and particles are improved, with tons of new and improved particle effec
 Resource packs like [_Nautilus 3D_](https://modrinth.com/resourcepack/nautilus3d) and [_Fresh Animations_](https://modrinth.com/resourcepack/fresh-animations) add 3D detail to block models and more expressive movement to entities. Other packs update the user interface, tweak how things are rendered, and more.
 
 <div align="center">
-  <img src="docs/clips/cherry/output.avif" alt="Cherry blossom view" width="45%">
-  <img src="docs/clips/river/output.avif" alt="River view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/cherry/output.avif" alt="Cherry blossom view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/river/output.avif" alt="River view" width="45%">
 </div>
 
 ### Enhancements
@@ -63,8 +63,8 @@ Proximity chat, through [_Simple Voice Chat_](https://modrinth.com/mod/simple-vo
 [_Capes_](https://modrinth.com/mod/capes), [_Ears_](https://modrinth.com/mod/ears), [_Show Me Your Skin!_](https://modrinth.com/mod/show-me-your-skin), and [_Female Gender Mod_](https://modrinth.com/mod/female-gender) add character customization options, from skin details to player model changes.
 
 <div align="center">
-  <img src="docs/clips/cold/output.avif" alt="Cold view" width="45%">
-  <img src="docs/clips/tunnel/output.avif" alt="Tunnel view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/cold/output.avif" alt="Cold view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/tunnel/output.avif" alt="Tunnel view" width="45%">
 </div>
 
 ### HUD and User Interface
@@ -78,8 +78,8 @@ Proximity chat, through [_Simple Voice Chat_](https://modrinth.com/mod/simple-vo
 The Achievement, Statistics, and Command Block screens have cleaner layouts and provide additional information.
 
 <div align="center">
-  <img src="docs/clips/inventory/output.avif" alt="Inventory view" width="45%">
-  <img src="docs/clips/smelting/output.avif" alt="Smelting view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/inventory/output.avif" alt="Inventory view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/smelting/output.avif" alt="Smelting view" width="45%">
 </div>
 
 ### Optimization and Fixes
@@ -87,8 +87,8 @@ The Achievement, Statistics, and Command Block screens have cleaner layouts and 
 [_Sodium_](https://modrinth.com/mod/sodium) replaces the rendering engine with a much faster one, and mods like [_Lithium_](https://modrinth.com/mod/lithium), [_FerriteCore_](https://modrinth.com/mod/ferrite-core), [_ModernNetworking_](https://modrinth.com/mod/modernnetworking) fix performance issues and bugs and make optimizations across the base game.
 
 <div align="center">
-  <img src="docs/clips/water/output-2.avif" alt="Water view" width="45%">
-  <img src="docs/clips/nether/output-2.avif" alt="Nether view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/water/output-2.avif" alt="Water view" width="45%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/nether/output-2.avif" alt="Nether view" width="45%">
 </div>
 
 <br>
@@ -132,14 +132,14 @@ Several enhancements can be toggled with hotkeys:
 
 Default keybinds (can be customized in the Controls menu):
 
-![Client-Enhanced Keybindings](docs/graphics/keybinds/keyboard-layout.png)
+![Client-Enhanced Keybindings](https://github.com/nickesc/client-enhanced/raw/main/docs/graphics/keybinds/keyboard-layout.png)
 
 </details>
 
 <br>
 
 <div align="center">
-  <img src="docs/clips/player/output.avif" alt="Player on a beach" width="80%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/player/output.avif" alt="Player on a beach" width="80%">
 </div>
 
 ## Installation
@@ -154,7 +154,7 @@ Default keybinds (can be customized in the Controls menu):
 #### Install from Modrinth (recommended)
 
 1. Open the Modrinth App
-2. Click the <kbd>![Discover Content](docs/icons/discover.svg)</kbd> icon in the sidebar to open the <i>'Discover Content'</i> page
+2. Click the <kbd>![Discover Content](https://github.com/nickesc/client-enhanced/raw/main/docs/icons/discover.svg)</kbd> icon in the sidebar to open the <i>'Discover Content'</i> page
 3. Search for _`Client-Enhanced`_ and click the <kbd>Install</kbd> button
 4. Allow the modpack to download
 5. Press <kbd>Play</kbd> to launch Minecraft
@@ -180,7 +180,7 @@ Default keybinds (can be customized in the Controls menu):
 <br>
 
 <div align="center">
-  <img src="docs/clips/flight/output.avif" alt="Flyover of the landscape" width="100%">
+  <img src="https://github.com/nickesc/client-enhanced/raw/main/docs/clips/flight/output.avif" alt="Flyover of the landscape" width="100%">
 </div>
 
 <br>
