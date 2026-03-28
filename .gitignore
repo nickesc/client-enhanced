@@ -54,8 +54,6 @@ crash-reports/
 
 backups/
 
-data/
-
 cache/
 
 fancymenu_data/
@@ -80,3 +78,5 @@ docs/screenshots/source/**/*.png
 backup/
 
 WaypointData.dat
+
+release/
