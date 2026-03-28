@@ -173,7 +173,7 @@ Default keybinds (can be customized in the Controls menu):
 
 ## License
 
-**_Client-Enhanced_** is released with _all-rights-reserved_ while in development. For now, please do not redistribute the modpack or the contents of this repository without permission.
+**_Client-Enhanced_** is released under the LGPL-3.0 License. For more information, see the [LICENSE](https://github.com/nickesc/client-enhanced/blob/main/LICENSE) file.
 
 [![Built with modpack-lock](https://img.shields.io/badge/Built%20with-modpack--lock-000000?style=for-the-badge&logo=npm&labelColor=%23202020&color=%231bd96a&logoColor=white)](https://www.npmjs.com/package/modpack-lock)
 
