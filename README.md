@@ -35,7 +35,7 @@ When you play using **_Client-Enhanced_**, you will only be playing with client-
 >
 > **_DO NOT_** connect to a server with **_Client-Enhanced_** unless you know the mods in this modpack are permitted on that server.
 
-The sections below cover the major features, but are not exhaustive. For full content lists, see the [Mod List](mods/README.md), [Shader Pack List](shaderpacks/README.md), and [Resource Pack List](resourcepacks/README.md).
+The sections below cover the major features, but are not exhaustive. For full content lists, see the [Mod List](https://github.com/nickesc/client-enhanced/blob/main/mods/README.md), [Shader Pack List](https://github.com/nickesc/client-enhanced/blob/main/shaderpacks/README.md), and [Resource Pack List](https://github.com/nickesc/client-enhanced/blob/main/resourcepacks/README.md).
 
 ### Visuals
 
