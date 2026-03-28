@@ -6,7 +6,7 @@
   "author": "nickesc",
   "projectUrl": "https://modrinth.com/modpack/client-enhanced",
   "sourceUrl": "https://github.com/nickesc/client-enhanced",
-  "license": "all-rights-reserved",
+  "license": "lgpl-3.0",
   "modloader": "fabric",
   "targetModloaderVersion": "",
   "targetMinecraftVersion": "1.21.11",
