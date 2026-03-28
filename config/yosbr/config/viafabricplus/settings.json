@@ -38,6 +38,7 @@
     "emulate_armor_hud": "auto",
     "hide_modern_command_block_screen_features": "auto",
     "legacy_crop_outlines": "auto",
+    "serverside_place_sounds": "auto",
     "disable_server_pinging": "auto"
   },
   "visual": {
