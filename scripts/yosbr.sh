@@ -15,3 +15,8 @@ rsync -avi --include='*.rpo' --exclude='*' resourcepacks/ config/yosbr/resourcep
 
 mkdir -p config/yosbr/shaderpacks
 rsync -avi --include='*.txt' --exclude='*' shaderpacks/ config/yosbr/shaderpacks/
+
+mkdir -p config/yosbr/data
+rsync -avi data/fabric_default_resource_packs.json config/yosbr/data/fabric_default_resource_packs.json
+
+rsync -avi polytone_options.json config/yosbr/polytone_options.json
