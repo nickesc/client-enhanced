@@ -129,7 +129,7 @@ element {
 
 element {
   interactable = true
-  source = [{"placeholder":"loadername"} {"placeholder":"loaderver"}](https://github.com/FabricMC/fabric-loader)%n%[Client-Enhanced 2.0](https://github.com/nickesc/client-enhanced)
+  source = [{"placeholder":"loadername"} {"placeholder":"loaderver"}](https://github.com/FabricMC/fabric-loader)%n%[Client-Enhanced 2.0.0](https://modrinth.com/modpack/client-enhanced)
   source_mode = direct
   shadow = true
   scale = 1.0
