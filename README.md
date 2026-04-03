@@ -54,7 +54,7 @@ Resource packs like [_Nautilus 3D_](https://modrinth.com/resourcepack/nautilus3d
 
 ### Enhancements
 
-[_Controlify_](https://modrinth.com/mod/controlify) adds controller support and elytra flight controls are reworked with more natural pitch-and-roll behavior.
+[_Controlify_](https://modrinth.com/mod/controlify) adds controller support, and elytra flight controls are reworked with more natural pitch-and-roll behavior.
 
 The sound engine is overhauled -- audio now reacts to the environment with reverb, echo, and occlusion thanks to [_Sound Physics Remastered_](https://modrinth.com/mod/sound-physics-remastered) -- and new sound effects have been added throughout the game.
 
